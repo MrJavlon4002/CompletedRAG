@@ -4,12 +4,15 @@ import requests
 
 API_URL = "http://0.0.0.0:8000/ask"
 
-def chatbot_ui(input_text, history, session_id):
-    if session_id == "":
-        session_id = str(uuid.uuid4())
-    
+session_id = str(uuid.uuid4())
+print(f"Session ID: {session_id}")
+
+def chatbot_ui(input_text, history):
+    """
+    Handles user input and returns a response from the API.
+    """
     payload = {
-        "session_id": session_id,
+        "session_id": session_id, 
         "query": input_text
     }
     
@@ -23,15 +26,14 @@ def chatbot_ui(input_text, history, session_id):
         output = f"An error occurred: {str(e)}"
     
     history.append((input_text, output))
-    return history, history, session_id, ""
+    return history, ""
 
 with gr.Blocks() as demo:
     chatbot = gr.Chatbot()
     msg = gr.Textbox(label="Ask a question")
-    session_id = gr.State("")
     clear = gr.Button("Clear")
 
-    msg.submit(chatbot_ui, [msg, chatbot, session_id], [chatbot, chatbot, session_id, msg])
+    msg.submit(chatbot_ui, [msg, chatbot], [chatbot, msg])
     clear.click(lambda: None, None, chatbot)
 
 demo.launch(share=True)

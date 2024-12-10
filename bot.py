@@ -15,6 +15,8 @@ voyageAi = VoyageEmbeddings(api_key=api_keys.voyage_api_key, model="voyage-multi
 
 def query_core_data(query: str, top_k: int = 5) -> str:
     """Query the core database."""
+
+    # print(f"### {query} ####")
     query_embedding = voyageAi.embed_text(texts=[query])[0]
     results = core_db.query(query_embedding, top_k)
     return "\n".join([result.payload.get("text", "No payload found") for result in results])
@@ -31,7 +33,7 @@ def ask_question(session_id: str, user_input: str) -> str:
     response = answer_question(context, standalone_question)
 
     append_to_session_history(session_id, user_input, response)
-    return response
+    return str(response)
 
-if __name__ == "__main__":
-    print(ask_question("111", "UIC qanday kompaniya?"))
+# if __name__ == "__main__":
+    # print(ask_question("1132", "Ismim javlon faamiliyam Valiev, 2 yillik tajribam bor, HTML CSS JS Vue Js typescript tailwind Fast API va shu kabilarni bilaman"))

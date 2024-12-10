@@ -31,7 +31,7 @@ class QdrantDatabase:
                 ],
             )
 
-    def query(self, query_embedding: list[float], top_k: int = 5) -> list[ScoredPoint]:
+    def query(self, query_embedding: list[float], top_k: int = 3) -> list[ScoredPoint]:
         return self.client.search(
             collection_name=self.collection_name,
             query_vector=query_embedding,
