@@ -1,0 +1,34 @@
+services:
+  web:
+    build: ./application
+    container_name: django_app
+    volumes:
+      - ./application:/app:z
+      - static_volume:/app/static
+      - media_volume:/app/media
+    ports:
+      - "8000:8000"
+    depends_on:
+      - weaviate
+    environment:
+      - DJANGO_SETTINGS_MODULE=core.settings
+
+  weaviate:
+    image: cr.weaviate.io/semitechnologies/weaviate:1.28.4
+    restart: unless-stopped
+    ports:
+      - "8080:8080"  # <== BU YERDA PORTNI TO'G'RILAYMIZ
+      - "50051:50051"
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25000
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      CLUSTER_HOSTNAME: 'node1'
+      ENABLE_MODULES: 'text2vec-voyageai'
+
+volumes:
+  weaviate_data:
+  static_volume:
+  media_volume:
