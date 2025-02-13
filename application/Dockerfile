@@ -1,5 +1,5 @@
 # Base image
-FROM python:3.10
+FROM python:3.12
 
 # Set the working directory in the container
 WORKDIR /app
@@ -10,16 +10,15 @@ COPY core /app/core/
 COPY app /app/app/
 COPY entrypoint.sh /entrypoint.sh
 
-# Copy CompletedRAG project
-COPY CompletedRAG /app/CompletedRAG/
+# Copy RAG project
+COPY RAG /app/RAG/
 
-# Combine requirements.txt from both locations
-COPY requirements.txt /app/requirements_main.txt
-COPY CompletedRAG/requirements.txt /app/requirements_rag.txt
+# Copy the single requirements.txt file
+COPY requirements.txt /app/requirements.txt
 
-# Install dependencies from both requirements files
-RUN pip install --no-cache-dir -r requirements_main.txt \
-    && pip install --no-cache-dir -r requirements_rag.txt
+# Upgrade pip and install dependencies
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
 # Make entrypoint executable
 RUN chmod +x /entrypoint.sh

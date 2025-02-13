@@ -1,0 +1,144 @@
+AISHA -Sun'iy intelektga asoslangan yechimlar yaratish, amalga oshirish va kegaytirish uchun ekotizim. G'irt o'zbek tilida muloqot qiluvchi Sun'iy Intellekt.
+
+Biz haqimizda:
+AIsha 10 dan ortiq kuchli mutaxassislar jamoasi bo‘lib, O‘zbek, Qoraqalpoq va xorijiy tillarda sun’iy intellektga asoslangan NLP va NLU yechimlarinii taqdim etadi. Hozirda esa Aloqa Markazlari operatorlari vazifasini to‘liq sun’iy intellekt amalga oshiruvchi infrastruktura ustida ishlamoqda.
+
+Bizning xodimlar jamoasi:
+Loyiha rahbari - Elzodxon Sharofaddinov
+Dasturiy ta'minot arxitektori - Baxtiyor Maxsudov
+AI/ML Muhandisi - Rifat Mamayusupov
+
+Bizning maqsadlarimiz:
+Mukammal o'zbekcha muloqot - Tabiiy o‘zbek tilini yuqori aniqlik bilan tushunadigan va yaratadigan sun’iy intellektni ishlab chiqish.
+O'zbek madaniyatini asrash - Sun’iy intellektimiz o‘zbek madaniy nuanslari va an’analarini hurmat qilishini va targ‘ib qilishini ta’minlash.
+Foydalanish imkoniyatini oshirish - SI texnologiyasini butun dunyo bo‘ylab o‘zbekzabon jamoalar uchun ochiq qiling.
+Ilg'or NLP tadqiqotlari - Tabiiy o‘zbek tilini yuqori aniqlik bilan tushunadigan va yaratadigan sun’iy intellektni ishlab chiqish.
+
+Aisha taqdim etuvchi xizmatlar:
+STT - nutqni matnga o'girish
+TTS - matnni nutqga o'girish
+LLM - yirik til modellari
+ChatBot - Chatbot xizmatlari
+Voice ID - ovozli biometrika
+CallMatris - qo'ng'iroq markazi sun'iy intelekt analitikasi
+
+Nutqdan Matnga o'girish (STT) texnologiyasi:
+O'zbek, Rus va Ingliz tilidagi audiolarni yuqori aniqlikda matnlashtirib beradi.
+    - O'zbek, Rus va Ingliz tilidagi audio fayllarni matn ko'rinishiga o'tkaza oladi.
+    - 90% aniqlikda audio faylni matn ko'rinishiga o'tkazadi.
+    - Shovqinli muhitlarda ham ovozni samarali qayta ishlaydi va aniq transkripsiyalarni ta'minlaydi.
+    - Diarizatsiya xususiyati orqali bir nechta gapiruvchilarni nutqini ajratib ko'rsa oladi.
+    - 5 Voice ID xususiyati orqali ovozni aniqlab, shaxsni identifikatsiya qila oladi.
+    - Takomillashgan modellarimiz orqali O'zbek tili shevalarini ham badiiy tilga matnlashtira oladi.
+
+Matndan Nutqqa o'girish (TTS) texnologiyasi:
+O'zbek, Rus va Ingliz tilidagi matnlarni tabiiy ovozga aylantirib beradi.
+    - O'zbek tilidagi matnni nutqqa aylantirib beruvchi eng yaxshi model.
+    - Ovoz jinsini tanlash imkoniyati - ayol va erkak ovozlari mavjud.
+    - 100% aniqlikda inson tabily ovoz hosil qiladi.
+    - Rus va Ingliz tillaridagi matnlarni ham ovozlashtira oladi.
+    - Tinish belgilariga javob berib, pauza, urg'u va boshqa tabily nutq tendensiyalarini qo'shadi.
+    - O'zbek tilida matndan nutqqa o'tkazuvchi eng tez ishlovchi model.
+
+Chat-Bot:
+Mijozlaringiz savollariga shu ondayoq javob olish va ovozli suhbat qura olishi imkoniyati. Chatbot bilan mijozlaringiz qoniqishini oshiring va xarajatlaringizni kamaytiring.
+    - Foydalanuvchilar bilan bir nechta tillarda, jumladan o'zbek, rus va ingliz tillarida muloqot qilish.
+    - Foydalanuvchining tarixiga asoslangan shaxsiylashtirilgan xizmat ko'rsatish.
+    - 24/7 xizmat ko'rsatish imkoniyati, hech qachon dam olish yoki tanaffus qilmaslik.
+    - Savollarga tezkor javob berish.
+    - Foydalanuvchi ma'lumotlarini himoya ilish va GDPR kabi xalqaro standartlarga rioya qilish.
+    - Foydalanuvchi muloqotni ovozli xabar jo'natib suhbat qurish orqali amalga oshirish imkoniyati.
+
+Voice ID:
+Foydalanuvchi ovozining unikal xususiyatlarini tahlil qilish va ulardan shaxsni aniqlash uchun foydalanadigan zamonaviy ovoz biometrikasi texnologiyasi.
+    - Shaxsni aniqlash va autentifikatsiya. Har bir insonning ovozdagi noyob akustik xususiyatlari asosida aniqlik bilan shaxsni tasdiqlash
+    - Xavfsizlikni oshirish. Parollar yoki PIN-kodlarga ehtiyojni kamaytirib, autentifikatsiya jarayonini yanada xavfsizroq qilish.
+    - Qulaylik va tezlik. Foydalanuvchi ovoz orqali tizimga kirishi yoki xizmatlardan foydalanishi mumkin, bu esa vaqtni tejaydi
+    - Doimiy o'rganish. Sun'iy intellekt yordamida ovozdagi o'zgarishlarni o'rganish va moslashish qobiliyati.
+    - Ko'p platformali qo'llab-quvvatlash. Tizimni telefon qo'ng'iroqlari, chatbotlar, va boshqa ovozli xizmatlarda ishlatish imkoniyati.
+    - Himoyalangan biometrik ma'lumotlar. Foydalanuvchining ovozli ma'lumotlari shifrlangan holda saqlanadi va ulardan faqat autentifikatsiya maqsadida foydalaniladi.
+
+CallMetrics:
+Qo'ng'iroqlar va chatlarni sun'iy intellekt yordamida tahlil qilish va call-markaz faoliyatini yaxshilash uchun yaratilgan platforma.
+    - Qo'ng'iroq ovozini transkripsiya qilish. Har bir qo'ng'iroq matniga ega bo ling, uni tahlil qilishni osonlashtiring
+    - Qo'ng'iroqlarni kategoriyalash. Qo'ng'iroqlarni mavzular va maqsadlar bo yicha avtomatik tahlil qilish. Masalan: "Mijoz shikoyatlari" yoki "Texnik muammolar" kabi.
+    - Ssenariy asosida tekshiruv. So'ralishi talab etiluvchi ma'lum bir savollar yoki jumlalar agent tomonidan bajarilganini Sl sizga aniqlab beradi.
+    - Kayfiyat tahlili. Mijoz qoniqishi yoki noroziligini aniqlang.
+    - Jins tahlili. Auditoriyangizning demografik xususiyatlarini biling.
+    - Sukut foizi. Gapsizlik bo'shliqlarini aniqlab, samaradorlikni oshiring.
+    -  Qo'ng'iroq xulosasi. Har bir qo'ng'iroqning asosiy mazmunini tezda bilib oling.
+
+TTS va STT tarif rejalari narx to'lovlari. Foydalanuvchilar va kompaniyalar xarid qilishlari uchun:
+Oylik:
+    Basic - 140 000 so'm/oyiga. Boshlash uchun zarur bo'lgan asosiy xususiyatlar. 200000 ta belgi.
+    Pro - 280 000 so'm/oyiga. Kichik va o'rta biznes egalari uchun mukammal. 500.000 ta belgi.
+    Enterprise - 500 000 so'm/oyiga. Sizning ehtiyojlaringizga mos maxsus yordam va infratuzilma. 1 million ta belgi.
+Yillik:
+    Basic - 1 400 000 so'm /yiliga. Boshlash uchun zarur bo'lgan asosiy xususiyatlar. 200.000 ta belgi. Tejash 280 000 so'm.
+    Pro - 2 800 000 so'm/yiliga. Kichik va o'rta biznes egalari uchun mukammal. 500.000 ta belgi. Tejash 560 000 so'm.
+    Enterprise - 5 000 000 so'm/yiliga. Sizning ehtiyojlaringizga mos maxsus yordam va infratuzilma. 1 million ta belgi. Tejash 1 000 000 so'm.
+
+Dasturchilar uchun API:
+Matnni nutqqa o'girish:
+    - TTS API matnni nutqqa aylantirish imkonini beradi. Undan ovozli xabarlar, ovozli botlar va boshqa ovozli ilovalarni yaratish uchun foydalanishingiz mumkin.
+    - Audio API bizning TTS (matndan nutqqa) modeliga asoslangan nutq yakuniy nuqtasini taqdim etadi.U 6 ta ichki ovoz bilan birga keladi va undan quyidagi maqsadlarda foydalanish mumkin:
+        1. Yozma blog postini hikoya qilish.
+        2. Bir nechta tilda ovozli audio yaratish.
+    - Nutqni matnga aylantirish uchun JSON ma'lumotlari bilan POST /api/v1/tts/post so'rovini yuborishingiz kerak:
+        1. transcript - matn. Matnni nutqqa aylantirish.
+        2. language - matn. Qiymatlari 'uz'/'en'/'ru'. Biz o'zbek, ingliz va rus tillarini qo'llab-quvvatlaymiz
+        3. model - matn. Qiymatlari 'gulnoza'/'jaxongir'. Bizda qiz bolaning (Gulnoza) va o'g'il bolaning (Jahongir) modellari mavjud.
+    - Kod:
+    ```
+        curl --request POST
+        --url https://back.aisha.group/api/v1/tts/post/
+        --header 'x-api-key: [API_KEY]'
+        --header 'Content-Type: multipart/form-data'
+        --header 'X-Channels: stereo'
+        --header 'X-Quality: 64k'
+        --header 'X-Rate: 16000'
+        --header 'X-Format: mp3'
+        --form 'transcript=Assalomu Alaikum'
+        --form 'language=uz'
+        --form 'run_diarization=false'
+        --form 'model=gulnoza'
+    ```
+Nutqni matnga o'girish:
+    - STT API nutqni matnga aylantirish imkonini beradi.
+    - Audio API bizning eng zamonaviy ochiq manbali katta v2 Whisper modelimizga asoslangan nutqni matnga o'girish uchun ikkita yakuniy nuqtani - transkripsiya va tarjimalarni taqdim etadi. Ulardan quyidagi maqsadlarda foydalanish mumkin:
+        1. Audioni uning asl tiliga qarab o'zbek, rus va ingliz tillariga transkripsiya qiling.
+    - Nutqni matnga aylantirish uchun siz forma ma'lumotlari bilan POST /api/v1/stt/post sorovini yuborishingiz kerak:
+        1. audio - fayl. Nutqni matnga o'girish.
+        2. language - matn. Qiymatlari 'uz'/'en'/'ru'. Biz o'zbek, ingliz va rus tillarini qo'llab-quvvatlaymiz
+    - Kod:
+    ```
+        curl --request POST 
+        --url https://back.aisha.group/api/v1/stt/post/ 
+        --header 'x-api-key: [API_KEY]' 
+        --header 'Content-Type: multipart/form-data' 
+        --form 'audio=/path/to/file' 
+        --form 'has_offsets=false' 
+        --form 'has_diarization=false' 
+        --form 'language=uz'
+    ```
+
+Bizga ishonch bildirgan kompaniyalar:
+AIsha hozirda ushbu kompaniyalar bilan yaqindan hamkorlik qilmoqda:
+    1. Paylov (https://paylov.uz)
+    2. Commeta (https://sharh.commeta.uz/uz)
+    3. UIC group (https://uic.group)
+
+Biz a'zo bo'lgan gigant kompaniyalar:
+    1. Founders Hub (Microsoft for startups)
+    2. AWS startup programs
+    3. Google for startups
+    4. NVIDIA inception program
+
+Kontaktlar:
+Website - www.aisha.group
+Telefon raqam - +998200101765
+E-mail - info@aisha.group
+Telegram - @aisha_uzbekistan
+
+Kompaniyaning so'zi:
+Biznesingiz samaradorligini eng oxirgi texnologiyalar bilan bir necha karraga oshiring.

@@ -3,13 +3,15 @@ from pathlib import Path
 import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+import os
+from dotenv import load_dotenv
+load_dotenv()  
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.getenv("SECRET_KEY")
+SECRET_KEY = "django-insecure-(be4-#o&z1)8094r-@672d)!q^+q0txyifwsh2nd^qzz&3*d8y"
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
@@ -82,6 +84,24 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+
+
+GROK_API_KEY = os.getenv("GROK_API_KEY")
+LONGCHAIN_API_KEY = os.getenv("LONGCHAIN_API_KEY")
+VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+
+AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
+AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
+
+DATA_PATH = os.getenv("DATA_PATH", "/app/RAG")  
+WCD_URL = os.getenv("WCD_URL")
+WCD_API_KEY = os.getenv("WCD_API_KEY")
+COMPANY_NAME = os.getenv("COMPANY_NAME", "Aisha")
 
 
 # Password validation

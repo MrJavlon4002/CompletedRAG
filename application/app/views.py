@@ -3,10 +3,10 @@ from app.serializers import ModelSerializers
 from rest_framework import viewsets,status
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
-from CompletedRAG.bot import ask
+from RAG.bot import ask
 
 
-class ModelViewset(viewsets.ModelViewSet):
+class ModelViewset(viewsets.ViewSet):
     queryset = Model.objects.all()
     serializer_class = ModelSerializers
     permission_classes = [AllowAny]
@@ -20,6 +20,7 @@ class ModelViewset(viewsets.ModelViewSet):
 
         response_data = []
         for part in ask(session_id=session_id, user_input=user_input, company_name=company_name):
+            print(part)
             response_data.append(part)
 
         return Response({"response": response_data}, status=status.HTTP_200_OK)

@@ -1,0 +1,571 @@
+This document is about “United IT Company”
+
+About UIC company:
+United IT Company(UIC) - a new approach and a modern quality assurance. Open areas of activity, relevant projects, an advanced team, active employees, quality products, reliable partners, comfortable working conditions, high salaries, a company with its representatives throughout the country - this is the opinion of PM employees and company partners. UIC is not a classic IT company. That is, we are not limited to a specific area. We are engaged in robotics, digital marketing, game development, technical support of various software systems. The “United IT Company” team values ​​​​quality over financial interests. That is, we work with people, not computers. The comments given by our clients also confirm that UIC responsibly approaches the tasks and responsibilities entrusted to it, maintains a harmonious teamwork process. After all, we strive to become a leading team in the IT field by creating trends, not chasing them, and operating based on international standards. The projects we have created to date are proof of these words, and for you, proof that we are an undeniable choice. Every large company should be grateful not only to itself, but also to those who stand by it and trust it. Because the most important principle in our work is trust. The comments given by our clients also confirm that UIC responsibly approaches the tasks and responsibilities entrusted to it, and maintains a harmonious teamwork process. After all, we strive to become a leading team in the IT field by creating trends, not chasing them, and operating based on international standards. The projects we have created to date are proof of these words, and for you, proof that we are an undeniable choice.
+
+History of UIC: UIC's full name is United IT Company, founded on October 8, 2020. According to the director (founder) of UIC, Murodkhodja Muratov, the company's philosophy is to form a team that meets international standards in the IT sector of Uzbekistan, to create opportunities for young programmers to work on themselves and at the same time get a formal job, and to lead the company to a prominent place on the world IT stage.\n,
+
+When UIC was founded, the team consisted of only 10 people, but now the team has 100+ specialists. These people believed in the company's goal and sought to contribute to the development of the project. To this day, these people, remaining loyal to the company, continue to develop their teams in various areas (Backend, Frontend, QA, Mobile, Analytics, Marketing Team, etc.).
+
+Currently, our company offers its IT solutions in 9 main areas,
+Logo and branding - Development of a unique and unique logo for your project and its branding rules
+CRM and ERP systems - Development of electronic management systems that automate business and processes, reduce clerical work by up to 100%
+Mobile applications - Development of mobile applications of any complexity and their technical support.
+Media products - Professional preparation of 2D/3D animation, project presentations, advertising, video materials and other media resources
+Websites - We develop websites of any complexity, from corporate websites to web applications, with a quality guarantee
+UI / UX design - Development of a project MindMap and drawing designs with optimal solutions based on this architecture.
+Game development,
+Artificial intelligence,
+Cybersecurity,
+
+A brief description of Kompany:
+-In a word, a team with years of experience, UIC Group offers its services in all aspects of the IT world of any complexity in Uzbekistan. UIC Group is a destination for projects that have their own values ​​and do not pass without quality control. Every opportunity and requirement in our company serves to meet the needs of our customers with the highest standards. Our company is ready to serve customers not just as customers, but as lifelong partners with the best offers!,
+-Every large company should be grateful not only to itself, but also to those who stand shoulder to shoulder with it and trust it. After all, the most important principle in our work is trust.,
+- Trust not only ensures the loyalty of customers and partners, but also increases the demand for ourselves. We cooperate on the basis of relationships built on long-standing traditions of humanity.,
+- Quick solutions. Unique projects.
+
+Where is UIC?
+
+Company Address:
+1-Address: Uzbekistan, Tashkent, Shaykhontohur district, Adham Rahmat street - 15/1
+2-Address: 50 Chumasero Dr 2A San Francisco
+
+Contact or get in touch with UIC:
+UIC contact details:
+Email: info@uic.group
+Company phone number:
++998 71 200 70 07 (uz)
++1 331 481-1908 (us)
+
+Vacancies at UIC:
+Working hours at UIC: Monday–Friday, 9:00–18:00
+
+List of vacancies:
+- Flutter developer - Monthly salary: 10 000 000 - 20 000 000 UZS
+- Frontend developer (React.js) - Monthly Salary: 10,000,000 - 20,000,000 UZS
+- Frontend developer (VueJS) - Monthly Salary: 10,000,000 - 20,000,000 UZS
+- Backend developer (Odoo framework) - Monthly Salary: 10,000,000 - 25,000,000 UZS
+- UI/UX designer - Monthly Salary: 10,000,000 - 15,000,000 UZS
+- QA Engineer - Monthly Salary: 10,000,000 - 20,000,000 UZS
+- AI Engineer - Monthly Salary: 5,000,000 - 25,000,000 UZS
+- HR manager - Monthly Salary: 10,000,000 - 20 000 000 UZS
+- Project Manager - Monthly Salary: 8 000 000 - 14 000 000 UZS
+- Sales Manager - Monthly Salary: 10 000 000 - 20 000 000 UZS
+- Backend developer (Python) - Monthly Salary: 10 000 000 - 18 000 000 UZS
+- Accountant - Monthly Salary: 8 000 000 - 10 000 000 UZS
+
+
+Job Title: Flutter Developer
+Monthly Salary: 10,000,000 - 20,000,000 UZS
+Link: https://uic.group/vacancy/19
+More information:
+Requirements
+Develop cross-platform mobile applications using Flutter;
+Optimize user interface performance and responsiveness;
+Integration with backend services and API interactions;
+Participate in planning and architecture discussions;
+Maintain and update mobile applications in accordance with new requirements and standards.
+Tasks
+At least 1 year of experience in developing mobile applications using Flutter;
+Experience with Flutter v2.5+ and Dart v2.15+;
+Ability to create user interface elements at different levels;
+Experience with management (BLoC, Cubit, etc.);
+Ability to work with Rest API, GraphQL, WebSocket;
+Ability to use animations;
+Writing code based on the principles of clean architecture and clean code;
+Understanding of SOLID, Dry, Kiss principles;
+Proper use of development environments (Android Studio, Xcode, Visual Studio Code, etc.);
+Knowledge of Git, Github, Gitlab;
+Experience with task management tools (Jira, Notion, etc.);
+Ability to manage Google Play, AppStore and AppGallery applications, add new applications, update existing ones, troubleshoot issues with updates;
+Experience with PlatformChannels (MethodChannel, EventChannel);
+Native development: Android - Kotlin, iOS - Swiss;
+Understanding of GitFlow and Trunk-based development;
+Ability to use debugging and performance tools (Firebase Crashlytics, Sentry, Flutter Inspector).
+Requirements
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+A modern office with amenities for work;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: Frontend developer (React.js)
+Monthly Salary: 10,000,000 - 20,000,000 UZS
+Link: https://uic.group/vacancy/24
+More information:
+Requirements
+Develop high-quality user interfaces using React.js and related technologies;
+Create and maintain extensible interface components;
+Integrate the frontend with backend services and APIs;
+Optimize performance and improve user experience;
+Work closely with designers and other team members to achieve overall project goals.
+Responsibilities
+Support and improve existing projects, as well as implement new features;
+Teamwork with other developers, QA testers, backend developers and UI/UX designers.
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00.
+Corporate education and training;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with amenities for work;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Job Title: Backend Developer (Odoo Framework)
+Monthly Salary: 10,000,000 - 25,000,000 UZS
+Link: https://uic.group/vacancy/22
+More information:
+Requirements
+At least 1 project in the Odoo framework
+Excellent knowledge of the Python programming language;
+Knowledge of PostgreSQL or other relational databases;
+Experience in developing and configuring Odoo modules;
+Ability to adapt existing functions or create new ones according to customer requirements;
+Good understanding of business processes and capabilities of ERP systems;
+Skills in working with web technologies: HTML, CSS, JavaScript;
+Communication skills and teamwork;
+Ability to effectively analyze customer requirements and propose optimal solutions.
+Tasks
+Development and support of functionality using the Odoo framework;
+Customization of existing modules and creation of new ones according to business requirements;
+Analysis of the client's business processes and offer optimal solutions based on the Odoo framework;
+Participation in the implementation and configuration of the ERP system for clients;
+Testing the developed modules and ensuring their quality;
+Support of the developed solutions after implementation;
+Interaction with clients to clarify requirements and solve problems;
+Independent study of new features and functionalities of the Odoo framework.
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with comfortable working conditions;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+For more information about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: UI/UX designer
+Monthly Salary: 10,000,000 - 15,000,000 UZS
+Link: https://uic.group/vacancy/12
+More information:
+
+Requirements
+Experience in interface design (UI) and user experience (UX);
+Knowledge of design tools such as Sketch, Figma, Framer, Adobe Family (PS, AI) or other analogues;
+Understanding of design principles and methodologies, including typography, color scheme, composition and visual hierarchy;
+Experience in creating mockups for mobile devices and understanding their design features;
+Ability to communicate effectively with different team members.
+Responsibilities
+Develop user interfaces (UI) taking into account modern trends and design standards;
+Create mockups, prototypes and visualizations for web and mobile applications;
+Work with the product team and developers to ensure design integrity and user experience;
+Participate in user interface testing and user experience optimization;
+Participate in the process of creating brands and their visual elements.
+Requirements
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive environment in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with working conditions;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Job Title: QA Engineer
+Monthly Salary: 10,000,000 - 20,000,000 UZS
+Link: https://uic.group/vacancy/27
+More information:
+Requirements
+Experience in software testing.
+Knowledge of testing methodologies and understanding of the software development lifecycle.
+Experience in writing test cases and test plans.
+Understanding of test automation fundamentals and experience working with automation tools (e.g. Selenium, Appium, JUnit, TestNG).
+Willingness to learn new testing technologies and methodologies.
+Knowledge of software testing theory (methods, techniques);
+Knowledge of the basics of software development, methodology;
+Knowledge of network fundamentals, understanding of client-server architecture, REST API, HTTP;
+Proficiency in Postman, Jira;
+Responsibilities
+At least 1 year of work experience.
+Plan and design test cases in accordance with product requirements.
+Perform functional, regression, integration and other types of tests.
+Automate tests using modern tools and frameworks.
+Identify, document and track defects in the bug tracker.
+Interact with developers, analysts and other team members to ensure a quality product release.
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00.
+Corporate education and training.
+Opportunity to work with a professional team to develop interesting projects.
+Friendly and supportive environment in the team, regular team events, team building, including marathons and quizzes
+The company provides its hardworking employees with the most modern and high-quality equipment for work.
+Modern office with working amenities.
+Timely salary, including a bonus system for excellent results
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: AI Engineer
+Monthly Salary: 5,000,000 - 25,000,000 UZS
+Link: https://uic.group/vacancy/28
+More information:
+Requirements
+Development and improvement of learning models for speech recognition and natural language processing adapted to the Uzbek language.
+Work on and develop Text-to-Speech (TTS) and Speech-to-Text (STT) models
+Work with linguists and language experts to incorporate linguistic features and dialects into the models.
+Responsibilities
+Experience in speech recognition and natural language processing.
+Experience with Python and TensorFlow, PyTorch or similar ML frameworks.
+Deep understanding of data collection, cleaning, and preprocessing techniques.
+Excellent problem-solving skills and the ability to work independently and in a team.
+Requirements
+Be part of a cutting-edge project aimed at improving communication technology for Uzbek speakers.
+Work in a dynamic and collaborative environment with opportunities for professional growth.
+Competitive salary and benefits package.
+Opportunity to significantly impact the development of innovative products.
+On-time salary, including a bonus system for excellent results
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: HR manager
+Monthly Salary: 10,000,000 - 20,000,000 UZS
+Link: https://uic.group/vacancy/21
+More information:
+Requirements
+3 years of work experience in the HR department, preferably in the IT sector;
+Deep knowledge of labor legislation and HR processes;
+Excellent communication skills and the ability to effectively communicate with employees at different levels;
+Analytical thinking and the ability to make balanced decisions;
+High level of responsibility and result orientation;
+Sufficient knowledge of English to work with documents and communicate with foreign colleagues (preferred).
+Responsibilities
+Develop and implement HR strategies that meet the company's goals and support its growth;
+Plan and conduct the recruitment process, including writing vacancies, conducting interviews and preparing offers;
+Organization and conduct of employee assessments, development of a training and development program;
+Management of corporate culture and employee motivation events;
+Ensuring compliance with labor legislation and internal regulations of the company;
+Resolution of conflicts and support of employees in solving personal and professional problems.
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00.
+Corporate education and training.
+Opportunity to work with a professional team to develop interesting projects.
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes
+The company provides its hardworking employees with the most modern and high-quality equipment for work.
+Modern office with comfortable working conditions.
+Timely salary, including a bonus system for excellent results
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: Project manager
+Monthly Salary: 8,000,000 - 14,000,000 UZS
+Link: https://uic.group/vacancy/23
+More information:
+Requirements
+Experience in project management in the field of information technology;
+Understanding of project management methodologies (Agile, Scrum, Waterfall, etc.);
+Knowledge of project management tools (Jira, Trello, Microsoft Project, etc.);
+Ability to effectively manage and communicate with a team;
+Ability to solve project problems and make strategic decisions.
+Responsibilities
+Planning, coordinating and managing the life cycle of a project from start to finish;
+Working with clients and identifying their needs;
+Forming a project team, distributing tasks and ensuring effective cooperation between participants;
+Managing project risks and resources;
+Preparing and maintaining project documentation, including plans, reports and specifications.
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+The opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+A modern office with comfortable working conditions;
+Timely wages, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Job Title: Frontend Developer (VueJS)
+Monthly Salary: 10,000,000 - 20,000,000 UZS
+Link: https://uic.group/vacancy/1
+More information:
+Requirements
+Support and improvement of existing projects, as well as implementation of new features;
+Teamwork with other developers, QA testers, backend developers and UI/UX designers.
+Tasks
+Knowledge of software architecture PWA(Progressive Web App), SPA(Single Page Application), SSR(Server-Side Rendering ), MF (Mutual Funds);
+Understanding of SOLID, KISS, DRY principles.
+More than 2 years of work experience.(More than 1 year of active development);
+Knowledge of JavaScript and its basic concepts (prototypical inheritance, event loop, closures, this keyword, etc.);
+Knowledge of modern ways of writing code in JavaScript and TypeScript;
+Experience with Vue.js 2.3, Pinia, Vue Router;
+Ability to work with Axios and API;
+Knowledge of Tailwind CSS and good deployment skills;
+Experience with NPM / Yarn for package management;
+Experience with project assemblers in Vue, Vue CLI, Webpack, Rollup;
+Knowledge of Git, Shell Commands, Git Flow;
+Experience with Nuxt.js;
+Constant learning and willingness to learn new technologies.
+Requirements
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training.;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive environment in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with amenities for work;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: Sales Manager
+Monthly Salary: 10,000,000 - 20,000,000 UZS
+Link: https://uic.group/vacancy/26
+More information:
+Requirements
+Sales experience from 2 years;
+Confident communication and persuasion skills;
+Knowledge of the basic principles of working with clients;
+Willingness to work in a team and achieve your goals;
+High level of self-organization and responsibility;
+Knowledge of English not lower than Intermediate.
+Tasks
+Search for new customers and partners to expand the customer base;
+Conduct presentations of the company's products and services to potential customers;
+Organize and conduct negotiations with customers to conclude deals;
+Analyze the market and competitors to determine the sales strategy;
+Establish and maintain long-term relationships with customers;
+Develop customized offers for customers based on their needs;
+Prepare sales reports and forecast results.
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with comfortable working conditions;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+Job Title: Backend Developer (Python)
+Monthly Salary: 10,000,000 - 18,000,000 UZS
+Link: https://uic.group/vacancy/16
+More:
+Requirements
+Experience in Python and Django for at least 1.5 years;
+Development of micro-service solutions and integration with artificial intelligence models;
+Database experience and writing SQL queries;
+Skills in writing technical documentation and reports on work performed;
+Knowledge and skills in working with Python 3, Django, Django Rest framework, Celery, PostgreSQL, JavaScript;
+Availability of a portfolio (at least 3 real projects);
+Skills in working with the Git version control system;
+Docker.
+Tasks
+API development and testing: creating and testing APIs for effective interaction between application components;
+Working on projects in Python, Django: Participate in the development of projects of varying complexity based on Python and Django;
+Supporting young team members: Helping and supporting young developers and checking projects to identify shortcomings;
+Knowledge of English: Communication and interaction with an English-speaking environment;
+Understanding of containerization principles and experience with Docker.
+
+Conditions
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+The opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with working conditions;
+On-time salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+For more information about our opportunities, follow this link. (https://uic.group/about)
+
+Vacancy name: Accountant
+Monthly Salary: 8,000,000 - 10,000,000 UZS
+Link: https://uic.group/vacancy/20
+More information:
+Requirements:
+Secondary/higher education in accounting, finance or economics;
+1 year of work experience in a similar position or training in accounting courses;
+In-depth knowledge of accounting and tax legislation of Uzbekistan;
+Confident ownership of MS Office programs, 1C: Accounting;
+Accuracy, attention to detail, responsibility;
+Knowledge of English or Russian sufficient for business correspondence.
+Duties:
+Maintain accounting in accordance with established standards and Uzbek legislation;
+Control the correct execution of primary documents and their timely accounting;
+Participate in inventory and prepare a report on the results of the inventory.
+Conditions:
+Working hours 5/2 days, from 09:00 to 18:00;
+Corporate education and training;
+Opportunity to work with a professional team to develop interesting projects;
+Friendly and supportive atmosphere in the team, regular team events, team building, including marathons and quizzes;
+The company provides its hardworking employees with the most modern and high-quality equipment for work;
+Modern office with comfortable working conditions;
+Timely salary, including a bonus system for excellent results;
+Employment in accordance with the Labor Code of the Republic of Uzbekistan.
+If you are ready to join our team and contribute to the development of innovative projects, send your resume
+To learn more about our opportunities, follow this link. (https://uic.group/about)
+
+About the services provided by the company:
+- Websites. We develop websites of any complexity, from corporate websites to web applications, with a quality guarantee,
+- UI&UX design. Development of a project MindMap and drawing designs with an optimal solution based on this architecture,
+- CRM systems. Development of electronic management systems that automate business and processes, reduce clerical work by up to 100%,
+- Mobile applications. Development of mobile applications of any complexity and their technical support,
+- Media production. Professional preparation of 2D/3D animation, project presentations, advertising, video materials and other media resources,
+- Logo and branding. Creation of a set of basic tools and marketing materials for business promotion from scratch.,
+- Game production. Development of games of any topic and complexity that meet the international level.,
+Artificial intelligence. Development of intelligent computer systems with the capabilities of human intelligence,
+- Cybersecurity. Finding and fixing vulnerabilities in networks, devices, codes and data.
+
+What customers say about the company:
+UIC Group sees its customers as partners for life. We know how to listen and analyze. Having thoroughly studied the requirements of each of our partners, we offer them the most optimal solutions. We do not sell products, but provide quality solutions! Our goal is to perform tasks of any complexity that may arise in all IT services. In this case, the experience and knowledge of the entire team are directed to the expected result. Your idea and the product of our work are our pride. We are ready to be your only choice in providing excellent IT solutions for your company.UIC Group sees its customers as partners for life. We know how to listen and analyze. Having thoroughly studied the requirements of each of our partners, we offer them the most optimal solutions. We do not sell products, but provide quality solutions! Our goal is to fulfill any task of any complexity that may arise in all IT services. In this case, the experience and knowledge of the entire team is directed to the expected result. Your idea and the product of our work are our pride. We are ready to be your only choice in providing perfect IT solutions for your company.
+
+Successfully completed projects by UIC:
+safennetpay: We developed a world-class safenetpay.com website using various types of animations that meet all cybersecurity requirements. Safenetpay is an international company focused on optimizing companies' payment systems.\n,
+proSm: \Pro Service Management\ project, for this project our team provided a comprehensive solution - a mobile application, a website, a KPI system for employees, an automated billing system. The Pro SM project belongs to the \Akfa\ holding group, which manages all new buildings in Tashkent. Our application provides services for all residents of new buildings.,
+
+express: Express24 is a mobile application for the largest food delivery service, but we also provided other solutions. That is, Express 24 Merchant is a tool for enterprises to receive orders and update order status, as well as a restaurant management program.,
+
+tdiu: A website for Tashkent State University of Economics with interactive features for university employees, students and applicants. Also, our company carried out testing of the university brand, HR system and our products by a team of QA engineers to automate work with personnel.,
+
+vilz: A website Vilz.uz was developed for a company selling cars from leading brands of Uzbekistan in order to increase sales in car dealerships. The site was prepared with the necessary capabilities for registering for a test drive, buying a car on credit and other vehicles. The task was to create a mobile version of the site in a fully online store mode and allow reading e-books. The mobile application is available on Google Play and App Store.\n,
+
+ayol_uchun: Ayoluchun.uz is a special platform for women, where they are fully supported, regardless of age and profession, and video lessons are provided in areas of interest to them. Goal: to combine women's education, spiritual, cultural and educational development on a single platform.\n,
+
+super_1000: Super1000 online education platform. A platform that allows you to sell courses. The Super1000 website meets all cybersecurity requirements. Recording video data and posting them on the platform was also carried out by our team.\n,
+
+asaxiy: Asaxiy.uz is an online store selling household appliances and electronics. We have developed various options for the project, the project brand, full UX/UI design and the front-end part of the project. \n,
+
+asakabank: Asaka bank mobile application. The main goal of the project was to develop a new version of the mobile application and provide banking services through the application. Currently, users have access to many services, and the number of bank visits has significantly decreased due to the application. Our team was also tasked with creating a design for the Asaka Business mobile application - the official mobile system for providing remote banking services to Asaka Bank bank clients - legal entities. This system allows you to perform banking transactions via mobile communication devices.\n,
+
+avloniy: Avloniy.uz - the official website of the Scientific Research Institute for the Study of Problems and Prospects of Public Education named after Abdulla Avloniy. The photo and video content, site design and dynamic layout of the site are fully developed. Another important solution on this site is the integration of our project. \STesting\ electronic platform, which allows you to test your knowledge in an electronic testing system that includes tasks from international assessment programs. It can be widely used to develop analytical thinking skills, form literacy, and apply the acquired knowledge in the lives of students of educational institutions.,
+
+ricomel: About the Ricomel website. We have developed a website for the ricomel company that meets international requirements, matches its brand and style. We have developed a website rich in animations so that Ricomel can present its brand with its entire range in a new image.\n,
+
+nomakler: An online platform and mobile application for the project Nomakler.uz, where users have the opportunity to sell, buy, rent or find a partner. The design and development of the project was carried out by our team and provided high functionality and convenience for all types of users.\n,
+
+uc: Uzbekistan's Club - a global motivational platform! This project is a website of the Uzbekistan Club project, where residents talk about themselves and their professional experiences.\n,
+
+joyda: Our team redesigned the Joyda project, we analyzed the user experience of the previous mobile application and reviewed all the necessary information. \n,
+
+my_constitution: In the field of public administration, we had the honor of implementing the Referendum2022 project for the Central Election Commission of the Republic of Uzbekistan. This application contains all the necessary information and functions for transparent voting, citizens can get answers to all relevant questions and leave applications.\n
+
+Our SaaS systems (this is the majority of services on the Internet: email, CRM systems, task planners, website builders, blogging platforms. That is, all cloud applications that allow you to solve specific tasks) and PaaS (database management system, machine learning or big data processing environment) are available in accordance with the main service areas.\n,
+
+The company has offered solutions to the education system of the Republic of Uzbekistan in projects:
+- Co-Learning Academy is a social project for training IT professions. This project includes training in such areas as Advanced Front-end, Basic Front-end, Python Back-end, PHP Back-end, Graphic Design and Mobile Development. Training is provided on step-by-step learning of video lessons directly from specialists.\n,
+
+- Mental arithmetic is an automated multifunctional platform! As a modern platform for teachers teaching in this direction, we have created a homework system for children in the form of a website and a mobile application, which are also specially decorated in the style of interesting games. The platform is currently among the largest startups in the B2B direction.,
+
+- iMaktab is aimed at providing all schools, regardless of their size or available resources, with the systems necessary to ensure effective teaching and school management. iMaktab was developed using Python, Django, VueJS, PostgreSQL and other software development tools,
+
+In the field of public administration:
+- An information website was prepared to attract the attention of young voters in the 2021 presidential elections of the Republic of Uzbekistan and to exercise their constitutional rights. Visitors to the site have the opportunity to see where the polling stations are located by entering their information.\n,
+
+- Meningkonstitutsiyam.uz - the web portal allows citizens of our country to expand their opportunities to participate in the implementation of constitutional reforms, to obtain quick and reliable information about the activities of the Constitutional Commission, to familiarize themselves with the positions of representatives of the general public, specialists and experts on issues put forward for public discussion.\n ,
+
+- The project of the Notarial Chamber provides many opportunities by combining all electronic services of the Notarial Chamber of the Republic of Uzbekistan. The site serves to unify all notarial services throughout the country and easily provide their information to users.\n,
+
+- Sergelikhimiyati.uz - the official page of the district administration has been qualitatively enriched with the help of our services. The ability to manage vacancies from the administrator panel, a system for automatic resume creation by applicants, and a high-speed site — all of this is working dynamically and interactively on the khokimiyat website.
+
+
+Cloud-based software for managing sites - Wave has such functions as
+- Managing and editing site data
+- Adding, editing and deleting links to the site
+- Adding, editing and deleting pages to the site
+- Ability to change basic site settings
+- Enabling and disabling basic site options
+- Managing SEO site structure
+- Managing site sections
+- Managing system users
+- Managing media files (photo / video / audio)
+- Maintaining site statistics
+- Managing advertising data on the site
+- Managing forms on the site and accepting applications
+
+About UIC training center:
+The training center at UIC - Since the company was founded, the team has created a unique practice system, which later became the UIC Training Center. Today, more than 25 junior specialists are studying in this center. A distinctive feature of the UIC Training Center is the training of interns in real projects and working conditions.
+Co-learning Center - a friend of UIC, the Company has been a partner of the Co-Learning Center since the beginning of its activities, which in turn provides free IT training. The center is focused on training students in the following areas: Advanced Front-end, Basic Front-end, Python Back-end, Back-end, UX/UI, Game Dev, digital marketing and mobile development and Project Management basics.
+
+In addition to developing commercial projects, there are subsidiary projects under the UIC Group.
+For example, the game development team has Unreal engine, a cross-platform computer game development technology developed by the American company Unity Technologies. Thanks to the C + \ + programming language in the engine, you can develop games without any problems: Windows; Mac OS; Linux; Xbox; PlayStation; Wii; Dreamcast and other platforms. In recent years, mobile platforms have become one of the priority areas for gaming on Unreal Engine, so development for iOS and Android is also supported. Through a modular system of dependent components, you can import a game from one platform to another much faster. Unity allows you to create applications that work on more than 25 different platforms, including computers, game consoles, mobile devices, Internet applications, etc.
+Is a social Internet publisher and has the official status of a media outlet. The project audience consists of users who want to be aware of the most important events related to social, cultural, scientific news and useful things around them.
+This is a job search system launched to help candidates find interesting jobs, and employers find suitable candidates in the Republic of Uzbekistan.
+A media production team that includes specialists in animation, motion design, videographers, photographers, colorists, etc.
+UIC Group is the only platinum partner and representative of the international company Atlassian in Uzbekistan. Atlassian is an Australian company, a developer of software for managing software development. The most popular products are the Jira bug tracking system and the Confluence collaboration system, and Trello is a web application for creating Kanban-style lists.
+
+UIC's achievements:
+Brand Year: At the end of 2021, the company took 3rd place in the annual {action} competition in the IT direction.,
+Mangu Sarkarda: this is a historical game simulator, now it shows the future with the latest technologies.\n\nYou have the opportunity to return to the era of the great empire that united 3 continents through the game!\n\n\nGo to the glorious 14th century Travel to the Kingdom of the Great Timurids and the reign of Amir Temur.\n\n\nThe game dedicated to the life of a great commander and statesman who played an important role in the lives of peoples and was associated with fierce struggle will be a turning point in your everyday life.\n\n\nGet ready for big changes. Forever mark your heroism by recreating history together!,
+UIC Clan: CS eSPORTS team: GO-UIC Clan, deserves special attention, because the players, who are also ordinary employees, show excellent results in major tournaments among other professional players. The team had the honor of participating in the CAD Corporate Cup tournament, {action} you can see the game of our team in the tournament, where it was noted as one of the most successful teams and achieved excellent results.
+
+UIC is also available in other countries of the world. We are in Silicon Valley:
+- In order to further develop the company, enter the international arena and improve the professional skills of team members, our {action} (Silicon Valley) branch was opened.,
+- This solution serves as an excellent tool for improving the skills of employees who want to get training, {action} is allocated.,
+- In San Francisco, California, USA,
+
+UIC values ​​and traditions:
+- Special grants from the company
+- Intelligence competition, where we ask professional presenters to conduct an event and test the knowledge of our team. Our guys actively tried to test their knowledge and get a trophy for the winner. ,
+- Meetup, where we actively organize productive meetings, often based on the interest of our employees, where in the format of master classes and question-and-answer sessions we share professional experience with others to expand the worldview and professional opportunities of our team. Among our guests were experts in the field of financial literacy - Nilufar Sharipova, QA tester - Kurbanov Kilichbek. We also hold reading competitions among employees. ,
+- Football competitions are a frequent game for our team, our employees are divided into mini-teams and determine the best players. Surprisingly, one of the most organized games among our team is football!,
+- UIC Birthday, another important day of the year for us is UIC's birthday. This is a great reason to sum up the results of the year and set new goals and peaks. The company values ​​​​each of its employees and their contributions, we are glad that our team's trust in us has grown.,
+- eFit Race - 2022, everyone loves mountains, and the UIC family is no exception! After a tiring working day, the best solution is to enjoy truly beautiful landscapes. \n\nThis year we proudly defended the honor of our team at the annual Befit race professional athletes' competition, achieved excellent results, and are preparing for the upcoming races. \n,
+- As we mentioned above, our guys are distinguished by their professional games in CS:GO, so we often hold internal competitions to identify the best players.,
+- The company's management highly appreciates the comfort of employees at work, so the office has table tennis rooms, PS5 game rooms, lounges with bedrooms, and a prayer room.\n,
+
+Our office:
+- Birthday celebrations. The culture of celebrating and congratulating the team's birthday has existed since the company was founded, a joint celebration allows employees to feel their dignity and importance as team members. Birthday Party has become a collective pastime with sweets, snacks, and hot drinks.,
+- Health. Throughout the year, employees can receive medical examinations and doctor's recommendations from our company's qualified doctor. The health of all employees is always under control.
+
+UIC values:
+- UIC Group offers its solutions in all areas of the IT world of any complexity in Uzbekistan. \UIC Group\ is a destination for projects that have their own values ​​and where quality control is a priority. The company's activities are aimed at meeting the highest level of customer satisfaction. Our company is ready to serve customers not only as customers, but also as partners,
+- The company differs from classic companies in its orientation and system. For us, not income, but results and experience are important. We are engaged in robotics, digital marketing, game development, servicing various software systems.\n,
+- The United IT Company team puts quality above financial profit. More precisely, we work not with computers, but with people. Our customers' feedback also confirms that UIC responsibly approaches the tasks and objectives set, conducts a well-coordinated team process.\n,
+- After all, we strive to be a leading team in the dog industry, implementing activities based on international standards. Our customers' feedback also confirms that UIC responsibly approaches the tasks and objectives set, conducts a well-coordinated team process.\n,
+
+Special grants from the company ,
+- Intelligence competition. We ask professional presenters to conduct an event and test the knowledge of our team. Our guys actively tried to test their knowledge and get a trophy for the winner.
+- Meetup. Often, based on the interest of our employees, we actively organize productive meetings, where in the format of master classes and question-and-answer sessions we share professional experience with others to expand the worldview and professional opportunities of our team. Among our guests were financial literacy experts - Nilufar Sharipova, QA tester - Kurbonov Kilichbek. We also hold reading competitions among employees. ,
+- Football competitions. A frequent game for our team, our employees are divided into mini-teams and determine the best players. Surprisingly, one of the most organized games among our team is football!,
+- UIC Birthday. Another important day of the year for us is UIC's birthday. This is a great reason to sum up the results of the year and set new goals and peaks. The company values ​​​​each of its employees and their contributions, we are glad that our team's trust in us has grown.,
+- BeFit Race - 2022. Everyone loves mountains, and the UIC family is no exception! After a tiring day at work, the best solution is to enjoy truly beautiful scenery. \n\nThis year we proudly defended the honor of our team at the annual Befit race professional athletes' competition, achieved excellent results and are preparing for the upcoming races. \n,
+
+UIC code and management:
+Corporate code of the company:
+- It is very difficult to ensure high standards of corporate governance in practice. Therefore, the adoption of a code summarizing the rules of corporate ethics is a way to ensure information openness and transparency of the company's activities, with the help of which the company can use it as a means of increasing corporate cohesion in the market of its activity.,
+- The corporate code applies to each employee of the company, from the level of obligation to the function of the Constitution of a particular company.\n This code regulates the activities of the company not only by the rules of ethics, but also by general laws. In particular, company employees, regardless of the position they hold, should not take actions that are contrary to or inconsistent with the interests of the company. ,
+- That is, a highly qualified employee should not negatively influence the opinion of employees lower in position, force him to perform work that is beyond his authority or contrary to his authority. Administration staff, as well as all employees of the company, must not use the company's property for third parties or personal interests, not disclose restricted (confidential) information.,
+About management at UIC:
+- The main project management tool is Atlassian's products based on the Platinum UIC Group partnership, Jira - a commercial bug tracking system designed to organize interaction with users, although in some cases it is also used to manage projects. Projects are also managed using the Agile methodology.,
+- When implementing each new project, automated code analysis is performed, which helps to find vulnerabilities and errors in the code in a timely manner. \n,
+- When implementing projects, we use the life cycle of our projects, which was developed by our team and has significant advantages in terms of product creation time and quality.\n\n\nThe process of technology support management, developed by UIC Group, has been developed separately.\n,
+- Having qualified specialists in the QA test team allows the team to make any product user-friendly in terms of functionality and design. To do this, they constantly interact with all members of the development team and constantly compare the result with the specified requirements.\n,
+- Well-organized work with a checklist (checklist), it is difficult to take into account and implement all these recommendations at the design stage of the checklist. We pay great attention to this mechanism, the better it works and the more profitable it is for our business. We have been automating checklists for many years and have accumulated a large database of templates that can serve as the basis for your own list.
+
+Advantages of joining UIC:
+- Licensed version of Windows,
+- Licensed antivirus for each device,
+- Monthly bonus system (in addition to the basic monthly salary, additional bonuses can be received through monthly initiatives according to existing criteria).
+- Office located in the city center (within walking distance of Oybek metro and bus stations, convenient parking, Korzinka.uz, pharmacies and cafes in a minute).
+- Comfortable office with all amenities.
+- Computers are allocated to company employees depending on their needs.
+- Ability to work in a large and friendly team.
+- Opportunity to gain knowledge from experienced specialists.
+- Work on large-scale projects (local and foreign projects).
+- Official employment (in accordance with the Labor Code of the Republic of Uzbekistan).
+- Business trips (international and interregional).

@@ -1,0 +1,143 @@
+AISHA - An ecosystem for creating, implementing and scaling AI-based solutions. Artificial Intelligence that communicates in the native Uzbek language.
+
+About us:
+AIsha is a team of more than 10 strong specialists, providing AI-based NLP and NLU solutions in Uzbek, Karakalpak and foreign languages. Currently, it is working on an infrastructure that will fully implement the functions of Call Center operators with AI.
+
+Our team:
+Project Manager - Elzodkhon Sharofaddinov
+Software Architect - Bakhtiyor Maksudov
+AI/ML Engineer - Rifat Mamayusupov
+
+Our goals:
+Perfect Uzbek communication - Developing artificial intelligence that understands and creates natural Uzbek language with high accuracy.
+Preserve Uzbek Culture - Ensure that our AI respects and promotes Uzbek cultural nuances and traditions.
+Increase Usability - Make AI technology accessible to Uzbek-speaking communities around the world.
+Advanced NLP Research - Develop AI that understands and creates natural Uzbek language with high accuracy.
+
+Services Aisha provides:
+STT - Speech to Text
+TTS - Text to Speech
+LLM - Large Language Models
+ChatBot - Chatbot Services
+Voice ID - Voice Biometrics
+CallMatris - Call Center AI Analytics
+
+Speech-to-Text (STT) technology:
+Translates Uzbek, Russian and English audio files with high accuracy.
+- Can convert Uzbek, Russian and English audio files to text.
+- Converts audio files to text with 90% accuracy.
+- Effectively processes voice even in noisy environments and provides accurate transcriptions.
+- Can distinguish the speech of multiple speakers through the diarization feature.
+- Can identify a person by identifying the voice through the 5 Voice ID feature.
+- Can also transcribe Uzbek dialects into literary language through our improved models.
+
+Text-to-Speech (TTS) technology:
+Translates Uzbek, Russian and English texts into natural sound.
+- The best model for converting Uzbek text to speech.
+- Ability to choose the voice gender - female and male voices are available.
+- 100% accurate human voice.
+- Can also voice texts in Russian and English.
+- Responds to punctuation marks, adds pauses, accents and other natural speech trends.
+- The fastest working model for converting text to speech in Uzbek.
+
+Chat-Bot:
+The ability to get instant answers to your customers' questions and establish a voice conversation. Increase customer satisfaction and reduce your costs with a chatbot.
+- Communicate with users in multiple languages, including Uzbek, Russian and English.
+- Provide personalized service based on the user's history.
+- Provide 24/7 service, never taking a break or taking a break.
+- Respond quickly to questions.
+- Comply with international standards such as user data protection and GDPR.
+- The ability to communicate with users by sending a voice message and establishing a conversation.
+
+Voice ID:
+A cutting-edge voice biometrics technology that analyzes the unique characteristics of a user's voice and uses them to identify them.
+- Identity recognition and authentication. Accurately verifying an individual based on the unique acoustic characteristics of each person's voice
+- Increased security. Making the authentication process more secure by reducing the need for passwords or PINs.
+- Convenience and speed. The user can log in to the system or use services by voice, which saves time
+- Continuous learning. The ability to learn and adapt to changes in voice using artificial intelligence.
+- Multi-platform support. The ability to use the system in phone calls, chatbots, and other voice services.
+- Protected biometric data. The user's voice data is stored encrypted and used only for authentication purposes.
+
+CallMetrics:
+A platform designed to analyze calls and chats using artificial intelligence and improve call center operations.
+- Call voice transcription. Get a transcript of every call, make it easy to analyze
+- Call categorization. Automatically analyze calls by topic and purpose. For example: "Customer complaints" or "Technical problems".
+- Scenario-based verification. Sl will tell you if the agent completed certain questions or sentences that were required to be asked.
+- Sentiment analysis. Determine customer satisfaction or dissatisfaction.
+- Gender analysis. Know the demographics of your audience.
+- Silence percentage. Increase efficiency by identifying gaps in speech.
+- Call summary. Quickly learn the main content of each call.
+
+Payments for TTS and STT subscriptions plans. Users and companies for purchase:
+Monthly:
+ Basic - 140,000 soums per month. The main features necessary to start. 200,000 characters.
+ Pro - 280,000 soums / per month. Perfect for small and medium-sized business owners. 500.000 characters.
+ Enterprise - 500,000 soums / per month. Special assistance and infrastructure that suits your needs. 1 million characters.
+Annual:
+ Basic - 1 400,000 soums / year. The main features necessary to start. 200,000 characters. Saving 280,000 soums.
+ Pro - 2 800,000 soums / year. Perfect for small and medium-sized business owners. 500.000 characters. Saving 560,000 soums.
+ Enterprise - 5,000,000 soums / year. Special assistance and infrastructure that suits your needs. 1 million characters. Save 1 000,000 soums.
+API for developers:
+Text-to-speech:
+- The TTS API allows you to convert text to speech. You can use it to create voice messages, voice bots, and other voice applications.
+- The Audio API provides a speech endpoint based on our TTS (text-to-speech) model. It comes with 6 built-in voices and can be used for the following purposes:
+1. Narrate a written blog post.
+2. Create voiced audio in multiple languages.
+- To convert speech to text, you need to send a POST /api/v1/tts/post request with the following JSON data:
+1. transcript - text. Convert text to speech.
+2. language - text. Values ​​are 'uz'/'en'/'ru'. We support Uzbek, English, and Russian
+3. model - text. Values ​​are 'gulnoza'/'jaxongir'. We have models for a girl (Gulnoza) and a boy (Jahongir).
+- Code:
+```
+curl --request POST
+--url https://back.aisha.group/api/v1/tts/post/
+--header 'x-api-key: [API_KEY]'
+--header 'Content-Type: multipart/form-data'
+--header 'X-Channels: stereo'
+--header 'X-Quality: 64k'
+--header 'X-Rate: 16000'
+--header 'X-Format: mp3'
+--form 'transcript=Assalomu Alaikum'
+--form 'language=uz'
+--form 'run_diarization=false'
+--form 'model=gulnoza'
+```
+Speech to text:
+- The STT API allows you to convert speech to text.
+- The Audio API provides two endpoints for speech-to-text conversion - transcription and translation - based on our state-of-the-art open-source large v2 Whisper model. They can be used for the following purposes:
+1. Transcribe audio into Uzbek, Russian, and English, depending on its original language.
+- To convert speech to text, you need to send a POST /api/v1/stt/post request with the form data:
+1. audio - file. Convert speech to text.
+2. language - text. Values ​​are 'uz'/'en'/'ru'. We support Uzbek, English and Russian
+- Code:
+```
+curl --request POST
+--url https://back.aisha.group/api/v1/stt/post/
+--header 'x-api-key: [API_KEY]'
+--header 'Content-Type: multipart/form-data'
+--form 'audio=/path/to/file'
+--form 'has_offsets=false'
+--form 'has_diarization=false'
+--form 'language=uz'
+```
+
+Companies that have trusted us:
+AIsha is currently working closely with these companies:
+1. Paylov (https://paylov.uz)
+2. Commeta (https://sharh.commeta.uz/uz)
+3. UIC group (https://uic.group)
+
+Giant companies we are members of:
+1. Founders Hub (Microsoft for startups)
+2. AWS startup programs
+3. Google for startups
+4. NVIDIA inception program
+
+Contacts:
+Website - www.aisha.group
+Phone number - +998200101765
+E-mail - info@aisha.group
+Telegram - @aisha_uzbekistan
+
+The company's message:
+Increase the efficiency of your business several times with the latest technologies.

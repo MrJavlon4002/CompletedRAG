@@ -1,0 +1,574 @@
+Bu xujjat “United IT Company” haqida ma’lumotlar 
+
+UIC kompaniyasi haqida (about UIC company):
+United IT Company(UIC) - yangicha yondashuv va zamonaviy sifat kafolati. Ochiq faoliyat maydonlari, dolzarb loyihalar, ilgʻor jamoa, faol xodimlar, sifatli mahsulot, ishonchli hamkorlar, qulay ish sharoiti, yuqori maosh, mamlakat boʻylab oʻz vakillariga ega kompaniya – bu PM xodimlari va kompaniya hamkorlarining fikri. UIC klassik IT kompaniyalar safiga kirmaydi. Yaʼni, biz ma'lum bir yo'nalish bilan cheklanib qolmaymiz. Biz robototexnika, raqamli marketing, oʻyinlar ishlab chiqish, turli xil dasturiy tizimlariga texnik xizmat koʻrsatish bilan shug'ullanamiz. “United IT Company” jamoasi sifatni moliyaviy manfaatlardan ustun koʻradi. Ya'ni, biz kompyuterlar bilan emas insonlar bilan ishlaymiz. Mijozlarimiz tomonidan berilgan izohlar ham UICʼning ishonib topshirilgan vazifa va majburiyatlarga masʼuliyat bilan yondashishi, ahil jamoaviy ish jarayonini yuritishini tasdiqlaydi. Zero, biz tendensiyalarni quvish emas, balki ularni yaratish, xalqaro standartlarga asoslangan faoliyat olib borish bilan IT sohasida yetakchi jamoa boʻlishga intilamiz. Shu kungacha yaratgan loyihalarimiz mazkur soʻzlarimiz dalili, siz uchun esa inkor etib boʻlmas tanlov ekanligimizning isboti hisoblanadi. Har bir yirik kompaniya faqatgina oʻziga emas, balki yonida yelkadosh boʻlgan hamda unga ishonch bildirganlarga minnatdorchilik bildirishi lozim. Chunki, bizning ishda eng muhim tamoyil - bu ishonch. Mijozlarimiz bergan izohlar ham UICʼning ishonib topshirilgan vazifa va majburiyatlarga masʼuliyat bilan yondashishi, ahil jamoaviy ish jarayonini yuritishini tasdiqlaydi. Zero, biz tendensiyalarni quvish emas, balki ularni yaratish, xalqaro standartlarga asoslangan faoliyat olib borish bilan IT sohasida yetakchi jamoa boʻlishga intilyapmiz. Shu kungacha yaratgan loyihalarimiz mazkur soʻzlarimiz dalili, siz uchun esa inkor etib boʻlmas tanlov ekanligimizning isboti boʻlishi shubhasiz.
+
+History of UIC: UIC to'liq nomi United IT Company 2020-yil 8-oktyabrda tashkil etilgan. UIC kompniyasining direktori (asoschisi) Murodxo'ja Muratovning so'zlariga ko'ra, kompaniyaning falsafasi O'zbekistonning IT sohasidagi xalqaro standartlarga javob beradigan jamoani shakllantirish, yosh dasturchilarga o'zlari ustida ishlash va shu bilan birga rasmiy ravishda ishga joylashish imkoniyatini yaratish, kompaniyani IT jahon sahnasida taniqli joyga olib borishdan iborat.\n,
+ 
+UIC kompaniyasi tashkil etilgan paytda jamoa atigi 10 kishidan iborat edi, endilikda esa jamoada 100+ mutaxassislar faoliyat olib boradi. Bu odamlar kompaniya maqsadiga ishonib, loyihaning rivojlanishiga hissa qo'shishga intilishdi. Bugungi kunga qadar bu odamlar kompaniyaga sodiq qolgan holda, o'z jamoalarini turli yo'nalishlarda (Backend, Frontend, QA, Mobile, Analytics, Marketing Team va boshqalar) rivojlantirib kelmoqdalar.
+
+Hozirgi kunda kompaniyamiz o'zining IT-yechimlarini 9 ta asosiy yo'nalish bo'yicha taklif qilmoqda,
+Logotip va brending – Loyihangiz uchun yagona va oʻziga xos boʻlgan logotipni ishlab chiqish va uni brending qoidalarini ham yaratib berish
+“CRM va ERP tizimlari – Biznesni va jarayonlarni avtomatlashtirish, kanselyariya ishlarini 100% gacha kamaytiruvchi boshqaruv elektron tizimlarini ishlab chiqish
+Mobil ilovalar – Istalgan qiyinchilikdagi mobil ilovalarni ishlab chiqish va ularni texnik qoʻllab-quvvatlash.
+Media mahsulot – 2D/3D animatsiya, loyiha taqdimoti, reklamasi, videomateriallar va boshqa media resurslarni professional tarzida tayyorlash
+Veb-saytlar – Korporativ veb saytlardan tortib veb ilovalargacha boʻlgan murakkablikdagi internet saytlarni sifat kafolati bilan ishlab chiqamiz
+UI / UX dizayni – Loyiha MindMapʼini ishlab chiqish va ushbu arxitektura asosida optimal yechimga ega dizaynlarni chizish.
+O'yin ishlab chiqish,
+sun'iy intellekt,
+Kiberxavfsizlik ,
+
+Kompany haqida bir so’zlik ta’riflar:
+  -Bir so‘z bilan aytganda yillik malakaga ega jamoa UIC Group” kompaniyasi Oʻzbekistondagi istalgan murakkablikdagi IT olamining barcha jabhalarida oʻz xizmatlarini taklif qiladi. “UIC Group” oʻz qadriyatlariga ega boʻlgan va sifat nazoratisiz oʻtmaydigan loyihalar manzili. Kompaniyamizdagi har bir imkoniyat va talab masʼuliyat bilan mijozlarimiz talabini eng yuqori koʻrsatkichlarda qondirishi uchun xizmat qiladi. Kompaniyamiz mijozlarni shunchaki mijoz emas, ularga bir umrlik hamkor sifatida eng yaxshi takliflar bilan xizmat koʻrsatishga tayyor!,
+  -Har bir yirik kompaniya faqatgina oʻziga emas, balki yonida yelkadosh boʻlgan hamda ishonganlarga minnatdorchilik bildirishi lozim. Axir, bizning ishda eng muhim prinsip - bu ishonch.,
+  - Ishonch nafaqat mijoz va hamkorlar sadoqatini ta’minlaydi, qolversa, o’zimizga bo’lgan talab chanligimizni oshiradi. Biz uzoq yillik insoniylik an’analari ustiga qurilgan munosabatlar asosida hamkorlik qilamiz.,
+  - Tezkor yechimlar. Takrorlanmas loyihalar.
+
+UIC qayerda?
+  Kompaniyaning manzili:
+    1-Manzil: Uzbekistan, Toshkent sh., Shayxontohur t., Adham Rahmat ko'chasi - 15/1
+    2-Manzil: 50 Chumasero Dr 2A San Francisco
+
+UIC bilan bog’lanish yoki aloqaga chiqsh:
+  UIC ning contact ma’lumotlari:
+    Email: info@uic.group
+  Kompaniyaning telefon raqami:
+    +998 71 200 70 07 (uz)
+    +1 331 481-1908 (us)
+
+UIC da bo’sh ish o’rinlari (vakansiyalar-vacansies):
+UIC da ish vaqti: Dushanba–Juma, 9:00–18:00
+
+Bo'sh ish o'rinlari (vakansiyalar) ro'yxati:
+ - Flutter developer - Oylik Maosh: 10 000 000 - 20 000 000 UZS
+ - Frontend developer (React.js) - Oylik Maosh: 10 000 000 - 20 000 000 UZS
+ - Frontend developer (VueJS) - Oylik Maosh: 10 000 000 - 20 000 000 UZS
+ - Backend developer (Odoo framework) - Oylik Maosh: 10 000 000 - 25 000 000 UZS
+ - UI/UX designer - Oylik Maosh: 10 000 000 - 15 000 000 UZS
+ - QA Engineer - Oylik Maosh: 10 000 000 - 20 000 000 UZS
+ - AI Engineer - Oylik Maosh: 5 000 000 - 25 000 000 UZS
+ - HR manager - Oylik Maosh: 10 000 000 - 20 000 000 UZS
+ - Project Manager - Oylik Maosh: 8 000 000 - 14 000 000 UZS
+ - Sales Manager - Oylik Maosh: 10 000 000 - 20 000 000 UZS
+ - Backend developer (Python) - Oylik Maosh: 10 000 000 - 18 000 000 UZS
+ - Accountant - Oylik Maosh: 8 000 000 - 10 000 000 UZS
+
+
+Bo’sh ish o’rni (vakansiya) nomi: Flutter developer
+Oylik Maosh: 10 000 000 - 20 000 000 UZS
+Link: https://uic.group/vacancy/19
+Ko’proq ma’lumot: 
+Talablar
+  Flutter yordamida platformalararo mobil ilovalarni ishlab chiqish;
+  Foydalanuvchi interfeysining ishlashi va sezgirligini optimallashtirish;
+  Backend xizmatlari bilan integratsiya va API bilan o'zaro aloqalar;
+  Rejalashtirish va arxitektura muhokamalarida ishtirok etish;
+  Mobil ilovalarni yangi talablar va standartlarga muvofiq qo'llab-quvvatlash va yangilash.
+Vazifalar
+  Flutter yordamida mobil ilovalarni ishlab chiqishda kamida 1 yillik tajriba;
+  Flutter v2.5+ va Dart v2.15+ bilan tajriba;
+  Turli darajadagi foydalanuvchi interfeysi elementlarini yaratish qobiliyati;
+  Boshqaruvi tajribasi (BLoC, Cubit va boshqalar);
+  Rest API, GraphQL, WebSocket bilan ishlash qobiliyati;
+  Animatsiyalardan foydalanish qobiliyati;
+  Toza arxitektura va toza kod tamoyillari asosida kod yozish;
+  SOLID, Dry, Kiss tamoyillarini tushunish;
+  Rivojlanish muhitlaridan to'g'ri foydalanish (Android Studio, Xcode, Visual Studio Code va boshqalar);
+  Git, Github, Gitlab haqida ma'lumot;
+  Vazifalarni boshqarish vositalari (Jira, Notion va boshqalar) bilan ishlash tajribasi;
+  Google Play, AppStore va AppGallery ilovalarini boshqarish, yangi ilovalar qo'shish, mavjudlarini yangilash, yangilash bilan bog'liq muammolarni bartaraf etish qobiliyati;
+  PlatformChannels (MethodChannel, EventChannel) bilan ishlash tajribasi;
+  Mahalliy rivojlanish: Android - Kotlin, iOS - Shveytsariya;
+  GitFlow va Trunk asosidagi rivojlanish haqida tushuncha;
+  Nosozliklarni tuzatish va ishlash vositalaridan foydalanish qobiliyati (Firebase Crashlytics, Sentry, Flutter Inspector).
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+  Korporativ ta'lim va treninglar;
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+  Ish uchun qulayliklarga ega zamonaviy ofis;
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+  O 'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Frontend developer (React.js)
+Oylik Maosh: 10 000 000 - 20 000 000 UZS
+Link: https://uic.group/vacancy/24
+Ko’proq ma’lumot: 
+Talablar
+  React yordamida yuqori sifatli foydalanuvchi interfeyslarini ishlab chiqish.js va tegishli texnologiyalar;
+  Kengaytiriladigan interfeys komponentlarini yaratish va qo'llab-quvvatlash;
+  Frontend qismini backend xizmatlari va API bilan birlashtirish;
+  Ishlashni optimallashtirish va foydalanuvchi tajribasini yaxshilash;
+  Loyihaning umumiy maqsadlariga erishish uchun dizaynerlar va boshqa jamoa a'zolari bilan yaqin hamkorlik.
+Vazifalar
+  Mavjud loyihalarni qo'llab-quvvatlash va takomillashtirish, shuningdek, yangi funksiyalarni joriy etish;
+  Boshqa ishlab chiquvchilar, QA testerlari, backend dasturchilari va UI/UX dizaynerlari bilan jamoaviy ish.
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha.
+  Korporativ ta'lim va treninglar;
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+  Ish uchun qulayliklarga ega zamonaviy ofis;
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+  O 'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Backend developer (Odoo framework)
+Oylik Maosh: 10 000 000 - 25 000 000 UZS
+Link: https://uic.group/vacancy/22
+Ko’proq ma’lumot: 
+Talablar
+  Odoo framework'ida kamida 1 ta loyiha
+  Python dasturlash tilini mukammal bilish;
+  PostgreSQL yoki boshqa relyatsion ma'lumotlar bazalarini bilish;
+  Odoo modullarini ishlab chiqish va sozlash tajribasi;
+  Mijozning talablariga muvofiq mavjud funktsiyalarni moslashtirish yoki yangisini yaratish qobiliyati;
+  ERP tizimlarining biznes jarayonlari va imkoniyatlarini yaxshi tushunish;
+  Veb-texnologiyalar bilan ishlash ko'nikmalari: HTML, CSS, JavaScript;
+  Muloqot qobiliyatlari va jamoada ishlash qobiliyati;
+  Mijozlarning talablarini samarali tahlil qilish va maqbul yechimlarni taklif qilish qobiliyati.
+Vazifalar
+  Odoo framework'idan foydalangan holda funktsional imkoniyatlarni ishlab chiqish va qo'llab-quvvatlash;
+  Mavjud modullarni sozlash va biznes talablariga muvofiq yangilarini yaratish;
+  Mijozning biznes jarayonlarini tahlil qilish va Odoo framework'iga asoslangan maqbul yechimlarni taklif qilish;
+  Mijozlar uchun ERP tizimini joriy etish va sozlashda ishtirok etish;
+  Ishlab chiqilgan modullarni sinovdan o'tkazish va ularning sifatini ta'minlash;
+  Amalga oshirilgandan so'ng ishlab chiqilgan yechimlarni qo'llab-quvvatlash;
+  Talablarni aniqlashtirish va muammolarni hal qilish uchun mijozlar bilan o'zaro aloqalar;
+  Odoo framework'ining yangi imkoniyatlari va funktsional imkoniyatlarini mustaqil o'rganish.
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gach;
+  Korporativ ta'lim va treninglar;
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+  Ish uchun qulayliklarga ega zamonaviy ofis;
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+  O 'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: UI/UX designer
+Oylik Maosh: 10 000 000 - 15 000 000 UZS
+Link: https://uic.group/vacancy/12
+Ko’proq ma’lumot: 
+
+Talablar
+  Interfeys dizayni (UI) va foydalanuvchi tajribasi (UX) bo'yicha tajriba;
+  Sketch, Figma, Framer, Adobe Family (PS, AI) yoki boshqa analoglar kabi dizayn vositalarini bilish;
+  Tipografiya, rang sxemasi, kompozitsiya va vizual ierarxiyani o'z ichiga olgan dizayn tamoyillari va metodologiyasini tushunish;
+  Mobil qurilmalar uchun maketlar yaratish tajribasi va ularning dizayn xususiyatlarini tushunish;
+  Jamoaning turli a'zolari bilan samarali muloqot qilish qilish qobiliyati.
+Vazifalar
+  Zamonaviy tendentsiyalar va dizayn standartlarini hisobga olgan holda foydalanuvchi interfeyslarini (UI) ishlab chiqish;
+  Veb va mobil ilovalar uchun maketlar, prototiplar va vizualizatsiyalarni yaratish;
+  Dizayn yaxlitligi va foydalanuvchi tajribasini ta'minlash uchun mahsulot jamoasi va ishlab chiquvchilar bilan ishlash;
+  Foydalanuvchi interfeysi sinovlarini o'tkazish va foydalanuvchi tajribasini optimallashtirishda ishtirok etish;
+  Brendlar va ularning vizual elementlarini ya ratish jarayonida ishtirok etish.
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+  Korporativ ta'lim va treninglar;
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+  Ish uchun qulayliklarga ega zamonaviy ofis;
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+  O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: QA Engineer
+Oylik Maosh: 10 000 000 - 20 000 000 UZS
+Link: https://uic.group/vacancy/27
+Ko’proq ma’lumot: 
+Talablar
+  Dasturiy ta'minotni sinovdan o'tkazish tajribasi.
+  Sinov metodologiyalarini bilish va dasturiy ta'minotni ishlab chiqishning hayotiy tsiklini tushunish.
+  Sinov holatlari va test rejalarini yozish tajribasi.
+  Sinovlarni avtomatlashtirish asoslarini tushunish va avtomatlashtirish vositalari bilan ishlash tajribasi (masalan, Selenium, Appium, JUnit, TestNG).
+  Yangi sinov texnologiyalari va metodologiyalarini o'rganish istagi.
+  Dasturiy ta'minotni sinash nazariyasini bilish (usullar, texnikalar);
+  Dasturiy ta'minotni, metodologiyani ishlab chiqish asoslarini bilish;
+  Tarmoq asoslarini bilish, mijoz-server arxitekturasini tushunish, rest API, HTTP;
+  Egalik qilish qobiliyati-Postman, Jira;
+Vazifalar
+  Kamida 1 yillik ish tajribasi. 
+  Mahsulot talablariga muvofiq sinov holatlarini rejalashtirish va loyihalash.
+  Funktsional, regressiya, integratsiya va boshqa turdagi testlarni bajarish.
+  Zamonaviy vositalar va ramkalar yordamida testlarni avtomatlashtirish.
+  Xato kuzatuvchisidagi nuqsonlarni aniqlash, hujjatlashtirish va kuzatish.
+  Mahsulotning sifatli chiqarilishini ta'minlash uchun ishlab chiquvchilar, tahlilchilar va boshqa jamoa a'zolari bilan o'zaro aloqalar.
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha.
+  Korporativ ta'lim va treninglar.
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati.
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi.
+  Ish uchun qulayliklarga ega zamonaviy ofis.
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi
+  O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: AI Engineer
+Oylik Maosh: 5 000 000 - 25 000 000 UZS
+Link: https://uic.group/vacancy/28
+Ko’proq ma’lumot: 
+Talablar
+  Oʻzbek tiliga moslashtirilgan nutqni tanish va tabiiy tilni qayta ishlash uchun oʻrganish modellarini ishlab chiqish va takomillashtirish.
+  Matnni nutqqa (TTS) va nutqni matnga (STT) o'tkazish modellari ustida ishlash va rivojlantirish
+  Lingvistik xususiyatlar va lahjalarni modellarga kiritish uchun tilshunoslar va til mutaxassislari bilan hamkorlikda ishlash.
+Vazifalar
+  Nutqni tanish va tabiiy tilni qayta ishlash sohasidagi tajriba.
+  Python tili va  TensorFlow, PyTorch yoki shunga oʻxshash ML freymvorklari bilan ishlash tajribasi.
+  Ma'lumotlarni yigʻish, tozalash va oldindan qayta ishlash usullarini chuqur tushunish.
+  Muammolarni hal qilish boʻyicha ajoyib koʻnikmalar va mustaqil hamda jamoada ishlash qobiliyati.
+Shartlar
+  O'zbek tilida so'zlashuvchilar uchun aloqa texnologiyasini yaxshilashga qaratilgan ilg'or loyihaning bir qismi bo'lish.
+  Professional o'sish imkoniyatlari bilan dinamik va hamkorlikdagi muhitda ishlash.
+  Raqobatbardosh maosh va imtiyozlar paketi.
+  Innovatsion mahsulotni rivojlantirishga sezilarli ta'sir ko'rsatish imkoniyati.
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi
+  O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: HR manager
+Oylik Maosh: 10 000 000 - 20 000 000 UZS
+Link: https://uic.group/vacancy/21
+Ko’proq ma’lumot: 
+  Talablar
+    Kadrlar bo'limida 3 yildan beri ish tajribasi, IT sohasida afzalroq;
+    Mehnat qonunchiligi va kadrlar jarayonlari bo'yicha chuqur bilim;
+    Zo'r muloqot qobiliyatlari va turli darajadagi xodimlar bilan samarali muloqot qilish qobiliyati;
+    Analitik fikrlash va muvozanatli qarorlar qabul qilish qobiliyati;
+    Yuqori darajadagi javobgarlik va natijaga yo'naltirish;
+    Hujjatlar bilan ishlash va chet ellik hamkasblar bilan muloqot qilish uchun etarli darajada ingliz tilini bilish (afzal).
+  Vazifalar
+    Kompaniyaning maqsadlariga mos keladigan va uning o'sishini qo'llab-quvvatlaydigan HR strategiyalarini ishlab chiqish va amalga oshirish;
+    Ishga qabul qilish jarayonini rejalashtirish va o'tkazish, shu jumladan bo'sh ish o'rinlarini yozish, intervyular o'tkazish va takliflarni tayyorlash;
+    Xodimlarni baholashni tashkil etish va o'tkazish, o'quv va rivojlanish dasturini ishlab chiqish;
+    Korporativ madaniyat va xodimlarni rag'batlantirish tadbirlarini boshqarish;
+    Mehnat qonunchiligi va kompaniyaning ichki qoidalariga rioya etilishini ta'minlash;
+    Shaxsiy va kasbiy muammolarni hal qilishda nizolarni hal qilish va xodimlarni qo'llab-quvvatlash.
+  Shartlar
+    Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha.
+    Korporativ ta'lim va treninglar.
+    Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati.
+    Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar
+    Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi.
+    Ish uchun qulayliklarga ega zamonaviy ofis.
+    O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi
+    O 'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Project manager
+Oylik Maosh: 8 000 000 - 14 000 000 UZS
+Link: https://uic.group/vacancy/23
+Ko’proq ma’lumot: 
+  Talablar
+    Axborot texnologiyalari sohasida loyihalarni boshqarish tajribasi;
+    Loyihani boshqarish metodologiyasini tushunish (Agile, Scrum, Waterfall va boshqalar);
+    Loyihalarni boshqarish vositalarini bilish (Jira, Trello, Microsoft Project va boshqalar);
+    Jamoani samarali boshqarish va muloqot qilish qobiliyati;
+    Loyiha muammolarini hal qilish va strategik qarorlar qabul qilish qobiliyati. 
+  Vazifalar
+    Loyihaning boshidan oxirigacha hayot tizimini rejalashtirish, muvofiqlashtirish va boshqarish;
+    Mijozlar bilan ishlash va ularning ehtiyojlarini aniqlash;
+    Loyiha jamoasini shakllantirish, vazifalarni taqsimlash va ishtirokchilar o'rtasida samarali hamkorlikni ta'minlash;
+    Loyiha risklari va resurslarni boshqarish;
+    Loyiha hujjatlarini, jumladan rejalar, hisobotlar va spetsifikatsiyalarni tayyorlash va saqlash.
+  Shartlar
+    Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+    Korporativ ta'lim va treninglar;
+    Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+    Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+    Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+    Ish uchun qulayliklarga ega zamonaviy ofis;
+    O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+    O 'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Frontend developer (VueJS)
+Oylik Maosh: 10 000 000 - 20 000 000 UZS
+Link: https://uic.group/vacancy/1
+Ko’proq ma’lumot: 
+  Talablar
+    Mavjud loyihalarni qo'llab-quvvatlash va takomillashtirish, shuningdek, yangi funksiyalarni joriy etish;
+    Boshqa ishlab chiquvchilar, QA testerlari, backend dasturchilari va UI/UX dizaynerlari bilan jamoaviy ish.
+  Vazifalar
+    Dastur tuzilishini bilish PWA(Progressive Web App), SPA(Single Page Application), SSR(Server-Side Rendering ), MF (Mutual Funds);
+    SOLID, KISS, DRY tamoyillarini tushunish.
+    2 yildan ortiq ish tajribasi.(1 yildan ortiq faol rivojlanish);
+    JavaScript va uning asosiy tushunchalarini bilish (prototipik meros, hodisalar tsikli, yopilish, bu kalit so'z va boshqalar).;
+    JavaScript va TypeScript-da kod yozishning zamonaviy usullarini bilish;
+    Vue bilan ishlash tajribasi.js 2,3, Pinia, Vue Router;
+    Axios va API bilan ishlash qobiliyati;
+    Tailwind CSS-ni bilish va yaxshi joylashtirish qobiliyatlari;
+    Paketlarni boshqarish uchun NPM / Yarn tajribasi;
+    Vue, Vue CLI, Webpack, Rollup-da loyiha yig'uvchilar bilan ishlash tajribasi;
+    Git, Shell Buyruqlari, Git Oqimini Bilish;
+    Nuxt.js bilan ishlash tajribasi;
+    Doimiy o'rganish va yangi texnologiyalarni o'rganishga tayyorlik.
+  Shartlar
+    Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+    Korporativ ta'lim va treninglar.;
+    Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+    Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+    Ish uchun qulayliklarga ega zamonaviy ofis;
+    O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+    O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Sales Manager
+Oylik Maosh: 10 000 000 - 20 000 000 UZS
+Link: https://uic.group/vacancy/26
+Ko’proq ma’lumot: 
+Talablar
+  Savdo tajribasi 2 yildan;
+  Ishonchli aloqa va ishontirish qobiliyatlari;
+  Mijozlar bilan ishlashning asosiy tamoyillarini bilish;
+  Jamoada ishlashga va maqsadlaringizga erishishga tayyorlik;
+  O'z-o'zini tashkil etish va javobgarlikning yuqori darajasi;
+  Ingliz tilini bilish Intermediate-dan past emas.
+Vazifalar
+  Mijozlar bazasini kengaytirish uchun yangi mijozlar va sheriklarni qidirish;
+  Potentsial mijozlar oldida kompaniya mahsulotlari va xizmatlari taqdimotlarini o'tkazish;
+  Bitimlar tuzish uchun mijozlar bilan muzokaralarni tashkil etish va o'tkazish;
+  Savdo strategiyasini aniqlash uchun bozor va raqobatchilarni tahlil qilish;
+  Mijozlar bilan uzoq muddatli munosabatlarni o'rnatish va saqlash;
+  Mijozlar uchun ularning ehtiyojlariga qarab moslashtirilgan takliflarni ishlab chiqish;
+  Savdo hisobotlarini tuzish va natijalarni bashorat qilish.
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+  Korporativ ta'lim va treninglar;
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+  Ish uchun qulayliklarga ega zamonaviy ofis;
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+  O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Backend developer (Python)
+Oylik Maosh: 10 000 000 - 18 000 000 UZS
+Link: https://uic.group/vacancy/16
+More:
+Talablar
+  Python va Django tajribasi kamida 1,5 yil;
+  Mikro-xizmat echimlarini ishlab chiqish va sun'iy intellekt modellari bilan integratsiya;
+  Ma'lumotlar bazasi tajribasi va SQL so'rovlarini yozish;
+  Texnik hujjatlar va bajarilgan ishlar to'g'risida hisobotlarni yozish ko'nikmalari;
+  Python 3, Django, Django Rest framework, Celery, PostgreSQL, JavaScript bilan ishlash bo'yicha bilim va ko'nikmalar;
+  Portfelning mavjudligi (kamida 3 ta haqiqiy loyiha);
+  Git versiyasini boshqarish tizimi bilan ishlash ko'nikmalari;
+  Docker.
+Vazifalar
+  API-ni ishlab chiqish va sinovdan o'tkazish: dastur tarkibiy qismlari o'rtasida samarali ishlash uchun API yaratish va sinovdan o'tkazish;
+  Python, Django-da loyihalar ustida ishlash: Python va Django-ga asoslangan turli xil murakkablik darajasidagi loyihalarni ishlab chiqishda ishtirok etish;
+  Yosh jamoa a'zolarini qo'llab-quvvatlash: yosh ishlab chiquvchilarga yordam berish va qo'llab-quvvatlash va kamchiliklarni aniqlash uchun loyihalarni tekshirish;
+  Ingliz tilini bilish: ingliz tilida so'zlashadigan muhit bilan aloqa va o'zaro ta'sir;
+  Konteynerlashtirish tamoyillarini tushunish va Docker tajribasi.
+ 
+Shartlar
+  Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+  Korporativ ta'lim va treninglar;
+  Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+  Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+  Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+  Ish uchun qulayliklarga ega zamonaviy ofis;
+  O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+  O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Bo’sh ish o’rni (vakansiya) nomi: Accountant
+Oylik Maosh: 8 000 000 - 10 000 000 UZS
+Link: https://uic.group/vacancy/20
+Ko’proq ma’lumot: 
+  Talablar:
+    Buxgalteriya hisobi, moliya yoki iqtisodiyot bo'yicha o'rta/oliy ma'lumot;
+    Shunga o'xshash pozitsiyada 1 yillik ish tajribasi yoki buxgalteriya kurslarida o'qigan bo'lish;
+    O'zbekistonning buxgalteriya hisobi va soliq qonunchiligini chuqur bilish;
+    MS Office dasturlariga ishonchli egalik, 1C: buxgalteriya;
+    Aniqlik, tafsilotlarga e'tibor, mas'uliyat;
+    Ingliz yoki rus tillarini ishbilarmonlik yozishmalarini o'tkazish uchun etarli darajada bilish.
+  Vazifalar:
+    Belgilangan standartlar va O'zbekiston qonunchiligiga muvofiq buxgalteriya hisobini yuritish;
+    Dastlabki hujjatlarning to'g'ri bajarilishini va ularning o'z vaqtida hisobga olinishini nazorat qilish;
+    Inventarizatsiyada ishtirok etish va inventarizatsiya natijalari bo'yicha hisobot tayyorlash.
+  Shartlar:
+    Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;
+    Korporativ ta'lim va treninglar;
+    Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;
+    Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;
+    Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;
+    Ish uchun qulayliklarga ega zamonaviy ofis;
+    O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;
+    O'zbekiston Respublikasi mehnat kodeksiga muvofiq ish bilan ta' minlash.
+Agar siz bizning jamoamizga qo'shilishga va innovatsion loyihalarni rivojlantirishga hissa qo'shishga tayyor bo'lsangiz, rezyumeyingizni yuboring
+Bizning imkoniyatlarimiz haqida ko'proq ma'lumot olish uchun ushbu havolaga o'ting. (https://uic.group/about)
+
+Kompaniya taqdim etadigan xizmatlar haqida:
+  - Veb-saytlar. Korporativ veb saytlardan tortib veb ilovalargacha boʻlgan murakkablikdagi internet saytlarni sifat kafolati bilan ishlab chiqamiz,
+  - UI&UX dizayn. Loyiha MindMapʼini ishlab chiqish va ushbu arxitektura asosida optimal yechimga ega dizaynlarni chizish,
+  - CRM tizimlar. Biznesni va jarayonlarni avtomatlashtirish, kanselyariya ishlarini 100% gacha kamaytiruvchi boshqaruv elektron tizimlarini ishlab chiqish,
+  - Mobil ilovalar. Istalgan qiyinchilikdagi mobil ilovalarni ishlab chiqish va ularni texnik qoʻllab-quvvatlash,
+  - Media production. 2D/3D animatsiya, loyiha taqdimoti, reklamasi, videomateriallar va boshqa media resurslarni professional tarzida tayyorlash,
+  - Logo va brending. Biznesni ilgari surish uchun asosiy vositalar va marketing materiallari to'plamini noldan yaratish.,
+  -  O'yinlar ishlab chiqarish. Xalqaro darajaga mos keladigan har qanday mavzu va murakkablikdagi o'yinlarni ishlab chiqish.,
+  Sun'iy intellekt. Inson aql-zakovati imkoniyatlariga ega intellektual kompyuter tizimlarini ishlab chiqish,
+  - Kiberxavfsizlik. Tarmoqlar, qurilmalar, kodlar va ma'lumotlardagi zaifliklarni topish va tuzatish.
+
+Kompaniya haqida mijozlarning fikri:
+UIC Group kompaniyasi mijozlarini bir umrlik hamkor sifatida ko'radi. Biz eshitishni va analiz qilishni bilamiz. Har bir hamkorlarimizni bizga qo'yayotgan talablarini chuqur o'rgangan holda ular uchun eng optimal yechimlarni taklif qilamiz. Biz mahsulot sotmaymiz, balki sifatli yechim taqdim etamiz! Barcha IT xizmatlarida yuzaga kelishi mumkin bo'lgan har qanday murakkablikdagi vazifani amalga oshirish — maqsadimiz. Bunda butun jamoa tajribasi va bilimi kutilgan natijaga yo'naltiriladi. Sizning fikringiz va mehnatimiz mahsuli — bizning faxrimiz. Biz kompaniyangiz uchun mukammal IT yechimlarini berishda sizning yagona tanlovingiz bo'lishga tayyormiz.UIC Group kompaniyasi mijozlarini bir umrlik hamkor sifatida ko'radi. Biz eshitishni va analiz qilishni bilamiz. Har bir hamkorlarimizni bizga qo'yayotgan talablarini chuqur o'rgangan holda ular uchun eng optimal yechimlarni taklif qilamiz. Biz mahsulot sotmaymiz, balki sifatli yechim taqdim etamiz! Barcha IT xizmatlarida yuzaga kelishi mumkin bo'lgan har qanday murakkablikdagi vazifani amalga oshirish — maqsadimiz. Bunda butun jamoa tajribasi va bilimi kutilgan natijaga yo'naltiriladi. Sizning fikringiz va mehnatimiz mahsuli — bizning faxrimiz. Biz kompaniyangiz uchun mukammal IT yechimlarini berishda sizning yagona tanlovingiz bo'lishga tayyormiz.
+
+UIC tomonidan muvaffaqiyatli yakunlangan loyihalar:
+safennetpay: Biz barcha kiberxavfsizlik talablariga javob beradigan har xil turdagi animatsiyalardan foydalangan holda xalqaro darajadagi safenetpay.com saytini ishlab chiqdik . Safenetpay - bu kompaniyalarning to'lov tizimlarini optimallashtirishga qaratilgan xalqaro kompaniya.\n,
+   proSm: \Pro Service Management\ loyihasi, ushbu loyiha uchun jamoamiz keng qamrovli yechim - mobil ilova, veb-sayt, xodimlar uchun KPI tizimi, avtomatlashtirilgan hisob-kitob tizimini taqdim etdi. Pro SM loyihasi \Akfa\ xolding guruhiga tegishli bo'lib, ushbu kompaniya Tashkent shahridagi barcha yangi binolarni boshqaradi. Bizning ilovamiz yangi binolarning barcha aholisi uchun xizmatlarni taqdim etadi.,
+    
+  express: Express24 oziq - ovqat mahsulotlarini yetkazib berish bo'yicha eng yirik xizmat uchun mobil ilova bo’lsada, shuningdek biz tomondan boshqa yechimlar ham taqdim etildi. Ya'ni Express 24 Merchant-bu korxonalar uchun buyurtmalarni qabul qilish va buyurtma holatini yangilash vositasi va restoranlarni boshqarish dasturidir.,
+  
+  tdiu: Toshkent Davlat Iqtisodiyot universiteti uchun universitet xodimlari, talabalari va abituriyentlari uchun interaktiv imkoniyatlarga ega veb-sayt. Shuningdek, universitet brendi, kadrlar bilan ishlashni avtomatlashtirish uchun HR tizimi va mahsulotlarimizni QA muhandislari jamoasi tomonidan sinovdan o'tkazish bizning kompaniya tomondan amalga oshirildi.,
+  
+  vilz: O'zbekistonning yetakchi brendlaridan avtomobillar sotadigan kompaniyaga avtosalonlar savdosini oshirish maqsadida Vilz.uz veb-sayt tayyorlandi. Sayt test-drayvdan ro'yxatdan o'tish, kreditga mashina sotib olish va boshqa transport vositalari uchun zarur imkoniyatlar bilan tayyorlangan. Vazifa to'liq onlayn-do'kon rejimida saytning mobil versiyasini yaratish va elektron kitoblarni o'qishga imkon berishdan iborat bo’lgan. Mobil ilovasi Google Play va App Store’da mavjud.\n,
+  
+  ayol_uchun: Ayoluchun.uz ayollar uchun maxsus platforma bo’lib, unda yoshi va kasbidan qat'i nazar, ularni har tomonlama qo'llab-quvvatlaydi va ularni qiziqtirgan yo'nalishlar bo'yicha video darslarni taqdim etadi. Maqsad: ayollar ta'limi, ma'naviy, madaniy va ma'rifiy rivojlanishni yagona platformada birlashtirish.\n,
+  
+  super_1000: Super1000 onlayn ta'lim platformasi. Kurslarni sotishga imkon beradigan platforma. Super1000 sayti barcha kiberxavfsizlik talablariga javob beradi. Video ma'lumotlarini yozib olish va ularni platformaga joylashtirish ham bizning jamoamiz tomonidan amalga oshirildi.\n,
+  
+  asaxiy: Asaxiy.uz -bu maishiy texnika va elektronika sotadigan onlayn-do'kon. Biz loyiha uchun turli xil imkoniyatlarni, loyiha brendini, to'liq UX/UI dizaynini va loyihaning front-end qismini to’liq ishlab chiqdik. \n,
+  
+  asakabank: Asaka bank mobil ilovasi. Loyihaning asosiy maqsadi mobil ilovani yangi versiyada ishlab chiqish va ilova orqali bank xizmatlarini ko'rsatish edi. Hozirgi vaqtda foydalanuvchilar ko'plab xizmatlardan foydalanish imkoniyatiga ega va ilova sababli bankka tashrif buyuruvchilar soni sezilarli darajada kamaydi. Shuningdek, bizning jamoamizga Asaka Business mobil ilovasi - Asaka Bank bank mijozlari - yuridik shaxslarga masofaviy bank xizmatlarini ko'rsatish uchun rasmiy mobil tizim uchun dizayn yaratish topshirildi. Ushbu tizim mobil aloqa vositalari orqali bank operatsiyalarini amalga oshirishga imkon beradi.\n,
+  
+  avloniy: Avloniy.uz -Abdulla Avloniy nomidagi xalq ta'limi muammolarini o'rganish va istiqbollarini aniqlash ilmiy-tadqiqot institutining rasmiy veb-sayti. Sayt ichidagi fotosuratlar va video tarkib, sayt dizayni va dinamik joylashuvi to'liq ishlab chiqilgan. Ushbu saytdagi yana bir muhim yechim - bu bizning loyihamizning integratsiyasidir. \STesting\ elektron platformasi, bu bilimingizni xalqaro baholash dasturlarining topshiriqlarini o'z ichiga olgan elektron sinov tizimida sinab ko'rishga imkon beradi. U orqali analitik fikrlash ko'nikmalarini rivojlantirish, savodxonlikni shakllantirish, olingan bilimlarni ta'lim muassasalari talabalari hayotida qo'llash qobiliyati uchun keng foydalanish mumkin.,
+  
+  ricomel: Ricomel sayti haqida. Biz ricomel kompaniyasining veb-saytini ishlab chiqdik, u xalqaro talablarga javob beradi, o'z brendi va uslubiga mos keladi. Ricomel o'z brendini o'zining barcha assortimenti bilan yangi tasvir bilan namoyish qilishi uchun biz animatsiyaga boy veb-sayt ishlab chiqdik.\n,
+  
+  nomakler: Loyiha uchun onlayn platforma va mobil ilova Nomakler.uz, unda foydalanuvchilar sotish, sotib olish, ijaraga olish yoki sherik topish imkoniyatiga ega. Loyihaning dizayn va ishlab chiqish bizning jamoamiz tomonidan amalga oshirildi va barcha turdagi foydalanuvchilar uchun yuqori funksionallik va qulaylikni taqdim etdi.\n,
+  
+  uc: Uzbekistan's Club - global motivatsion platforma! Ushbu loyiha Uzbekistan klubi loyihasi sayti bo'lib, unda rezidentlar o'zlari va kasbiy tajribalari haqida so'zlab berishadi.\n,
+  
+  joyda: Bizning jamoamiz Joyda loyihasini qayta loyihalashtirdi, biz avvalgi mobil ilovaning foydalanuvchi tajribasini tahlil qildik va barcha kerakli ma'lumotlarni ko'rib chiqdik. \n,
+  
+  mening_konstitutsiyam: Davlat boshqaruvi sohasida biz O'zbekiston Respublikasi Markaziy saylov komissiyasi uchun Referendum2022 loyihasini amalga oshirish sharafiga muyassar bo'ldik. Ushbu ilova shaffof ovoz berish uchun barcha kerakli ma'lumotlar va funksiyalarni o'z ichiga oladi, fuqarolar barcha tegishli savollarga javob olishlari va arizalarni qoldirishlari mumkin.\n
+
+
+Bizning SaaS tizimlarimiz (bu internetdagi xizmatlarning aksariyati: elektron pochta, CRM tizimlari, vazifalarni rejalashtiruvchilar, veb-sayt yaratuvchilar, bloglash platformalari. Ya'ni, muayyan vazifalarni hal qilishga imkon beradigan barcha bulutli dasturlar) va PaaS (ma'lumotlar bazasini boshqarish tizimi, mashinani o'rganish yoki big data ishlov berish muhiti) asosiy xizmat ko'rsatish yo'nalishlariga mos ravishda mavjud.\n,
+
+Kompaniya O'zbekiston Respublikasi ta'lim tizimiga loyihalarda yechim taklif qildi:
+ - Co-Learning Academy - bu IT kasblarini o'rgatish uchun ijtimoiy loyiha. Ushbu loyiha Advanced Front-end, Basic Front-end, Python Back-end, PHP Back-end, Grafik dizayn va mobil ishlab chiqish kabi sohalarda treningni o'z ichiga oladi. To'g'ridan-to'g'ri mutaxassislardan video darslarni bosqichma-bosqich o'rganish bo'yicha treninglar o'tkaziladi.\n,
+
+ - Aqliy arifmetika - avtomatlashtirilgan ko'p funksiyali platforma! Ushbu yo'nalishda dars beradigan o'qituvchilar uchun zamonaviy platforma sifatida bolalar uchun veb-sayt va mobil ilova shaklida uy vazifalari tizimini yaratdik, shuningdek, ular qiziqarli o'yinlar uslubida maxsus bezatilgan. Platforma hozirda B2B yo'nalishidagi eng yirik startaplar qatoriga kiradi.,
+
+ - iMaktab — barcha maktablarni, ularning kattaligidan yoki mavjud resurslaridan qat'iy nazar, maktabni samarali o'qitish va boshqarishni ta'minlash uchun zarur bo'lgan tizimlar bilan ta'minlashga qaratilgan. iMaktab Python, Django, VueJS, PostgreSQL va boshqa dasturiy ta'minotni ishlab chiqish vositalari yordamida ishlab chiqilgan,
+
+Davlat boshqaruvi sohasida:
+ - 2021-yilda O'zbekiston Respublikasi Prezidenti saylovida yosh saylovchilarning e'tiborini jalb qilish va ularning konstitutsiyaviy huquqlaridan foydalanish bo'yicha axborot veb-sayti tayyorlandi. Saytda tashrif buyuruvchilar o'zlarining ma'lumotlarini kiritish orqali saylov uchastkalari qayerda joylashganligini ko'rish imkoniyatiga ega.\n,
+
+ - Meningkonstitutsiyam.uz -veb-Portal mamlakatimiz fuqarolarining konstitutsiyaviy islohotlarni amalga oshirishda ishtirok etish imkoniyatlarini kengaytirish, Konstitutsiyaviy komissiya faoliyati to'g'risida tezkor va ishonchli ma'lumot olish, keng jamoatchilik vakillari, mutaxassislar va ekspertlarning umumxalq muhokamasiga qo'yilgan masalalar bo'yicha pozitsiyalari bilan tanishtirish imkonini beradi.\n ,
+
+ - Notarial palataning loyihasi O'zbekiston Respublikasi notarial palatasining barcha elektron xizmatlarini birlashtirgan holda ko'plab imkoniyatlarni taqdim etadi. Sayt butun mamlakat bo'ylab barcha notarial xizmatlarni birlashtirishga va ularning ma'lumotlarini foydalanuvchilarga osongina taqdim etishga xizmat qiladi.\n,
+
+ - Sergelihokimiyati.uz -tuman hokimligining rasmiy sahifasi xizmatlarimiz yordamida sifatli boyitildi. Administrator panellaridan bo'sh ish o'rinlarini boshqarish qobiliyati, abituriyentlar tomonidan avtomatik rezyume yaratish tizimi va yuqori tezlikdagi sayt — bularning barchasi hokimlik veb-saytida dinamik va interaktiv tarzda ishlamoqda.
+
+Bulutli dastur, saytlarni boshqarish uchun - Wave kabi funksiyalarga ega,
+ - Sayt ma'lumotlarini boshqarish va tahrirlash
+ - Saytga havolalarni qo'shish, tahrirlash va o'chirish
+ - Saytga sahifalarni qo'shish, ularni tahrirlash va o'chirish
+ - Saytdagi asosiy sozlamalarni o'zgartirish qobiliyati
+ - Saytdagi asosiy variantlarni yoqish va o'chirish
+ - SEO sayt tuzilishini boshqarish
+ - Sayt bo'limlarini boshqarish
+ - Tizim foydalanuvchilarini boshqarish
+ - Media fayllarini boshqarish (foto / video / audio)
+ - Sayt statistikasini yuritish
+ - Saytdagi reklama ma'lumotlarini boshqarish
+ - Saytdagi shakllarni boshqarish va arizalarni qabul qilish
+
+UIC training center haqida:
+UIC qoshidagi o'quv markazi - Kompaniya tashkil etilganidan beri jamoa noyob amaliyot tizimini yaratdi, keyinchalik u UIC Training Center’ga aylandi. Bugungi kunda ushbu markazda 25 dan ortiq junior mutaxassislari tahsil olmoqda. UIC Training Center’ning o'ziga xos xususiyati stajyorlarni haqiqiy loyihalarda va ish sharoitida o'qitishdan iborat.
+Co-learning Center - UIC do'sti, Kompaniya o'z faoliyatini boshlaganidan beri Co-Learning Center o'quv markazining hamkori bo'lib, u o'z navbatida bepul IT-ta'lim beradi. Markaz talabalarni quyidagi yo'nalishlarda o'qitishga qaratilgan: Advanced Front-end, Basic Front-end, Python Back-end, Back-end, UX/UI, Game Dev, raqamli marketing va mobil rivojlanish va Project Management asoslari.
+
+Tijorat loyihalarini ishlab chiqishdan tashqari, UIC Group ostida sho'ba loyihalar mavjud. 
+Masalan o'yinlarni ishlab chiqish jamoasi Unreal engine, Amerikaning Unity Technologies kompaniyasi tomonidan ishlab chiqilgan platformalararo kompyuter o'yinlarini ishlab chiqish texnologiyasiga ega. Dvigatelda C+\+ dasturlash tili tufayli siz hech qanday muammosiz o'yinlar ishlab chiqishingiz mumkin: Windows; Mac OS; Linux; Xbox; PlayStation; Wii; Dreamcast va boshqa platformalar. So'nggi yillarda mobil platformalar Unreal Engine’da o'yin o'ynashning ustuvor yo'nalishlaridan biriga aylandi, shuning uchun iOS va Android uchun rivojlanish ham qo'llab-quvvatlanmoqda. Modulli qaram komponentlar tizimi orqali o'yinni bir platformadan boshqasiga nisbatan tezroq import qilishingiz mumkin. Unity sizga kompyuterlar, o'yin pristavkalari, mobil qurilmalar, Internet-ilovalar va boshqalarni o'z ichiga olgan 25 dan ortiq turli platformalarda ishlaydigan ilovalarni yaratishga imkon beradi. 
+Ijtimoiy Internet nashriyoti bo’lib, ommaviy axborot vositalarining rasmiy maqomiga ega. Loyiha auditoriyasi atrofdagi ijtimoiy, madaniy, ilmiy yangiliklar va foydali narsalar bilan bog'liq bo'lgan eng muhim voqealardan xabardor bo'lishni istagan foydalanuvchilardan iborat.
+Bu nomzodlarga qiziqarli ish topishda, ish beruvchilarga esa O'zbekiston Respublikasi hududida munosib nomzod topishda yordam berish maqsadida ishga tushirilgan ish qidirish tizimi hisoblanadi.
+Animatsiya, harakat dizayni, videograflar, fotosuratchilar, koloristlar, bo'yicha mutaxassislarni o'z ichiga olgan media ishlab chiqarish jamoasidir.
+UIC Group Atlassian xalqaro kompaniyasining O'zbekistondagi yagona platinium hamkori va vakili hisoblanadi.  Atlassian-Avstraliya kompaniyasi, dasturiy ta'minotni ishlab chiqishni boshqarish uchun dasturiy ta'minot ishlab chiqaruvchisi. Eng mashhur mahsulotlar — Jira xatolarni kuzatish tizimi va Confluence hamkorlik tizimi, Trello — Kanban uslubidagi ro'yxat tuzish uchun mo’ljallangan veb-dastur.
+
+UIC ning yutuqlari:
+  Brand Year: 2021-yil yakunlariga ko'ra, kompaniya IT yo'nalishi bo'yicha yillik {action} tanlovida 3-o'rinni egalladi.,
+  Mangu Sarkarda: bu tarixiy o'yin simulyator, endi u kelajakni eng yangi texnologiyalar bilan namoyish etadi.\n\nSizda o’yin orqali 3 qit'ani birlashtirgan buyuk imperiya davriga qaytish imkoniyati mavjud!\n\n\nUlug'vor XIV asrga boring Buyuk Temuriylar Qirolligi va Amir Temur saltanatiga sayohat qiling.\n\n\nXalqlar hayotida muhim rol o'ynagan va shiddatli kurash bilan bog'liq bo'lgan buyuk sarkarda va davlat arbobi hayotiga bag'ishlangan o'yin sizning kundalik hayotingizda burilish nuqtasi bo'ladi.\n\n\nKatta o'zgarishlarga tayyor bo'ling. Birgalikda tarixni qaytadan yaratish orqali qahramonligingizni abadiy muhrlang!,
+  UIC Clan: CS bo'yicha eSPORTS jamoasi: GO-UIC Clan, alohida e'tiborga loyiqdir, chunki o’yinchilar ular ham oddiy xodimlar bo’lib, boshqa professional o'yinchilar orasida yirik turnirlarda ajoyib natijalarni namoyish etadilar. Jamoa CAD Corporate Cup turnirida ishtirok etish sharafiga muyassar bo'ldi, {action} siz bizning jamoamizning eng muvaffaqiyatli jamoalardan biri sifatida qayd etib, ajoyib natijalarga erishgan turnirdagi o'yinini ko'rishingiz mumkin.
+
+
+UIC dunyoning boshqa davlatlarida ham mavjud. Biz Silikon vodiysidamiz:
+  - Kompaniyani yanada rivojlantirish, xalqaro maydonga chiqish va jamoa a'zolarining kasbiy mahoratini oshirish maqsadida {action} (Silikon vodiysi) filialimiz ochildi.,
+  - Ushbu yechim ta'lim olishni istagan xodimlarning malakasini oshirish uchun ajoyib vosita bo'lib xizmat qiladi, {action} ajratiladi.,
+  - AQShning Kaliforniya shtatidagi San-Fransiskoda,
+
+
+
+UIC ning qadriyatlari va an’analari:
+  - Kompaniyadan maxsus grantlar
+  - Zakovat tanlovi, biz professional boshlovchilardan tadbirni o'tkazishni va jamoamiz bilimlarini sinab ko'rishni so'raymiz. Bizning yigitlarimiz o'z bilimlarini sinab ko'rish va g'oliblik kubogini olish uchun faol harakat qilishdi. ,
+  - Meetup, ko'pincha xodimlarimizning qiziqishidan kelib chiqqan holda samarali uchrashuvlarni faol ravishda tashkil qilamiz, bu yerda master-klasslar va savol-javob sessiyalari formatida biz o'z jamoamizning dunyoqarashi va kasbiy imkoniyatlarini kengaytirish uchun professional tajribani boshqalar bilan baham ko'ramiz. Bizning mehmonlarimiz orasida moliyaviy savodxonlik sohasidagi mutaxassislar-Nilufar Sharipova, QA sinovchi-Qurbonov Kilichbek ham bo’lgan. Shuningdek, biz xodimlar orasida kitobxonlik tanlovlarini ham o’tkazib turamiz. ,
+  - Futbol musobaqalari, bizning jamoamiz uchun tez-tez o'tkaziladigan o'yin hisoblanadi, bizning xodimlarimiz mini-jamoalarga bo'linib, eng yaxshi o'yinchilarni aniqlaydi. Ajablanarlisi shundaki, jamoamiz orasida eng ko’p tashkillashtiriladigan o’yinlardan biri bu futboldir!,
+  - UIC tug'ilgan kuni, biz uchun yilning yana bir muhim kuni UIC'ning tug'ilgan kunidir. Bu yil natijalarini sarhisob qilish va yangi maqsadlar va cho'qqilarni belgilash uchun ajoyib sababdir. Kompaniya xodimlarning har birini va ularning hissalarini qadrlaydi, biz jamoamizning bizga bo'lgan ishonchining o'sishidan xursandmiz.,
+  - eFit Race - 2022, hamma tog'larni yaxshi ko'radi va UIC oilasi bundan mustasno emas! Charchoqli ish kunlaridan so'ng, eng yaxshi yechim - bu haqiqatan ham go'zal manzaralardan bahramand bo’lish. \n\nBu yil biz har yili o'tkaziladigan Befit race professional sportchilar musobaqasida jamoamiz sharafini g'urur bilan himoya qildik, u ajoyib natijalarga erishdik va kelgusi poygalarga tayyorgarlik ko'rmoqdamiz. \n,
+  - Yuqorida aytib o'tganimizdek, bizning yigitlarimiz CS:GO-dagi professional o'yinlari bilan ajralib turadi, shuning uchun biz ko'pincha eng yaxshi o'yinchilarni aniqlash uchun ichki musobaqalarni o'tkazamiz.,
+  - Kompaniya rahbariyati xodimlarning ish joyidagi qulayligini yuqori baholaydi, shuning uchun ofisda stol tennisi xonalari, PS5 o'yin xonalari, yotoqxonalari bo'lgan dam olish xonalari va ibodat xonasi doimiy ravishda ishlaydi.\n,
+  
+Bizning ofis:
+  - Tug'ilgan kunlarni nishonlash. Jamoaning tug'ilgan kunini nishonlash va tabriklash madaniyati kompaniya tashkil topgan paytdan boshlab paydo bo'lgan, qo'shma bayram xodimlarga jamoa a'zosi sifatida o'z qadr-qimmati va ahamiyatini his qilish imkonini beradi.  Birthday Party shirinliklar, yeguliklar, yahna ichimliklar bilan jamoaviy xordiq chiqarish holatiga aylangan.,
+  - Salomatlik. Yil davomida xodimlar uchun tibbiy ko'riklar va shifokor tavsiyalarini kompaniyamizning malakali shifokor xodimidan olishlari mumkin. Barcha xodimlarning sog’lig’i har doim nazoratda.
+
+UIC qiymatlari:
+  - UIC Group O'zbekistondagi har qanday murakkablikdagi IT - dunyoning barcha jabhalarida o'z yechimlarini taklif etadi. \UIC Group\ - bu o'z qadriyatlariga ega bo'lgan va sifat nazorati birinchi o'rinda turadigan loyihalarning manzili. Kompaniya faoliyati mijozlarimizning talabini eng yuqori darajada qondirishga qaratilgan. Kompaniyamiz mijozlarga nafaqat mijozlar, balki sheriklar sifatida ham xizmat ko'rsatishga tayyor,
+  - Kompaniya klassik kompaniyalardan yo'nalishi va tizimi bilan farq qiladi. Bizga daromad emas, balki natija va tajriba muhimdir. Biz robototexnika, raqamli marketing, o'yinlarni ishlab chiqish, turli xil dasturiy ta'minot tizimlariga xizmat ko'rsatish bilan shug'ullanamiz.\n,
+  - United IT Company jamoasi sifatni moliyaviy foydadan ustun qo'yadi. Aniqrog'i, biz kompyuterlar bilan emas, balki odamlar bilan ishlaymiz. Mijozlarimizning fikr-mulohazalari, shuningdek, UIC belgilangan vazifalar va vazifalarga mas'uliyat bilan yondashishini, yaxshi muvofiqlashtirilgan jamoaviy jarayonni olib borishini tasdiqlaydi.\n,
+  - Axir, biz xalqaro standartlarga asoslangan faoliyatni amalga oshirib, it sohasida yetakchi jamoa bo'lishga intilamiz. Mijozlarimizning fikr-mulohazalari, shuningdek, UIC belgilangan vazifalar va vazifalarga mas'uliyat bilan yondashishini, yaxshi muvofiqlashtirilgan jamoaviy jarayonni olib borishini tasdiqlaydi.\n,
+
+Kompaniyadan maxsus grantlar ,
+  - Zakovat tanlovi. Biz professional boshlovchilardan tadbirni o'tkazishni va jamoamiz bilimlarini sinab ko'rishni so'raymiz. Bizning yigitlarimiz o'z bilimlarini sinab ko'rish va g'oliblik kubogini olish uchun faol harakat qilishdi.
+  - Meetup. Ko'pincha xodimlarimizning qiziqishidan kelib chiqqan holda samarali uchrashuvlarni faol ravishda tashkil qilamiz, bu yerda master-klasslar va savol-javob sessiyalari formatida biz o'z jamoamizning dunyoqarashi va kasbiy imkoniyatlarini kengaytirish uchun professional tajribani boshqalar bilan baham ko'ramiz. Bizning mehmonlarimiz orasida moliyaviy savodxonlik sohasidagi mutaxassislar-Nilufar Sharipova, QA sinovchi-Qurbonov Kilichbek ham bo’lgan. Shuningdek, biz xodimlar orasida kitobxonlik tanlovlarini ham o’tkazib turamiz. ,
+  - Futbol musobaqalari. Bizning jamoamiz uchun tez-tez o'tkaziladigan o'yin hisoblanadi, bizning xodimlarimiz mini-jamoalarga bo'linib, eng yaxshi o'yinchilarni aniqlaydi. Ajablanarlisi shundaki, jamoamiz orasida eng ko’p tashkillashtiriladigan o’yinlardan biri bu futboldir!,
+  - UIC tug'ilgan kuni. Biz uchun yilning yana bir muhim kuni UIC'ning tug'ilgan kunidir. Bu yil natijalarini sarhisob qilish va yangi maqsadlar va cho'qqilarni belgilash uchun ajoyib sababdir. Kompaniya xodimlarning har birini va ularning hissalarini qadrlaydi, biz jamoamizning bizga bo'lgan ishonchining o'sishidan xursandmiz.,
+  - BeFit Race - 2022. Hamma tog'larni yaxshi ko'radi va UIC oilasi bundan mustasno emas! Charchoqli ish kunlaridan so'ng, eng yaxshi yechim - bu haqiqatan ham go'zal manzaralardan bahramand bo’lish. \n\nBu yil biz har yili o'tkaziladigan Befit race professional sportchilar musobaqasida jamoamiz sharafini g'urur bilan himoya qildik, u ajoyib natijalarga erishdik va kelgusi poygalarga tayyorgarlik ko'rmoqdamiz. \n,
+
+UIC code va boshqaruvi:
+  Kompaniyaning korporativ kodeksi:
+    - Amalda korporativ boshqaruvning yuqori standartlarini ta'minlash juda qiyin. Shu sababli, korporativ odob-axloq qoidalarini umumlashtiruvchi kodeksni qabul qilish kompaniya faoliyatining axborot ochiqligi va oshkoraligini ta'minlashning usuli bo'lib, uning yordamida kompaniya o'z faoliyati bozorida korporativ birdamligini oshirish vositasi sifatida foydalanishi mumkin.,
+    - Korporativ kodeks kompaniyaning har bir xodimi uchun majburiyat darajasidan tortib, ma'lum bir kompaniya Konstitutsiyasining funksiyasigacha amal qiladi.\n Ushbu kodeks kompaniya faoliyatini nafaqat odob-axloq qoidalari, balki umumiy qonunlar bilan ham tartibga soladi. Xususan, kompaniya xodimlari egallab turgan lavozimidan qat'i nazar, kompaniya manfaatlariga zid yoki mos kelmaydigan harakatlarni amalga oshirmasliklari kerak. ,
+    - Ya'ni, yuqori malakaga ega bo'lgan xodim o'z lavozimidan past bo'lgan xodimlarning fikriga salbiy ta'sir ko'rsatmasligi, uni o'z vakolatidan tashqarida yoki uning vakolatiga zid bo'lgan ishlarni bajarishga majbur qilishi kerak. Ma'muriyat xodimlari, shuningdek, kompaniyaning barcha xodimlari kompaniyaning mulkidan uchinchi shaxslar yoki shaxsiy manfaatlari uchun foydalanmasligi, cheklangan (maxfiy) ma'lumotlarni oshkor qilmasligi kerak.,
+  UIC’da menejment haqida: 
+    - Loyihani boshqarishning asosiy vositasi - bu Atlassian kompaniyasining Platinum UIC Group hamkorligiga asoslangan mahsulotlari, Jira-tijorat xatolarini kuzatish tizimi, foydalanuvchilar bilan o'zaro munosabatlarni tashkil qilish uchun mo'ljallangan, garchi u ba'zi hollarda loyihalarni boshqarish uchun ham qo'llaniladi. Shuningdek, Agile metodologiyasi orqali loyihalar boshqariladi.,
+    - Har bir yangi loyihani amalga oshirishda kodni avtomatlashtirilgan tahlil qilish amalga oshiriladi, bu koddagi zaifliklarni va xatolarni o'z vaqtida topishga yordam beradi. \n,
+    - Loyihalarni amalga oshirishda biz jamoamiz tomonidan ishlab chiqilgan va mahsulot yaratish vaqti va sifati bo'yicha katta afzalliklarga ega bo'lgan loyihalarimizning hayot siklidan foydalanamiz.\n\n\nUIC Group tomonidan ishlab chiqilgan texnologiyalarni qo'llab-quvvatlash boshqarmasi jarayoni alohida yo'lga qo'yildi.\n,
+    - QA test guruhida malakali mutaxassislarga ega bo'lish, jamoa har qanday mahsulotni funksional va dizayn jihatidan foydalanuvchilarga qulay qilish imkoniyatini yaratib beradi. Buning uchun ular rivojlanish guruhining barcha a'zolari bilan doimiy ravishda o'zaro aloqada bo'lib, natijani belgilangan talablar bilan doimiy ravishda taqqoslashadi.\n,
+    - Check-list (chek-list) bilan yaxshi tashkil etilgan ish, ushbu tavsiyalarning barchasini tekshirish ro'yxatini loyihalash bosqichida hisobga olish va amalga oshirish qiyin. Biz ushbu mexanizmga katta e'tibor beramiz, u qanchalik yaxshi ishlaydi va biznesimizga ko'proq foyda keltiradi. Biz ko'p yillar davomida cheklar ro'yxatini avtomatlashtirdik va o'zingizning shaxsiy ro'yxatingiz uchun asos bo'lishi mumkin bo'lgan shablonlarning katta bazasini to'pladik.
+
+UIC ga qo’shilishning afzalliklari:
+  - Windows tomonidan litsenziyalangan versiya,
+  - Har bir qurilma uchun litsenziyalangan antivirus,
+  - Oylik bonus tizimi (asosiy oylik ish haqidan tashqari, mavjud mezonlarga muvofiq oylik tashabbuslar orqali qo'shimcha bonuslarni olish mumkin).
+  - Shahar markazida joylashgan ofis (Oybek metrosi va avtobus bekatlaridan piyoda masofada, qulay to'xtash joyi, bir daqiqada Korzinka.uz, dorixonalar va kafelar).
+  - Barcha sharoitlarga ega qulay ofis.
+  - Kompaniya xodimlariga ehtiyojlarga qarab kompyuterlar ajratiladi.
+  - Katta va do'stona jamoada ishlash qobiliyati.
+  - Tajribali mutaxassislar tomonidan bilim olish imkoniyati.
+  - Keng ko'lamli loyihalarda ishlash (mahalliy va xorijiy loyihalar).
+  - Rasmiy ish bilan ta'minlash (O'zbekiston Respublikasi mehnat kodeksiga muvofiq).
+  - Xizmat safari (xalqaro va viloyatlararo).
+
