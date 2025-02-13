@@ -86,7 +86,6 @@ db.sqlite3
 .idea/
 venv/
 .env
-./application/.env
 
 
 
