@@ -6,7 +6,7 @@ WCD_URL = settings.WCD_URL
 WCD_API_KEY = settings.WCD_API_KEY
 COMPANY_NAME = settings.COMPANY_NAME
 
-DATA_PATH = "/app/RAG"
+DATA_PATH = "/application/RAG"
 
 
 
