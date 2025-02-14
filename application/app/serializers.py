@@ -4,4 +4,4 @@ from app.models import Model
 class ModelSerializers(serializers.ModelSerializer):
     class Meta:
         model = Model
-        fields = "__all__"
+        fields = ['company_name', 'session_id', 'user_input']
