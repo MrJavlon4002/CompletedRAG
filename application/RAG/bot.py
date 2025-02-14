@@ -1,10 +1,13 @@
 from RAG.bot_parts.document_hendler import DocumentHandler
 from django.conf import settings
 
-DATA_PATH = settings.DATA_PATH
-WCD_URL = settings.WCD_URL
-WCD_API_KEY = settings.WCD_API_KEY
-COMPANY_NAME = settings.COMPANY_NAME
+# WCD_URL = settings.WCD_URL
+# WCD_API_KEY = settings.WCD_API_KEY
+# COMPANY_NAME = settings.COMPANY_NAME
+
+WCD_URL = 'https://yluukv1xqra0g8jo9pyxdw.c0.asia-southeast1.gcp.weaviate.cloud'
+WCD_API_KEY = '8E8uvXYmEYv3FJlZ9RQvQvBCdYS7VGmR60KF'
+COMPANY_NAME = "Aisha"
 
 DATA_PATH = "/app/RAG"
 
