@@ -86,22 +86,13 @@ DATABASES = {
 }
 
 
-
-GROK_API_KEY = os.getenv("GROK_API_KEY")
-LONGCHAIN_API_KEY = os.getenv("LONGCHAIN_API_KEY")
 VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY")
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
-
-AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
-AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
 
 DATA_PATH = os.getenv("DATA_PATH", "/app/RAG")  
 WCD_URL = os.getenv("WCD_URL")
 WCD_API_KEY = os.getenv("WCD_API_KEY")
-COMPANY_NAME = os.getenv("COMPANY_NAME", "Aisha")
 
 
 # Password validation

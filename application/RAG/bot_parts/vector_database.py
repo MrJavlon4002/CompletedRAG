@@ -1,6 +1,6 @@
 import weaviate
 from weaviate.classes.config import Configure,Property, DataType
-from RAG import api_keys
+from django.conf import settings
 from RAG.bot_parts.voyageEmbedding import VoyageEmbeddings
 from RAG.bot_parts.text_splitter import split_text
 
@@ -11,10 +11,10 @@ class WeaviateDatabase:
         self.path = path
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
-        self.headers = {"X-VoyageAI-Api-Key": api_keys.voyage_api_key}
+        self.headers = {"X-VoyageAI-Api-Key": settings.VOYAGE_API_KEY}
         self.company_name = company_name
         self.voyage_model = voyage_model
-        self.voyageAi = VoyageEmbeddings(api_key=api_keys.voyage_api_key, model=voyage_model)
+        self.voyageAi = VoyageEmbeddings(api_key=settings.VOYAGE_API_KEY, model=voyage_model)
         self.client = self._create_client()
         self.collections = self._initialize_collections()
 
@@ -22,7 +22,7 @@ class WeaviateDatabase:
         return weaviate.connect_to_local(host="weaviate", port=8080, headers=self.headers)
 
     def _initialize_collections(self):
-        # self.client.collections.delete_all()
+        self.client.collections.delete_all()
 
         print("Existing collections:", self.client.collections.list_all())
         collections = {}

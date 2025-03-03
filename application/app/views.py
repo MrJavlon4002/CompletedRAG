@@ -19,7 +19,7 @@ class ModelViewset(viewsets.ModelViewSet):
         """Foydalanuvchi yangi model yaratishi uchun `POST` method."""
         session_id = request.data.get("session_id")
         user_input = request.data.get("user_input")
-        company_name = request.data.get("company_name", "Aisha")  
+        company_name = request.data.get("company_name")  
 
         if not session_id or not user_input:
             return Response({"error": "session_id va user_input talab qilinadi"}, status=status.HTTP_400_BAD_REQUEST)

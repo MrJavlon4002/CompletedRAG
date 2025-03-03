@@ -1,0 +1,108 @@
+Osnova — Career Assistant
+
+General description:
+Osnova — is your career assistant. We help you choose a profession, give you modern knowledge and skills, introduce you to leading companies and make you part of the professional community. We teach new professions, develop skills, help you choose your own path and build a modern career.
+
+Courses in Russian:
+1. Marketing School Russian Course
+2. HR School Russian Course
+
+1. Marketing School Russian Course
+Description: This course teaches you how to study the market, competitors and target audience, develop marketing strategies and media plans. Skills are given to work with digital and traditional communication channels, launch and optimize advertising campaigns. Practical experience on real cases.
+Link: https://osnovaedu.uz/marketing
+
+2. HR School Russian Course
+Description: Basic aspects of HR management: building an organizational structure, recruiting, adapting and motivating employees. Focus on working with soft skills and digital tools (Microsoft Office, MyMehnat, 1C). Impact and application of HR strategies on business.
+Link: https://osnovaedu.uz/hr
+
+3. Course Start a Career in Russian
+Description: Provides knowledge on job search, soft skills, career guidance and career choice. Teaches young professionals how to write an effective resume, pass an interview and find a job without experience.
+Link: No information
+
+Courses in Uzbek:
+1. SMM Manager Course
+2. Project Manager Course
+3. Midjourney Course
+4. 1C Accounting Course + MyMehnat
+5. Excel Course
+6. Tilda Course
+7. Figma Course
+8. First Steps to Marketing Course
+9. Career Start Course
+
+1. SMM Manager Course
+Description: Working with social networks (Instagram, Telegram, etc.), content creation, optimization, targeted advertising management and cooperation with influencers. Automation skills with artificial intelligence tools.
+Details:
+Number of lessons: 19
+Price: 720,000 soums
+Topics: Social media management, SMM campaigns, content creation, advertising setup
+Advantages: Flexible schedule, practical skills, certificate, curatorial assistance, portfolio project
+Link: https://osnovaedu.uz/smm-in-uzbek
+
+2. Project Manager Course
+Description: Project management: planning, organization, control, team management and analysis of results. Application of knowledge in real-life situations with practical tasks.
+Details:
+Number of lessons: 15
+Price: 720,000 soums
+Topics: Project planning, budgeting, team management, monitoring and evaluation
+Advantages: Practical tasks, flexible schedule, constant access to materials
+Link: https://osnovaedu.uz/project-menejer
+
+3. Midjourney Course
+Description: Create photorealistic images using the Midjourney neural network, adjust style and text, improve assets for projects.
+Details:
+Number of lessons: 12
+Price: Standard - 450,000 soums, Premium - 1,200,000 soums
+Topics: Neural networks, image management, photorealistic images, text and styles
+Benefits: Access to the image creation bot, practical assignments, ready-made portfolio, certificate
+Link: https://osnovaedu.uz/midjourneyuz
+
+4. 1C Accounting Course + MyMehnat
+Description: Accounting in 1C, preparation of payroll and tax reports, management of employees with the MyMehnat portal.
+Details:
+Number of lessons: 7
+Price: 249,000 soums
+Topics: 1C interface, payroll, tax reporting, working with MyMehnat
+Advantages: 80% practice, certificate, flexible schedule, permanent access
+Link: https://osnovaedu.uz/buxgalter-1cuz
+
+5. Excel Course
+Description: Working with data and formulas in Excel, creating graphs and tables, streamlining workflows.
+Details:
+Number of lessons: 14
+Price: 450,000 soums
+Topics: Interface, data organization, formulas, graphs, automation
+Advantages: Flexible schedule, 80% practice, useful materials, certificate
+Link: https://osnovaedu.uz/exceluz
+
+6. Tilda Course
+Description: Creating professional websites, basics of design and typography, working with SEO optimization and analytics.
+Details:
+Number of lessons: 13
+Price: 450,000 soums
+Topics: Tilda basics, design, blocks, animation, SEO, analytics
+Advantages: Suitable for beginners, quick learning, practical lessons
+Link: https://osnovaedu.uz/tildauz
+
+7. Figma Course
+Description: Working in Figma for user interfaces, advertising creatives and presentations: vector graphics, prototypes, components.
+Details:
+Number of lessons: 4 modules, 25 lessons
+Price: 450,000 soums
+Topics: Interface, layouts, prototypes, Auto Layout and Teamwork
+Advantages: Flexible schedule, practice, 2-year free subscription, certificate
+Link: https://osnovaedu.uz/figmauz
+
+8. First Step to Marketing Course
+Description: Marketing basics: research, strategy, advertising, digital directions. With video lectures and tests.
+Details:
+Number of lessons: 7 video lectures
+Price: 249,000 soums
+Topics: Marketing basics, research, advertising campaigns, analysis
+Advantages: Expert lessons, job preparation, unlimited access, test
+Link: https://osnovaedu.uz/marketingkursi
+
+9. Career Start Course
+Description: Teaches young professionals how to write a resume, pass an interview, find a job without experience, and plan a career.
+Details: New skills for work, career guidance
+Link: No information

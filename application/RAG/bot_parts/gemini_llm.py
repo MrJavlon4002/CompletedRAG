@@ -1,6 +1,6 @@
 import google.generativeai as genai
-from RAG import api_keys
 from langdetect import detect_langs
+from django.conf import settings
 
 gemini_model = "gemini-2.0-flash-exp"
 
@@ -19,26 +19,6 @@ def language_detection(query: str) -> str:
         elif lang_str in ['ru', 'uk', 'mk']:
             return 'ru'
     return 'uz'
-
-def check_uic_relevance(questions: str, user_question) -> bool:
-    return True
-    """
-    Check if the question is relevant to UIC company and requires database access.
-    """
-    system_instruction = (
-        "You are a classifier that determines if a question is related to UIC company.\n"
-        "Output only 'true' if the Main question question is related UIC company, its services, staff, or operations.\n"
-        "Output only 'false' for Main questions, greetings, or unrelated topics."
-    )
-    
-    genai.configure(api_key=api_keys.gemini_api_key)
-    model = genai.GenerativeModel(model_name="gemini-1.5-flash", system_instruction=system_instruction)
-    response = model.generate_content(f"Documentory questions:{questions} \nMain question: {user_question}")
-    try:
-        return response.text.strip().lower() == 'true'
-    except Exception as e:
-        print(f"Error in relevance check: {e}")
-        return False
 
 def call_gemini_with_functions(model_name: str, messages: str, api_key: str, system_instruction: str)->list[str]:
     """
@@ -91,10 +71,9 @@ def contextualize_question(chat_history: list[str], latest_question: str, compan
     result["text"] = list(call_gemini_with_functions(
         model_name=gemini_model,
         messages=messages,
-        api_key=api_keys.gemini_api_key,
+        api_key=settings.GEMINI_API_KEY,
         system_instruction=system_instruction
     ))
-    result["requires_db"] = check_uic_relevance(questions=str(result["text"]), user_question=latest_question)
     
     return result
 
@@ -122,7 +101,7 @@ def answer_question(context: str, reformulations: list[str], user_question: str,
     print(f"Main question: {user_question}\nDocumentary questions:{reformulations}")
 
     messages = f"Company Data: {context}\nDocumentary questions: {reformulations}, Main question: {user_question}"
-    genai.configure(api_key=api_keys.gemini_api_key)
+    genai.configure(api_key=settings.GEMINI_API_KEY)
     model = genai.GenerativeModel(model_name= gemini_model, tools=None, system_instruction=system_instruction)
     try:
         response_stream = model.generate_content(

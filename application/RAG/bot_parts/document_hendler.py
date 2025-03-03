@@ -49,7 +49,7 @@ class DocumentHandler:
         context = [
             self.query_core_data(query=question, lang=standalone_questions["lang"])
             for question in standalone_questions["text"][0] if question
-        ] if standalone_questions["requires_db"] else []
+        ]
 
         full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name))
         yield full_response
