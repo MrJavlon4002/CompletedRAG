@@ -1,8 +1,10 @@
-import google.generativeai as genai
+import openai
 from langdetect import detect_langs
 from django.conf import settings
 
-gemini_model = "gemini-2.0-flash-exp"
+# Assuming you have your OpenAI API key in settings
+openai.api_key = settings.OPENAI_API_KEY
+openai_model = "gpt-4o"  # You can change this to your preferred OpenAI model
 
 def language_detection(query: str) -> str:
     """
@@ -14,41 +16,37 @@ def language_detection(query: str) -> str:
 
     for lang in lang_list:
         lang_str = str(lang).split(':')[0]
-        if lang_str in ['en', 'fi', 'nl','de',"no"]:
+        if lang_str in ['en', 'fi', 'nl', 'de', "no"]:
             return 'en'
         elif lang_str in ['ru', 'uk', 'mk']:
             return 'ru'
     return 'uz'
 
-def call_gemini_with_functions(model_name: str, messages: str, api_key: str, system_instruction: str)->list[str]:
+def call_openai_with_functions(model_name: str, messages: str, api_key: str, system_instruction: str) -> list[str]:
     """
-    Call the Gemini API with tools and handle responses or errors gracefully.
+    Call the OpenAI API and handle responses or errors gracefully.
     """
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(
-        model_name=model_name,
-        system_instruction=system_instruction
-    )
-
+    client = openai.OpenAI(api_key=api_key)
+    
     try:
-        response = model.generate_content(
-            contents=[messages],
-            generation_config=genai.types.GenerationConfig(
-                temperature=0.3,
-            ),
+        response = client.chat.completions.create(
+            model=model_name,
+            messages=[
+                {"role": "system", "content": system_instruction},
+                {"role": "user", "content": messages}
+            ],
+            temperature=0.3,
         )
-
-        return response.candidates[0].content.parts[0].text.split('\n'),
-
+        return response.choices[0].message.content.split('\n')
+    
     except Exception as e:
-        print(f"Error during Gemini call: {e}")
+        print(f"Error during OpenAI call: {e}")
         return {"error": str(e)}
 
-def contextualize_question(chat_history: list[str], latest_question: str, company_name:str) -> dict:
+def contextualize_question(chat_history: list[str], latest_question: str, company_name: str) -> dict:
     """
     Reformulate a standalone question using chat history.
     """
-    
     chat_history = chat_history[-3:] if len(chat_history) > 3 else chat_history
 
     result = {}
@@ -68,17 +66,16 @@ def contextualize_question(chat_history: list[str], latest_question: str, compan
 
     messages = f"Chat history: {chat_history}\nLatest question: {latest_question}"
 
-    result["text"] = list(call_gemini_with_functions(
-        model_name=gemini_model,
+    result["text"] = list(call_openai_with_functions(
+        model_name=openai_model,
         messages=messages,
-        api_key=settings.GEMINI_API_KEY,
+        api_key=settings.OPENAI_API_KEY,
         system_instruction=system_instruction
     ))
     
     return result
 
-
-def answer_question(context: str, reformulations: list[str], user_question: str, company_name:str):
+def answer_question(context: str, reformulations: list[str], user_question: str, company_name: str):
     """
     Answer the user's question using the provided context.
     """
@@ -101,24 +98,23 @@ def answer_question(context: str, reformulations: list[str], user_question: str,
     print(f"Main question: {user_question}\nDocumentary questions:{reformulations}")
 
     messages = f"Company Data: {context}\nDocumentary questions: {reformulations}, Main question: {user_question}"
-    genai.configure(api_key=settings.GEMINI_API_KEY)
-    model = genai.GenerativeModel(model_name= gemini_model, tools=None, system_instruction=system_instruction)
+    
+    client = openai.OpenAI(api_key=settings.OPENAI_API_KEY)
     try:
-        response_stream = model.generate_content(
-            messages,
-            stream=True,
-            generation_config=genai.types.GenerationConfig(
-                temperature=0.3,
-            ),
+        response_stream = client.chat.completions.create(
+            model=openai_model,
+            messages=[
+                {"role": "system", "content": system_instruction},
+                {"role": "user", "content": messages}
+            ],
+            temperature=0.3,
+            stream=True
         )
 
-        for response_chunk in response_stream:
-            chunk_text = response_chunk.candidates[0].content.parts[0].text
-            yield chunk_text
+        for chunk in response_stream:
+            if chunk.choices[0].delta.content:
+                yield chunk.choices[0].delta.content
 
-    except KeyError as e:
-        print(f"KeyError: {e}")
-        yield {}
     except Exception as e:
         print(f"An error occurred during streaming: {e}")
         yield {}
