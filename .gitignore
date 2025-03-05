@@ -85,7 +85,9 @@ local_settings.py
 db.sqlite3
 .idea/
 venv/
-.env
+.venv/
+application/RAG/chat_history.db
+application/.env
 
 
 

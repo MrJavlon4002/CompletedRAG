@@ -1,6 +1,7 @@
 import time
 from RAG.bot_parts.vector_database import WeaviateDatabase
-from RAG.bot_parts.gemini_llm import contextualize_question, answer_question
+# from RAG.bot_parts.gemini_llm import contextualize_question, answer_question
+from RAG.bot_parts.openai_lmm import contextualize_question, answer_question
 from RAG.bot_parts.query_database import (
     initialize_database,
     get_session_history,
@@ -48,13 +49,14 @@ class DocumentHandler:
 
         context = [
             self.query_core_data(query=question, lang=standalone_questions["lang"])
-            for question in standalone_questions["text"][0] if question
+            for question in standalone_questions["text"] if question
         ]
-
+        print(f"Context: {context}")
         full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name))
-        yield full_response
-
+        
+        
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
         self.client.close()
 
         print(f"Total processing time: {time.time() - start_time:.2f} seconds")
+        yield full_response

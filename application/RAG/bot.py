@@ -1,13 +1,13 @@
 from RAG.bot_parts.document_hendler import DocumentHandler
 from django.conf import settings
 
-WCD_URL = settings.WCD_URL
-WCD_API_KEY = settings.WCD_API_KEY
+WCD_URL = ''
+WCD_API_KEY = ''
 DATA_PATH = settings.DATA_PATH
 
 
 CHUNK_SIZE = 1000
-OVERLAP_CHUNKS = 400
+OVERLAP_CHUNKS = 5 # 5 sentence overlap
 
 
 

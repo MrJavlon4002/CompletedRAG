@@ -80,7 +80,7 @@ class WeaviateDatabase:
             with open(file_path, "r") as file:
                 text_data = file.read()
 
-            doc_splits = split_text(text_data, chunk_size=self.chunk_size, overlap_chunks=self.chunk_overlap)
+            doc_splits = split_text(text_data, chunk_size=self.chunk_size, overlap_sentences=self.chunk_overlap)
             print("-"*50)
             embeddings = self.voyageAi.embed_text(doc_splits)
             self._add_documents(company_name, doc_splits, embeddings)
