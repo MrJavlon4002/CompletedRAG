@@ -2,9 +2,9 @@ import time
 from RAG.bot_parts.vector_database import WeaviateDatabase
 # from RAG.bot_parts.gemini_llm import contextualize_question, answer_question
 from RAG.bot_parts.openai_lmm import contextualize_question, answer_question
-from RAG.bot_parts.query_database import (
-    initialize_database,
-    get_session_history,
+from RAG.bot_parts.query_redis import (
+    # get_redis_connection,
+    get_redis_session_history,
     append_to_session_history,
 )
 
@@ -21,11 +21,7 @@ class DocumentHandler:
             chunk_overlap=chunk_overlap, 
             path=path
         )
-        initialize_database(path=self.client.path)
-
-    def close(self):
-        """Closes the database client."""
-        self.client.client.close()
+        # self.redis = get_redis_connection()
 
     def query_core_data(self, query: str, lang: str) -> str:
         """Queries the database for relevant information."""
@@ -37,8 +33,10 @@ class DocumentHandler:
         start_time = time.time()
 
         # Retrieve chat history
-        chat_history = get_session_history(session_id,path=self.client.path)
+        chat_history = get_redis_session_history(session_id)
         formatted_history = [{"user": u, "assistant": a} for u, a in chat_history]
+
+        print(type(chat_history), chat_history)
 
         # Contextualize question
         standalone_questions = contextualize_question(
@@ -56,7 +54,6 @@ class DocumentHandler:
         
         
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
-        self.close()
 
         print(f"Total processing time: {time.time() - start_time:.2f} seconds")
         
