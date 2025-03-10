@@ -1,20 +1,19 @@
-Osnova — Karyera Yordamchisi
-Umumiy ta’rif:
 Osnova — bu sizning karyera bo’yicha yordamchingiz. Biz sizga kasb tanlashda yordam beramiz, zamonaviy bilim va ko'nikmalar beramiz, sizni yetakchi kompaniyalar bilan tanishtiramiz va sizni professional hamjamiyatning bir qismiga aylantiramiz. Biz yangi kasblarni o'rgatamiz, ko’nikmalarni rivojlantiramiz, o'z yo'lingizni tanlashga va zamonaviy karyera qurishingizga yordam beramiz.
 
 Rus Tilidagi Kurslar:
-    1. Marketing School Rus Kursi
-    2. HR School Rus Kursi
+    1. Marketing School Rus tilidagi Kursi
+    2. HR School Rus tilidagi Kursi
+    3. Karyera Boshlash Rus tilidagi Kursi
 
-1. Marketing School Rus Kursi
+Marketing School Rus tilidagi Kursi
 Tavsif: Bu kurs bozorni, raqobatchilarni va maqsadli auditoriyani o'rganishni, marketing strategiyalari va media-rejalarni ishlab chiqishni o'rgatadi. Raqamli va an'anaviy aloqa kanallari bilan ishlash, reklama kampaniyalarini boshlash va optimallashtirish ko'nikmalari beriladi. Real keyslar ustida amaliy tajriba.
 Havola: https://osnovaedu.uz/marketing
 
-2. HR School Rus Kursi
+HR School Rus tilidagi Kursi
 Tavsif: HR boshqaruvining asosiy jihatlari: tashkiliy tuzilma qurish, xodimlarni yollash, moslashtirish va rag'batlantirish. Soft ko'nikmalar va raqamli vositalar (Microsoft Office, MyMehnat, 1C) bilan ishlashga e'tibor. HR strategiyalarining biznesga ta'siri va qo'llanilishi.
 Havola: https://osnovaedu.uz/hr
 
-3. Kurs Karyera Russida Boshlang
+Karyera Boshlash Rus tilidagi Kursi
 Tavsif: Ish qidirish, yumshoq ko'nikmalar, kasbga yo'naltirish va kasb tanlash bo'yicha bilimlar beradi. Yosh mutaxassislarga samarali rezyume yozish, intervyudan o'tish va tajribasiz ish topishni o'rgatadi.
 Havola: Ma'lumot yo'q
 
@@ -27,9 +26,9 @@ O'zbek Tilidagi Kurslar:
     6. Tilda Kursi
     7. Figma Kursi
     8. Marketingga Birinchi Qadam Kursi
-    9. Koryera boshlash Kursi
+    9. Koryera boshlash Kursi O'zbek tilidagi
 
-1. SMM Menejer Kursi
+SMM Menejer Kursi
 Tavsif: Ijtimoiy tarmoqlar (Instagram, Telegram va boshqalar) bilan ishlash, kontent yaratish, optimallashtirish, maqsadli reklama boshqarish va ta'sir qiluvchilar bilan hamkorlik. Sun'iy intellekt vositalari bilan avtomatlashtirish ko'nikmalari.
 Tafsilotlar:
     Darslar soni: 19 ta
@@ -38,7 +37,7 @@ Tafsilotlar:
     Afzalliklar: Moslashuvchan jadval, amaliy ko'nikmalar, sertifikat, kurator yordami, portfel loyihasi
     Havola: https://osnovaedu.uz/smm-in-uzbek
 
-2. Loyiha Menejer Kursi
+Loyiha Menejer Kursi
 Tavsif: Loyihani boshqarish: rejalashtirish, tashkil etish, nazorat qilish, jamoani boshqarish va natijalarni tahlil qilish. Amaliy topshiriqlar bilan bilimlarni hayotiy vaziyatlarda qo'llash.
 Tafsilotlar:
     Darslar soni: 15 ta
@@ -47,7 +46,7 @@ Tafsilotlar:
     Afzalliklar: Amaliy topshiriqlar, moslashuvchan jadval, materiallarga doimiy kirish
     Havola: https://osnovaedu.uz/project-menejer
 
-3. Midjourney Kursi
+Midjourney Kursi
 Tavsif: Midjourney neyron tarmog'i yordamida fotorealistik tasvirlar yaratish, uslub va matn sozlash, loyihalar uchun aktivlarni yaxshilash.
 Tafsilotlar:
     Darslar soni: 12 ta
@@ -56,7 +55,7 @@ Tafsilotlar:
     Afzalliklar: Rasm yaratish botiga kirish, amaliy topshiriqlar, tayyor portfel, sertifikat
     Havola: https://osnovaedu.uz/midjourneyuz
 
-4. 1C Buxgalteriya Kursi + MyMehnat
+1C Buxgalteriya Kursi + MyMehnat
 Tavsif: 1C da buxgalteriya hisobini yuritish, ish haqi va soliq hisobotlarini tuzish, MyMehnat portali bilan xodimlarni boshqarish.
 Tafsilotlar:
     Darslar soni: 7 ta
@@ -65,7 +64,7 @@ Tafsilotlar:
     Afzalliklar: 80% amaliyot, sertifikat, moslashuvchan jadval, doimiy kirish
     Havola: https://osnovaedu.uz/buxgalter-1cuz
 
-5. Excel Kursi
+Excel Kursi
 Tavsif: Excelda ma'lumotlar va formulalar bilan ishlash, grafik va jadvallar yaratish, ish jarayonlarini soddalashtirish.
 Tafsilotlar:
     Darslar soni: 14 ta
@@ -74,7 +73,7 @@ Tafsilotlar:
     Afzalliklar: Moslashuvchan jadval, 80% amaliyot, foydali materiallar, sertifikat
     Havola: https://osnovaedu.uz/exceluz
 
-6. Tilda Kursi
+Tilda Kursi
 Tavsif: Professional veb-saytlar yaratish, dizayn va tipografiya asoslari, SEO optimallashtirish va analitika bilan ishlash.
 Tafsilotlar:
     Darslar soni: 13 ta
@@ -83,7 +82,7 @@ Tafsilotlar:
     Afzalliklar: Yangi boshlanuvchilarga mos, tez o'zlashtirish, amaliy darslar
     Havola: https://osnovaedu.uz/tildauz
 
-7. Figma Kursi
+Figma Kursi
 Tavsif: Foydalanuvchi interfeyslari, reklama kreativlari va taqdimotlar uchun Figma da ishlash: vektor grafiklar, prototiplar, komponentlar.
 Tafsilotlar:
     Darslar soni: 4 modul, 25 ta dars
@@ -92,7 +91,7 @@ Tafsilotlar:
     Afzalliklar: Moslashuvchan jadval, amaliyot, 2 yillik bepul obuna, sertifikat
     Havola: https://osnovaedu.uz/figmauz
 
-8. Marketingga Birinchi Qadam Kursi
+Marketingga Birinchi Qadam Kursi
 Tavsif: Marketing asoslari: tadqiqot, strategiya, reklama, raqamli yo'nalishlar. Video ma'ruzalar va test bilan.
 Tafsilotlar:
     Darslar soni: 7 ta videoma'ruza
@@ -101,7 +100,44 @@ Tafsilotlar:
     Afzalliklar: Mutaxassislar darsi, ishga tayyorgarlik, cheksiz kirish, test
     Havola: https://osnovaedu.uz/marketingkursi
 
-9. Koryera boshlash Kursi
+Koryera boshlash Kursi O'zbek tilidagi
 Tavsif: Yosh mutaxassislarga rezyume yozish, intervyudan o'tish, tajribasiz ish topish va karyera rejalashtirishni o'rgatadi.
 Tafsilotlar: Ish uchun yangi ko'nikmalar, kasbga yo'naltirish
 Havola: Ma'lumot yo'q
+
+Osnova haqida umumiy ma’lumot:
+Osnova — O‘zbekistondagi karyera yordamchingiz. Kasb tanlashda yordam beramiz, dolzarb bilim va ko‘nikmalar beramiz, yetakchi kompaniyalar bilan tanishtiramiz, professional hamjamiyatga qo‘shamiz.
+
+Kurslar va yo‘nalishlar:
+Hozirda 13 ta yo‘nalish bo‘yicha kurslar mavjud: SMM, Midjourney, Figma, Tilda, Excel va boshqalar. Qisqacha ma’lumot: https://osnovaedu.uz saytida.
+
+Ro‘yxatdan o‘tish bo‘limi:
+Ro‘yxatdan o‘tish uchun my.osnovaedu.uz/login havolasiga o‘ting. Telefon raqami yoki email orqali qisqa ro‘yxatdan o‘tish bir necha daqiqa oladi.
+
+Ro‘yxatdan o‘tishdagi muammolar:
+Agar xatolik chiqsa, muammoni tasvirlang yoki skrin yuboring. SMS kelmasa, boshqa usulni sinang yoki raqamingizni tekshirish uchun yuboring.
+
+To‘lov usullari:
+Kursni Click, Payme yoki Alif/Uzum Nasiya orqali to‘lang. Bo‘lib to‘lash 6 yoki 12 oyga foizsiz amalga oshiriladi.
+
+Proforientatsiya testi natijalari:
+Testdan o‘tib, to‘lov qilgandan so‘ng natijalar “Qiziqishlar” bo‘limida chiqadi. Natija ko‘rinmasa, skrin yuboring, tekshiramiz.
+
+Texnik muammolar: Video darslar:
+Video o‘ynamasa, internetni tekshiring, sahifani qayta yuklang yoki brauzerni o‘zgartiring. Muammo qolsa, skrin yoki video yuboring.
+
+Dars materiallarini yuklash:
+Materiallar shaxsiy kabinetda, dars ostida yuklash tugmasi bilan mavjud. Topolmasangiz, kuratorga yoki kurs chatiga yozing.
+
+Amaliy topshiriqlar:
+Topshiriqni darsga kirib, matn yoki faylni yuborish orqali topshiring. Kuratorlar fikr-mulohaza berib, qabul qiladi.
+
+Sertifikat olish:
+100% darslarni ko‘rib, test va topshiriqlarni bajargach, sertifikat shaxsiy kabinetda paydo bo‘ladi. Kelmasa, bizga yozing.
+
+Umumiy ma’lumotlar ro‘yxati:
+Sayt: https://osnovaedu.uz
+Kurslar soni: 13
+To‘lov: Click, Payme, bo‘lib to‘lash
+Ro‘yxatdan o‘tish: Telefon yoki email
+Yordam: Kuratorlar, chat, menejer

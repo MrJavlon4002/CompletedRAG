@@ -25,7 +25,7 @@ class DocumentHandler:
 
     def close(self):
         """Closes the database client."""
-        self.client.close()
+        self.client.client.close()
 
     def query_core_data(self, query: str, lang: str) -> str:
         """Queries the database for relevant information."""
@@ -52,11 +52,12 @@ class DocumentHandler:
             for question in standalone_questions["text"] if question
         ]
         print(f"Context: {context}")
-        full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name))
+        full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name, chat_history=formatted_history))
         
         
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
-        self.client.close()
+        self.close()
 
         print(f"Total processing time: {time.time() - start_time:.2f} seconds")
+        
         yield full_response

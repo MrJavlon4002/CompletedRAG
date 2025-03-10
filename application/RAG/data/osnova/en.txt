@@ -1,20 +1,19 @@
-Osnova — Career Assistant
-General description:
-Osnova — is your career assistant. We help you choose a profession, give you modern knowledge and skills, introduce you to leading companies and make you part of the professional community. We teach new professions, develop skills, help you choose your own path and build a modern career.
+Osnova is your career assistant. We help you choose a profession, give you modern knowledge and skills, introduce you to leading companies and make you part of the professional community. We teach new professions, develop skills, help you choose your own path and build a modern career.
 
 Courses in Russian:
 1. Marketing School Russian Course
 2. HR School Russian Course
+3. Career Start Russian Course
 
-1. Marketing School Russian Course
+Marketing School Russian Course
 Description: This course teaches you how to study the market, competitors and target audience, develop marketing strategies and media plans. Skills are given to work with digital and traditional communication channels, launch and optimize advertising campaigns. Practical experience on real cases.
 Link: https://osnovaedu.uz/marketing
 
-2. HR School Russian Course
-Description: Basic aspects of HR management: building an organizational structure, recruiting, adapting and motivating employees. Focus on working with soft skills and digital tools (Microsoft Office, MyMehnat, 1C). Impact and application of HR strategies on business.
+HR School Course in Russian
+Description: Basic aspects of HR management: building an organizational structure, recruiting, adapting and motivating employees. Emphasis on working with soft skills and digital tools (Microsoft Office, MyMehnat, 1C). Impact and application of HR strategies on business.
 Link: https://osnovaedu.uz/hr
 
-3. Course Start a Career in Russian
+Career Start Course in Russian
 Description: Provides knowledge on job search, soft skills, career guidance and career choice. Teaches young professionals how to write an effective resume, pass an interview and find a job without experience.
 Link: No information
 
@@ -26,10 +25,10 @@ Courses in Uzbek:
 5. Excel Course
 6. Tilda Course
 7. Figma Course
-8. First Steps to Marketing Course
-9. Career Start Course
+8. First Step to Marketing Course
+9. Career Start Course in Uzbek
 
-1. SMM Manager Course
+SMM Manager Course
 Description: Working with social networks (Instagram, Telegram, etc.), content creation, optimization, targeted advertising management and cooperation with influencers. Automation skills with artificial intelligence tools.
 Details:
 Number of lessons: 19
@@ -38,8 +37,8 @@ Topics: Social media management, SMM campaigns, content creation, advertising se
 Advantages: Flexible schedule, practical skills, certificate, curatorial assistance, portfolio project
 Link: https://osnovaedu.uz/smm-in-uzbek
 
-2. Project Manager Course
-Description: Project management: planning, organization, control, team management and analysis of results. Application of knowledge in real-life situations with practical tasks.
+Project Manager Course
+Description: Project management: planning, organization, control, team management and analysis of results. Application of knowledge in real-life situations with practical assignments.
 Details:
 Number of lessons: 15
 Price: 720,000 soums
@@ -47,8 +46,8 @@ Topics: Project planning, budgeting, team management, monitoring and evaluation
 Advantages: Practical tasks, flexible schedule, constant access to materials
 Link: https://osnovaedu.uz/project-menejer
 
-3. Midjourney Course
-Description: Create photorealistic images using the Midjourney neural network, adjust style and text, improve assets for projects.
+Midjourney Course
+Description: Create photorealistic images using the Midjourney neural network, adjust style and text, and improve assets for projects.
 Details:
 Number of lessons: 12
 Price: Standard - 450,000 soums, Premium - 1,200,000 soums
@@ -56,7 +55,7 @@ Topics: Neural networks, image management, photorealistic images, text and style
 Benefits: Access to the image creation bot, practical assignments, ready-made portfolio, certificate
 Link: https://osnovaedu.uz/midjourneyuz
 
-4. 1C Accounting Course + MyMehnat
+1C Accounting Course + MyMehnat
 Description: Accounting in 1C, preparation of payroll and tax reports, management of employees with the MyMehnat portal.
 Details:
 Number of lessons: 7
@@ -65,7 +64,7 @@ Topics: 1C interface, payroll, tax reporting, working with MyMehnat
 Advantages: 80% practice, certificate, flexible schedule, permanent access
 Link: https://osnovaedu.uz/buxgalter-1cuz
 
-5. Excel Course
+Excel Course
 Description: Working with data and formulas in Excel, creating graphs and tables, streamlining workflows.
 Details:
 Number of lessons: 14
@@ -74,7 +73,7 @@ Topics: Interface, data organization, formulas, graphs, automation
 Advantages: Flexible schedule, 80% practice, useful materials, certificate
 Link: https://osnovaedu.uz/exceluz
 
-6. Tilda Course
+Tilda Course
 Description: Creating professional websites, basics of design and typography, working with SEO optimization and analytics.
 Details:
 Number of lessons: 13
@@ -83,7 +82,7 @@ Topics: Tilda basics, design, blocks, animation, SEO, analytics
 Advantages: Suitable for beginners, quick learning, practical lessons
 Link: https://osnovaedu.uz/tildauz
 
-7. Figma Course
+Figma Course
 Description: Working in Figma for user interfaces, advertising creatives and presentations: vector graphics, prototypes, components.
 Details:
 Number of lessons: 4 modules, 25 lessons
@@ -92,16 +91,53 @@ Topics: Interface, layouts, prototypes, Auto Layout and Teamwork
 Advantages: Flexible schedule, practice, 2-year free subscription, certificate
 Link: https://osnovaedu.uz/figmauz
 
-8. First Step to Marketing Course
-Description: Marketing basics: research, strategy, advertising, digital directions. With video lectures and tests.
+First Step to Marketing Course
+Description: Marketing basics: research, strategy, advertising, digital directions. With video lectures and test.
 Details:
 Number of lessons: 7 video lectures
 Price: 249,000 soums
-Topics: Marketing basics, research, advertising campaigns, analysis
+Topics: Marketing fundamentals, research, advertising campaigns, analysis
 Advantages: Expert lessons, job preparation, unlimited access, test
 Link: https://osnovaedu.uz/marketingkursi
 
-9. Career Start Course
+Career Start Course in Uzbek
 Description: Teaches young professionals how to write a resume, pass an interview, find a job without experience, and plan a career.
 Details: New skills for work, career guidance
 Link: No information
+
+General information about Osnova:
+Osnova — your career assistant in Uzbekistan. We help you choose a profession, provide up-to-date knowledge and skills, introduce you to leading companies, and add you to the professional community.
+
+Courses and areas:
+Currently, there are courses in 13 areas: SMM, Midjourney, Figma, Tilda, Excel, etc. Brief information: on the website https://osnovaedu.uz.
+
+Registration section:
+To register, go to the link my.osnovaedu.uz/login. Short registration via phone number or email takes a few minutes.
+
+Problems with registration:
+If an error occurs, describe the problem or send a screenshot. If you do not receive an SMS, try another method or send your number to verify.
+
+Payment methods:
+Pay for the course via Click, Payme or Alif/Uzum Nasiya. Installments are made for 6 or 12 months without interest.
+
+Career orientation test results:
+After passing the test and paying, the results will appear in the "Interests" section. If the result is not visible, send a screenshot, we will check.
+
+Technical problems: Video lessons:
+If the video does not play, check the internet, reload the page or change the browser. If the problem persists, send a screenshot or video.
+
+Downloading lesson materials:
+The materials are available in your personal account, under the lesson, with the download button. If you can't find it, write to the curator or in the course chat.
+
+Practical assignments:
+Submit the assignment by entering the lesson and sending a text or file. The curators will give feedback and accept it.
+
+Obtaining a certificate:
+After watching 100% of the lessons, completing the tests and assignments, the certificate will appear in your personal account. If it does not appear, write to us.
+
+General information list:
+Site: https://osnovaedu.uz
+Number of courses: 13
+Payment: Click, Payme, installments
+Registration: Phone or email
+Support: Curators, chat, manager

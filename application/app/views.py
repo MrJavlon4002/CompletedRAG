@@ -1,10 +1,12 @@
+import sqlite3
 from app.models import Model
 from app.serializers import ModelSerializers
 from rest_framework import viewsets,status
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
+from rest_framework.decorators import api_view
 from RAG.bot import ask
-     
+from core.settings import DATA_PATH
 
 class ModelViewset(viewsets.ModelViewSet):
     queryset = Model.objects.all().order_by("id") 
@@ -44,3 +46,10 @@ class ModelViewset(viewsets.ModelViewSet):
 
     
 
+@api_view(['GET'])
+def get_session_history(r, session_id: str):
+    print(DATA_PATH+"/chat_history.db")
+    with sqlite3.connect(DATA_PATH+"/chat_history.db") as conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT user_input, assistant_response FROM chat_history WHERE session_id = ? ORDER BY timestamp", (session_id,))
+        return Response({"history": [(row[0], row[1]) for row in cursor.fetchall()]})
