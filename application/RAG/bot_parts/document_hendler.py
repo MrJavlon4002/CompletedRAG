@@ -23,9 +23,6 @@ class DocumentHandler:
         )
         initialize_database(path=self.client.path)
 
-    def close(self):
-        """Closes the database client."""
-        self.client.client.close()
 
     def query_core_data(self, query: str, lang: str) -> str:
         """Queries the database for relevant information."""
@@ -56,8 +53,6 @@ class DocumentHandler:
         
         
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
-        self.close()
-
         print(f"Total processing time: {time.time() - start_time:.2f} seconds")
         
         yield full_response

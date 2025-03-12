@@ -1,7 +1,7 @@
 import openai
 from django.conf import settings
 from langdetect import detect_langs
-
+ 
 openai.api_key = settings.OPENAI_API_KEY
 openai_model = "gpt-4o"
 
