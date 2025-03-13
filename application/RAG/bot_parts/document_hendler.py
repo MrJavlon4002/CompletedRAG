@@ -23,7 +23,7 @@ class DocumentHandler:
         )
         # self.redis = get_redis_connection()
 
-    def query_core_data(self, query: str, lang: str) -> str:
+    def query_core_data(self, query: str, lang: str,) -> str:
         """Queries the database for relevant information."""
         results = self.client.hybrid_query(query=query, company_name=f"{self.company_name}_{lang}")
         return "\n".join(results) if results else "No relevant data found."
@@ -34,13 +34,10 @@ class DocumentHandler:
 
         # Retrieve chat history
         chat_history = get_redis_session_history(session_id)
-        formatted_history = [{"user": u, "assistant": a} for u, a in chat_history]
-
-        print(type(chat_history), chat_history)
 
         # Contextualize question
         standalone_questions = contextualize_question(
-            formatted_history, 
+            chat_history, 
             user_input, 
             company_name=self.company_name
         )
@@ -50,7 +47,7 @@ class DocumentHandler:
             for question in standalone_questions["text"] if question
         ]
         print(f"Context: {context}")
-        full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name, chat_history=formatted_history))
+        full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name, chat_history=chat_history))
         
         
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
