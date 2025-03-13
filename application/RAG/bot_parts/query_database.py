@@ -19,7 +19,9 @@ def get_session_history(session_id: str, path: str):
     with sqlite3.connect(path+"/chat_history.db") as conn:
         cursor = conn.cursor()
         cursor.execute("SELECT user_input, assistant_response FROM chat_history WHERE session_id = ? ORDER BY timestamp", (session_id,))
-        return [(row[0], row[1]) for row in cursor.fetchall()]
+        r = [(row[0], row[1]) for row in cursor.fetchall()]
+        print(r)
+        return r
 
 def append_to_session_history(session_id: str, user_input: str, assistant_response: str, path: str):
     try:

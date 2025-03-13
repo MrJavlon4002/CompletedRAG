@@ -6,7 +6,8 @@ from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from RAG.bot import ask
-from RAG.bot_parts.query_redis import get_redis_session_history
+# from RAG.bot_parts.query_redis import get_redis_session_history
+from RAG.bot_parts.query_database import get_session_history
 from core.settings import DATA_PATH
 
 class ModelViewset(viewsets.ModelViewSet):
@@ -50,4 +51,4 @@ class ModelViewset(viewsets.ModelViewSet):
 @api_view(['GET'])
 def get_session_history(r, session_id: str):
     print(DATA_PATH+"/chat_history.db")
-    return Response({"history": get_redis_session_history(session_id)})
+    return Response({"history": get_session_history(session_id)})
