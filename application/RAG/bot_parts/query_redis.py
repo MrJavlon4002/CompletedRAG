@@ -14,8 +14,5 @@ def append_to_session_history(session_id: str, user_input: str, assistant_respon
     r = get_redis_connection()
     history = get_redis_session_history(session_id)
     history.append({"user_input": user_input, "assistant_response": assistant_response})
-    r.setex(f"chat:{session_id}", expiration_time, json.dumps(history))
-
-# Example usage:
-# append_to_session_history("123", "Hello", "Hi there!")
-# print(get_session_history("123"))
+    
+    r.set(f"chat:{session_id}", json.dumps(history), ex=expiration_time)

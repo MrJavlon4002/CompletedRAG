@@ -7,7 +7,7 @@ from RAG.bot_parts.query_redis import (
     get_redis_session_history,
     append_to_session_history,
 )
-
+ 
 class DocumentHandler:
     def __init__(self, db_url: str, db_api_key: str, company_name: str, path: str, chunk_size: int, chunk_overlap: int):
         """Initializes the document handler with a vector database client and prepares the database."""
@@ -21,12 +21,7 @@ class DocumentHandler:
             chunk_overlap=chunk_overlap, 
             path=path
         )
-<<<<<<< HEAD
-        initialize_database(path=self.client.path)
-
-=======
         # self.redis = get_redis_connection()
->>>>>>> 69fc96dbd8a6a9c68cff8fe777d76dbcf944c65c
 
     def query_core_data(self, query: str, lang: str) -> str:
         """Queries the database for relevant information."""
@@ -59,10 +54,7 @@ class DocumentHandler:
         
         
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
-<<<<<<< HEAD
-=======
 
->>>>>>> 69fc96dbd8a6a9c68cff8fe777d76dbcf944c65c
         print(f"Total processing time: {time.time() - start_time:.2f} seconds")
         
         yield full_response

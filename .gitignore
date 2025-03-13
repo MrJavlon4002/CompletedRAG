@@ -95,3 +95,5 @@ application/.env
 #static/*
 media/*
 
+redis_data/
+
