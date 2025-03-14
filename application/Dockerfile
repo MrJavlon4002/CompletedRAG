@@ -6,8 +6,7 @@ WORKDIR /app
 
 # Copy main application files
 COPY manage.py /app/
-COPY core /app/core/
-COPY app /app/app/
+COPY . /app
 COPY entrypoint.sh /entrypoint.sh
 
 # Copy RAG project
