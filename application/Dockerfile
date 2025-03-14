@@ -10,6 +10,8 @@ COPY . .
 RUN pip install --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
+ENV PYTHONUNBUFFERED=1
+
 # Expose the application port
 EXPOSE 8000
 

@@ -49,5 +49,7 @@ class ModelViewset(viewsets.ModelViewSet):
 
 @api_view(['GET'])
 def get_session_history(r, session_id: str):
-    print(DATA_PATH+"/chat_history.db")
-    return Response({"history": get_redis_session_history(session_id)})
+    # print(DATA_PATH+"/chat_history.db")
+    history = get_redis_session_history(session_id)
+    print(history)
+    return Response({"history": history})
