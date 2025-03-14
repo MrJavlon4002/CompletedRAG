@@ -3,7 +3,7 @@ from RAG.bot_parts.vector_database import WeaviateDatabase
 # from RAG.bot_parts.gemini_llm import contextualize_question, answer_question
 from RAG.bot_parts.openai_lmm import contextualize_question, answer_question
 from RAG.bot_parts.query_redis import (
-    # get_redis_connection,
+    get_redis_connection,
     get_redis_session_history,
     append_to_session_history,
 )
@@ -21,7 +21,7 @@ class DocumentHandler:
             chunk_overlap=chunk_overlap, 
             path=path
         )
-        # self.redis = get_redis_connection()
+        self.redis = get_redis_connection()
 
     def query_core_data(self, query: str, lang: str) -> str:
         """Queries the database for relevant information."""
@@ -35,9 +35,6 @@ class DocumentHandler:
         # Retrieve chat history
         chat_history = get_redis_session_history(session_id)
         formatted_history = [{"user": u, "assistant": a} for u, a in chat_history]
-
-        print(type(chat_history), chat_history)
-
         # Contextualize question
         standalone_questions = contextualize_question(
             formatted_history, 
@@ -49,7 +46,6 @@ class DocumentHandler:
             self.query_core_data(query=question, lang=standalone_questions["lang"])
             for question in standalone_questions["text"] if question
         ]
-        print(f"Context: {context}")
         full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name, chat_history=formatted_history))
         
         
