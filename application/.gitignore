@@ -96,3 +96,4 @@ application/.env
 media/*
 .env
 redis_data/
+*.db
