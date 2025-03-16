@@ -19,7 +19,7 @@ Havola: Ma'lumot yo'q
 
 O'zbek Tilidagi Kurslar:
     1. SMM Menejer Kursi
-    2. Loyiha Menejer Kursi
+    2. Loyiha Menejer Kursi (PM)
     3. Midjourney Kursi
     4. 1C Buxgalteriya Kursi + MyMehnat
     5. Excel Kursi
@@ -37,7 +37,7 @@ Tafsilotlar:
     Afzalliklar: Moslashuvchan jadval, amaliy ko'nikmalar, sertifikat, kurator yordami, portfel loyihasi
     Havola: https://osnovaedu.uz/smm-in-uzbek
 
-Loyiha Menejer Kursi
+Loyiha Menejer Kursi (PM)
 Tavsif: Loyihani boshqarish: rejalashtirish, tashkil etish, nazorat qilish, jamoani boshqarish va natijalarni tahlil qilish. Amaliy topshiriqlar bilan bilimlarni hayotiy vaziyatlarda qo'llash.
 Tafsilotlar:
     Darslar soni: 15 ta
