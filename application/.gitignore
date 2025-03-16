@@ -94,4 +94,6 @@ application/.env
 # Static and media files
 #static/*
 media/*
-
+.env
+redis_data/
+*.db
