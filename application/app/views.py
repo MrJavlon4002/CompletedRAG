@@ -6,7 +6,7 @@ from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from RAG.bot import ask
-from RAG.bot_parts.query_redis import get_redis_session_history
+from RAG.bot_parts.query_redis import append_to_session_history, get_redis_session_history
 from core.settings import DATA_PATH
 
 class ModelViewset(viewsets.ModelViewSet):
@@ -53,3 +53,8 @@ def get_session_history(r, session_id: str):
     history = get_redis_session_history(session_id)
     print(history)
     return Response({"history": history})
+
+@api_view(['POST'])
+def insert_data(r, session_id: str):
+    append_to_session_history(session_id=session_id, user_input=r.data['user_input'], assistant_response=r.data['assistant_response'])
+    return Response({"ok": True})
