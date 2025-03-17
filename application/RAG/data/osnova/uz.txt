@@ -141,3 +141,11 @@ Kurslar soni: 13
 To‘lov: Click, Payme, bo‘lib to‘lash
 Ro‘yxatdan o‘tish: Telefon yoki email
 Yordam: Kuratorlar, chat, menejer
+
+OSNOVA – bu ta’lim platformasi bo‘lib, foydalanuvchilar my.osnovaedu.uz/login orqali ro‘yxatdan o‘tishlari mumkin. To‘lovlar Click, Payme, Alif yoki Uzum Nasiya orqali amalga oshiriladi, nasiya esa 6 yoki 12 oylik foizsiz to‘lov asosida taklif etiladi.
+
+Platforma kurs tanlashda yordam berish uchun bepul proforiyentatsiya testini taklif qiladi. Test natijalari "Qiziqishlar" bo‘limida aks etadi. Agar texnik muammolar yuzaga kelsa, sahifani qayta yuklash yoki boshqa brauzerdan foydalanish tavsiya etiladi. Dars materiallarini shaxsiy kabinet orqali yuklab olish, amaliy topshiriqlarni esa matn yoki fayl ko‘rinishida topshirish mumkin. Sertifikat olish uchun 100% darslarni ko‘rib, barcha test va topshiriqlarni bajarish talab qilinadi, shundan so‘ng sertifikat shaxsiy kabinetda paydo bo‘ladi.
+
+Mijozlarni qo‘llab-quvvatlash xizmati chatbot orqali yordam ko‘rsatadi. Mijoz kurslar haqida ma’lumot olish, OSNOVA platformasi haqida batafsil bilish yoki to‘lov shartlarini o‘rganish uchun botga murojaat qilishi mumkin. Kurs tanlashda ikkilanayotganlarga bepul test tavsiya qilinadi. Kurs taqdimotida asosiy afzalliklar, amaliy topshiriqlar, sertifikat olish shartlari va moslashuvchan jadval haqida tushuntiriladi. Narxlar bo‘yicha savollar bo‘lsa, bo‘lib to‘lash yoki mavjud aksiyalar to‘g‘risida ma’lumot beriladi. Agar mijoz kursga vaqt ajrata olmasligidan xavotirda bo‘lsa, istalgan vaqtda o‘rganish va sertifikat olish imkoniyati haqida eslatib o‘tiladi.
+
+To‘lov jarayoni uchun mijozga maxsus havola taqdim etiladi yoki menejer bilan bog‘lanish imkoniyati yaratiladi. Kursga qiziqish bildirgan foydalanuvchilarga 24 soat ichida 7 kunlik kafolat haqida eslatma yuboriladi, 3 kun ichida esa qo‘shimcha ma’lumot va aksiyalar to‘g‘risida yana bir bor xabar beriladi.
