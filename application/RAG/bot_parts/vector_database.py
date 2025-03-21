@@ -4,17 +4,24 @@ from django.conf import settings
 from RAG.bot_parts.voyageEmbedding import VoyageEmbeddings
 from RAG.bot_parts.text_splitter import split_text
 
-LANGS = ["uz", "en", "ru"]
+LANGS = ["uz", "ru"]
 
 class WeaviateDatabase:
     def __init__(self, wcd_url: str, wcd_api_key: str, voyage_model: str, company_name: str, chunk_size: int, chunk_overlap: int, path: str):
         self.path = path
+        
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
-        self.headers = {"X-VoyageAI-Api-Key": settings.VOYAGE_API_KEY}
         self.company_name = company_name
+
+        self.headers = {"X-VoyageAI-Api-Key": settings.VOYAGE_API_KEY}
+        
+        self.client = self._create_client()
+        self.client.collections.delete_all()
+        
         self.voyage_model = voyage_model
         self.voyageAi = VoyageEmbeddings(api_key=settings.VOYAGE_API_KEY, model=voyage_model)
+
         self.collections = self._initialize_collections()
 
     def _create_client(self):
@@ -22,7 +29,6 @@ class WeaviateDatabase:
 
     def _initialize_collections(self):
         with self._create_client() as client:
-            #client.collections.delete_all()
 
             print("Existing collections:", client.collections.list_all())
             collections = {}
