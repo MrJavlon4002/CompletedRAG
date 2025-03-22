@@ -118,7 +118,7 @@ O‘qishni tugatgach, siz quyidagilarga ega bo‘lasiz:
  Kursni tugatganlik haqida sertifikat
 Davomiyligi: 22 ta onlayn dars
 Narxi: 450 000 so‘m
-Batafsil ma’lumot: osnovaedu.uz/figmauz
+ Batafsil ma’lumot: osnovaedu.uz/figmauz
 
 Marketing asoslari kursi
 Marketing sohasini 7 ta darsda o‘rganing! Kurs sizga strategiyalar, reklama, SMM, raqobatchilar tahlili va samarali marketing kampaniyalarini yaratishni tushunishda yordam beradi.
@@ -213,3 +213,4 @@ Agar mijoz kursga vaqt ajrata olmasligidan xavotirda bo‘lsa, unga istalgan pay
 To‘lovni amalga oshirish uchun mijozga maxsus havola yoki menejer bilan bog‘lanish imkoniyati taqdim etiladi. Kursga qiziqish bildirgan foydalanuvchilarga 24 soat ichida 7 kunlik kafolat haqida eslatma, 3 kun ichida esa qo‘shimcha ma’lumot va aksiyalar bilan takroriy xabarnoma yuboriladi.
  
 Agar mijoz pulini qaytarishni so‘rasa, avvalo qaytarish sabablari aniqlanadi va pulni qaytarishdan oldin bu masalani hal qila olish-olmasligimiz so‘raladi. Agar mijoz rozi bo‘lmasa va pulini qaytarishni talab qilsa, unga maxsus shaklni to‘ldirish taklif qilinadi va havola yuboriladi.
+
