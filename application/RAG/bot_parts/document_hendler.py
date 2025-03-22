@@ -34,7 +34,7 @@ class DocumentHandler:
         results = self.client.hybrid_query(query=query, company_name=f"{self.company_name}_{lang}")
         return "\n".join(results) if results else "No relevant data found."
 
-    def ask_question(self, session_id: str, user_input: str):
+    def ask_question(self, session_id: str, user_input: str, lang: str):
         """Handles user queries by contextualizing the question, fetching relevant data, and generating a response."""
         start_time = time.time()
 
@@ -45,14 +45,15 @@ class DocumentHandler:
         standalone_questions = contextualize_question(
             formatted_history, 
             user_input, 
-            company_name=self.company_name
+            company_name=self.company_name,
+            lang=lang,
         )
 
         context = [
             self.query_core_data(query=question, lang=standalone_questions["lang"])
             for question in standalone_questions["text"] if question
         ]
-        full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name, chat_history=formatted_history))
+        full_response = "".join(answer_question(context, standalone_questions["text"], user_input, company_name=self.company_name, chat_history=formatted_history, lang=lang))
         
         
         append_to_session_history(session_id, user_input, full_response, path=self.client.path)
