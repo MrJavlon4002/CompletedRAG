@@ -22,16 +22,17 @@ class ModelViewset(viewsets.ModelViewSet):
         """Foydalanuvchi yangi model yaratishi uchun `POST` method."""
         session_id = request.data.get("session_id")
         user_input = request.data.get("user_input")
-        company_name = request.data.get("company_name")  
+        company_name = request.data.get("company_name")
+        lang = request.data.get("lang")
 
         if not session_id or not user_input:
             return Response({"error": "session_id va user_input talab qilinadi"}, status=status.HTTP_400_BAD_REQUEST)
 
         response_data = []
-        for part in ask(session_id=session_id, user_input=user_input, company_name=company_name):
+        for part in ask(session_id=session_id, user_input=user_input, company_name=company_name, lang=lang):
             response_data.append(part)
 
-        return Response({"response": response_data}, status=status.HTTP_200_OK)
+        return Response({"response": response_data, "lang": lang}, status=status.HTTP_200_OK)
 
     def update(self, request, *args, **kwargs):
         """PUT methodni taqiqlash."""
