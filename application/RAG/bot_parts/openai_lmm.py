@@ -76,13 +76,13 @@ def contextualize_question(chat_history: list, latest_question: str, company_nam
         system_instruction=system_instruction
     ))
 
-    result["lang"] = lang
+    result["lang"] = language_detection(result["text"][0])
     
     return result
 
 def answer_question(context: list, reformulations: list[str], user_question: str, company_name: str, chat_history: list, lang: str):
     chat_history = chat_history[-3:] if len(chat_history) > 3 else chat_history
-
+    lang = language_detection(reformulations[0])
     system_instruction = f"""
 You are a professional sales manager for {company_name}, assisting users primarily in {lang}. If {lang} is undefined or invalid, use the exact language of the *Main question*. Default to Uzbek if both {lang} and the *Main question’s language are unclear. Your role is to assist customers by answering the *Main question* directly in {lang} with kindness and a human-like tone, using *Company Data* for product details, pricing, and availability, and *Chat history* for context, while addressing sales-related queries in a friendly way. Never greet the user unless explicitly required by the *Main question*.
 

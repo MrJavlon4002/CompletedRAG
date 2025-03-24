@@ -1,36 +1,89 @@
 Osnova - sizning karyerangiz bo‘yicha ko‘makchingiz. Biz sizga kasb tanlashda yordam beramiz, zamonaviy bilim va ko‘nikmalar beramiz, yetakchi kompaniyalar bilan tanishtirамiz hamda professional jamiyatning a’zosiga aylantiramiz. Biz yangi kasblarga o‘rgatamiz, ko‘nikmalarni rivojlantiramiz, o‘z yo‘lingizni tanlashga va zamonaviy karyera qurishga ko‘maklashamiz.
+
+Osnova — O‘zbekistondagi karyerangiz bo‘yicha ko‘makchingiz. Biz sizga karyerangizni tanlashda yordam beramiz, dolzarb bilim va ko‘nikmalar beramiz, yetakchi kompaniyalar bilan tanishtirамiz va kasbiy hamjamiyat bilan bog‘laymiz.
+
+Kurslar va yo‘nalishlar:
+Hozirda 20 dan ortiq turli xil kurslar mavjud: SMM, Midjourney, Figma, Tilda, Excel va boshqalar. Batafsil ma’lumotni https://osnovaedu.uz saytidan topishingiz mumkin.
+
+Ro‘yxatdan o‘tish bo‘limi:
+Ro‘yxatdan o‘tish uchun my.osnovaedu.uz/login havolasiga o‘ting. Telefon raqami yoki elektron pochta orqali qisqa ro‘yxatdan o‘tish atigi bir necha daqiqa vaqtingizni oladi.
+
+Ro‘yxatdan o‘tish bilan bog‘liq muammolar:
+Xatolik yuz bersa, muammoni tavsiflang yoki ekran suratini yuboring. SMS kelmagan bo‘lsa, aloqa mavjudligini tekshiring, boshqa usulni sinab ko‘ring yoki qayta urinib ko‘ring
  
+To‘lov usullari:
+O‘qish uchun to‘lovni Click, Payme yoki Alif orqali amalga oshirishingiz mumkin. Shuningdek, Alif yoki Uzum Nasiya orqali 6 yoki 12 oyga foizsiz va qo‘shimcha to‘lovlarsiz bo‘lib to‘lash imkoniyatiga ega bo‘lishingiz mumkin.
+
+Kasbga yo‘naltirish testi natijalari:
+Testdan o‘tib, to‘lovni amalga oshirganingizdan so‘ng, natijalar "Qiziqishlar" bo‘limida paydo bo‘ladi. Agar natijani ko‘rmasangiz, bizga ekran suratini yuboring va biz uni tekshiramiz
+ 
+Texnik muammolar:
+
+Videodarslar:
+Video ijro etilmasa, Internet aloqasini tekshiring, sahifani qayta yuklang yoki brauzerni almashtiring (Chrome’da eng yaxshi ishlaydi). Agar muammo hal bo‘lmasa, muammoni batafsil tushunishimiz uchun ekran surati yoki videoni yuboring.
+
+Dars materiallarini yuklash:
+Materiallarni yuklab olish imkoniyati har doim dars oxirida mavjud. Agar topa olmasangiz, kuratorga yoki kurs chatiga murojaat qiling.
+
+Amaliy topshiriqlar:
+Topshiriqni yuborish uchun tegishli darsga kiring, tekshirish uchun matn yoki faylni yuboring va fikr-mulohaza kuting. Odatda kuratorlar va mentorlar 1 kun ichida javob berishadi.
+
+Sertifikat olish:
+Darslarning 100% ini ko‘rib chiqib, barcha test va topshiriqlarni bajarganingizdan so‘ng, sertifikat shaxsiy kabinetingizda paydo bo‘ladi. Agar kursni tugatgandan so‘ng sertifikat olmagan bo‘lsangiz, bizga xabar bering va biz uni o‘zimiz yaratib beramiz.
+
+Umumiy ma’lumotlar ro‘yxati:
+Sayt: https://osnovaedu.uz
+Ta’lim platformasi: https://my.osnovaedu.uz
+Kurslar soni: 15
+To‘lov: Click, Payme, Alif yoki Uzum orqali bo‘lib to‘lash
+Ro‘yxatdan o‘tish: Telefon raqami yoki elektron pochta orqali
+Qo‘llab-quvvatlash: Kuratorlar va chat
+ 
+OSNOVA - foydalanuvchilar my.osnovaedu.uz/login manzili orqali ro‘yxatdan o‘ta oladigan ta’lim platformasidir. To‘lovlar Click, Payme, Alif yoki Uzum Nasiya orqali amalga oshiriladi, shuningdek 6 yoki 12 oyga foizsiz bo‘lib to‘lash imkoniyati ham taqdim etiladi.
+
+Platforma sizga kursni tanlashda yordam beradigan bepul kasbga yo‘naltirish testini taklif qiladi. Test natijalari "Qiziqishlar" bo‘limida aks ettiriladi. Texnik muammolar yuzaga kelganda sahifani qayta yuklash yoki boshqa brauzerdan foydalanish tavsiya etiladi. Kurs materiallarini har bir darsdan so‘ng yuklab olish, amaliy topshiriqlarni esa matn yoki fayl ko‘rinishida topshirish mumkin. Sertifikat olish uchun barcha darslarni to‘liq o‘tib, hamma test va topshiriqlarni bajarish lozim. Shundan so‘ng sertifikat shaxsiy kabinetingizda paydo bo‘ladi.
+
+Mijozlarga xizmat ko‘rsatish bo‘limi chat-bot orqali yordam beradi. Mijoz kurslar haqida ma’lumot olish, OSNOVA platformasi to‘g‘risida ko‘proq bilish yoki to‘lov shartlari bilan tanishish uchun botga murojaat qilishi mumkin. Kurs tanlashda ikkilanayotganlarga kursning bepul sinov versiyasi tavsiya etilib, havola yuboriladi.
+
+Kurs taqdimotida talaba o‘qishni tugatgach qanday bilim va ko‘nikmalarga ega bo‘lishi, shuningdek, kurs haqidagi boshqa foydali ma’lumotlar taqdim etiladi.
+
+Narxlar bo‘yicha savollaringiz bo‘lsa, sizga to‘lovni bo‘lib-bo‘lib to‘lash yoki mavjud aksiyalar haqida ma’lumot beriladi.
+
+Agar mijoz kursga vaqt ajrata olmasligidan xavotirda bo‘lsa, unga istalgan paytda o‘qish va sertifikat olish imkoniyati borligini eslatib o‘tiladi.
+
+To‘lovni amalga oshirish uchun mijozga maxsus havola yoki menejer bilan bog‘lanish imkoniyati taqdim etiladi. Kursga qiziqish bildirgan foydalanuvchilarga 24 soat ichida 7 kunlik kafolat haqida eslatma, 3 kun ichida esa qo‘shimcha ma’lumot va aksiyalar bilan takroriy xabarnoma yuboriladi.
+
+Agar mijoz pulini qaytarishni so‘rasa, avvalo qaytarish sabablari aniqlanadi va pulni qaytarishdan oldin bu masalani hal qila olish-olmasligimiz so‘raladi. Agar mijoz rozi bo‘lmasa va pulini qaytarishni talab qilsa, unga maxsus shaklni to‘ldirish taklif qilinadi va havola yuboriladi.
+
 Rus tilidagi pullik kurslar:
- 1. "Marketing maktabi" kursi
+1. "Marketing maktabi" kursi
  2. "HR maktabi" kursi
- 
 Rus tilidagi bepul kurslar
-Marketingga kirish
-HR ga kirish
- boshlash
-Karyera 
-Marketing maktabi
+ 1. Marketingga kirish
+ 2. HR ga kirish
+ 3. Karyera boshlash
+ 4. Marketing maktabi
 Ushbu kurs sizga bozor, raqobatchilar va maqsadli auditoriya bo‘yicha keng qamrovli tadqiqotlar o‘tkazishni, shuningdek, marketing strategiyalari va media rejalarini ishlab chiqishni o‘rgatadi. Siz raqamli va an’anaviy aloqa kanallari bilan ishlashni o‘zlashtirasiz, reklama kampaniyalarini qanday ishga tushirish va optimallashtirishni bilib olasiz. Kurs davomida haqiqiy misollar ustida ishlash imkoniyatiga ega bo‘lasiz, bu esa sizga marketing sohasida amaliy tajriba orttirish imkonini beradi.
 Havola: https://osnovaeducation.uz/marketing_school
- 
+
 HR maktabi
 Kurs HR-menejmentining asosiy jihatlarini qamrab oladi: tashkiliy tuzilma va biznes jarayonlarini shakllantirishdan tortib, xodimlarni ishga qabul qilish, moslashtirish va rag‘batlantirishgacha. Yumshoq ko‘nikmalar va raqamli vositalar bilan ishlashga alohida e’tibor qaratiladi (Microsoft Office, MyMehnat, 1C). Siz HR strategiyalari biznesga qanday ta’sir ko‘rsatishi va ularni turli tashkilotlarda samarali qo‘llash haqida tushunchaga ega bo‘lasiz.
 Havola: https://osnovaeducation.uz/hr_school
- 
+
 "Marketingga kirish" bepul kursi
 6 ta video dars davomida siz marketolog nima bilan shug‘ullanishi, O‘zbekiston bozorining o‘ziga xos xususiyatlari, kasbda dastlabki qadamlarni qanday qo‘yish va marketologlarning kelajak istiqbollari haqida bilib olasiz.
- 
+
 Havola: https://osnovaeducation.uz/marketing_free_course
- 
+
 "HR sohasiga kirish" bepul kursi
 Biz maxsus "HR sohasiga kirish" mini-kursini tayyorladik. Unda 6 ta dars davomida kasb, uning o‘ziga xos xususiyatlari, O‘zbekistondagi talab va imkoniyatlar haqida ma’lumot olasiz.
- 
+
 Havola: https://osnovaeducation.uz/hr_free_course
- 
+
 "Karyera boshlash" bepul kursi
 Ish qidirish, shaxslararo muloqot ko‘nikmalari, karyera maslahatlari va karyera tanlash bo‘yicha bilim beradi. Yosh mutaxassislarga samarali rezyume tuzish, suhbatdan muvaffaqiyatli o‘tish va tajribasiz holda ish topish yo‘llarini o‘rgatadi.
 Havola: https://osnovaedu.uz/start_v_karyere
- 
+
 O‘zbek tilidagi pullik kurslar:
 SMM menejeri kasbi
 Loyiha menejeri kasbi
@@ -40,13 +93,13 @@ Figma’da ishlash
 Tilda’da veb-saytlar yaratish
 Midjourney’da tasvirlar generatsiyasi
 Marketing asoslari
- 
+
 Har bir kurs haqida batafsil ma’lumot
- 
+
 SMM menejeri kasbi
 Marketing sohasidagi eng mashhur kasblardan birini egallang! Brendlarni targ‘ib qilish, kontent yaratish, reklamalarni boshqarish va influenserlar bilan ishlashni o‘rganing.
 O‘qishni tugatgach, quyidagilarga ega bo‘lasiz:
- Ijtimoiy tarmoqlar va reklama kampaniyalari bilan ishlash ko‘nikmalari
+Ijtimoiy tarmoqlar va reklama kampaniyalari bilan ishlash ko‘nikmalari
  SMM strategiyalarini ishlab chiqish qobiliyati
  Grafik va video kontent yaratish mahorati
  Kursni tugatganlik haqida sertifikat
@@ -54,44 +107,43 @@ Davomiyligi: 19 ta onlayn video dars
 Narxi: 720 000 so‘m
 Batafsil ma’lumot: osnovaedu.uz/smm-in-uzbek
  
- 
 Loyiha menejeri kasbi
 Loyihalarni boshqarish va talab yuqori kasbni noldan o‘zlashtiring! O‘quv jarayonida loyiha boshqaruvining asosiy tamoyillarini tushunasiz, rejalashtirish, jamoani boshqarish va vazifalar bajarilishini nazorat qilishni o‘rganasiz.
 O‘qishni tugatgach, quyidagilarga ega bo‘lasiz:
- Loyihalarni rejalashtirish va boshqarish ko‘nikmalari
+Loyihalarni rejalashtirish va boshqarish ko‘nikmalari
  Byudjetlar va xatarlar bilan ishlash qobiliyati
  Jamoani boshqarish va vazifalarni nazorat qilish tajribasi
  Kurs tugatilganligi haqida sertifikat
 Davomiyligi: 15 ta onlayn dars
 Narxi: 720 000 so‘m
  Batafsil ma’lumot: osnovaedu.uz/project-menejer
- 
+
 Midjourney amaliy kursi
 Noyob tasvirlar yaratish uchun sun’iy intellektni o‘zlashtiring! Kurs sizga Midjourney neyron tarmog‘i bilan ishlashni, uslublar, matnlar va parametrlarni boshqarishni, shuningdek, o‘z loyihalaringizda sun’iy intellektdan foydalanishni o‘rgatadi.
 O‘qishni tugatgach, quyidagilarga ega bo‘lasiz:
- Fotorealistik tasvirlar yaratish ko‘nikmalari
+Fotorealistik tasvirlar yaratish ko‘nikmalari
  Uslub, rakurs va yorug‘likni sozlash qobiliyati
  Vizual kontent uchun sun’iy intellekt bilan ishlash tajribasi
  Kurs tugatilganligi haqida sertifikat
 Davomiyligi: 12 ta onlayn dars
 Narxi: 450 000 so‘m
  Batafsil ma’lumot: osnovaedu.uz/midjourneyuz
- 
+
 1C Buxgalteriya + MyMehnat amaliy kursi
 1C va buxgalteriya hisobini noldan o‘zlashtiring! Kurs dasturning asosiy funksiyalarini tushunishga yordam beradi, ish haqi, soliqlar va kadrlar operatsiyalari hisobini yuritishni o‘rgatadi.
 O‘qishni tugatgach, quyidagilarga ega bo‘lasiz:
- 1C va MyMehnat dasturlarida ishlash ko‘nikmalari
+1C va MyMehnat dasturlarida ishlash ko‘nikmalari
  Buxgalteriya va kadrlar hisobini yuritish qobiliyati
  Soliqlar va ish haqini hisoblash bo‘yicha amaliy bilimlar
  Kurs tugatilganligi haqida sertifikat
 Davomiyligi: 7 ta onlayn dars
-Narxi: 395 000 so‘m 
+Narxi: 395 000 so‘m
  Batafsil: osnovaedu.uz/buxgalter-1cuz.
- 
+
 Excel asoslarini o‘rganish bo‘yicha amaliy kurs
 Excelni noldan o‘zlashtiring va jadvallar, hisob-kitoblar hamda ma’lumotlarni tasvirlash bilan samarali ishlashni o‘rganing. Kurs jarayonlarni avtomatlashtirish va ish samaradorligini oshirishga yordam beradi.
 O‘qishni tugatgach, siz quyidagilarga ega bo‘lasiz:
- Jadvallar, formulalar va grafiklar bilan ishlash malakalari
+Jadvallar, formulalar va grafiklar bilan ishlash malakalari
  Ma’lumotlarni tahlil qilish va hisobotlar tayyorlash qobiliyati
  Biznes uchun amaliy shablonlar
  Kursni tugatganlik haqida sertifikat
@@ -101,18 +153,18 @@ Narxi: 450 000 so‘m
 Tilda’da veb-saytlar yaratish bo‘yicha amaliy kurs
 Kodsiz saytlar yaratishni o‘rganing! Tilda platformasida ishlashni, zamonaviy va qulay lendinglar, internet-do‘konlar va portfoliolar yaratishni, shuningdek, saytlarni SEO uchun optimallashtirishni o‘zlashtiring.
 O‘qishni tugatgach, siz quyidagilarga ega bo‘lasiz:
- Tilda va Zero Block bilan ishlash malakalari
+Tilda va Zero Block bilan ishlash malakalari
  Animatsiyalar va interaktiv elementlarni yaratish qobiliyati
  UX/UI dizayn va SEO sozlamalari asoslari
  Kursni tugatganlik haqida sertifikat
 Davomiyligi: 13 ta onlayn dars
 Narxi: 450 000 so‘m
  Batafsil: osnovaedu.uz/tildauz
- 
+
 Figma’da ishlash bo‘yicha amaliy kurs
 Figmani noldan o‘zlashtiring va undan interfeyslar, moslashuvchan maketlar va dizayn tizimlarini yaratishda foydalaning. Kurs sizga raqamli dizaynda ishonchli ishlashni va loyihalardan daromad olishni boshlashga yordam beradi.
 O‘qishni tugatgach, siz quyidagilarga ega bo‘lasiz:
- Interfeyslarni loyihalash va prototiplash malakalari
+Interfeyslarni loyihalash va prototiplash malakalari
  Auto Layout, komponentlar va uslublar bilan ishlash qobiliyati
  Dizayn tizimlari va interaktiv prototiplar yaratish tajribasi
  Kursni tugatganlik haqida sertifikat
@@ -123,94 +175,33 @@ Narxi: 450 000 so‘m
 Marketing asoslari kursi
 Marketing sohasini 7 ta darsda o‘rganing! Kurs sizga strategiyalar, reklama, SMM, raqobatchilar tahlili va samarali marketing kampaniyalarini yaratishni tushunishda yordam beradi.
 O‘qishni tugatgach, quyidagilarga ega bo‘lasiz:
- Bozor, maqsadli auditoriya va raqobatchilarni o‘rganish nima ekanligini bilib olasiz
+Bozor, maqsadli auditoriya va raqobatchilarni o‘rganish nima ekanligini bilib olasiz
  Marketing strategiyalari va media-rejalarni ishlab chiqish ko‘nikmasi
  Payme, Bon, NRG, Texnomart va boshqa kompaniyalarning mamlakatimizdagi yetakchi marketologlarining tajribasi
  Kursni tugatganlik haqida sertifikat
 Davomiyligi: 7 ta onlayn dars
 Narxi: 395 000 so‘m
  Batafsil ma’lumot: osnovaedu.uz/marketingkursi
- 
+
 Shuningdek, sizga Bilimxonada bepul kurslarni o‘tashni taklif qilamiz. Bu o‘zbek tilidagi bepul ta’lim kontentiga ega platforma. Bu yerda o‘zingizni rivojlantirish uchun kurslar, podkastlar va foydali maslahatlar mavjud
 Kurslarga kirish uchun https://osnovaedu.uz/bilimxona
- 
+
 O‘zbek tilidagi bepul kurslar:
 Tanqidiy fikrlash
 Vaqtni boshqarish
 Yetakchilik
 Samarali muloqot
 Karyera boshlash
- 
 
 O‘ziga qaysi kurs mos kelishini bilmaganlar uchun kasbga yo‘naltirish testi mavjud bo‘lib, u kasb va keyingi rivojlanish yo‘nalishini aniqlashga yordam beradi.
- 
+
 Kasbga yo‘naltirish testi:
 Metodika sizning karyera qadriyatlaringiz, ijtimoiy qarashlaringiz va boshqaruv, mustaqillik, kasbiy kompetensiya, tadbirkorlik kabi asosiy kasbiy yo‘nalishlaringizni aniqlashga yordam beradi. Test orqali kasbiy faoliyatdagi kuchli tomonlaringiz va afzalliklaringizni chuqurroq tushunish imkoniyatiga ega bo‘lasiz.
- 
+
 Test rus va o‘zbek tillarida mavjud
 O‘zbek tilidagi testga havola: https://osnovaedu.uz/kasbga-yonaltirish
 Rus tilidagi testga havola: https://osnovaedu.uz/proforientaciya
- 
- 
+
 O‘zbek tilidagi "Karyera boshlash" kursi
- 
 Biz karyera rivojlanishi sohasidagi mutaxassislar hamda sevimli va mashhur Texnoplov va Teacher Azam bloggerlari bilan birgalikda dolzarb va foydali kurs yaratdik. Kursda siz samarali rezyume tuzishni, suhbatlardan muvaffaqiyatli o‘tishni va tajribasiz bo‘lsangiz ham ish topishni o‘rganasiz.
 Havola: https://osnovaedu.uz/karyeraga_birinchi_qadam
- 
-OSNOVA haqida umumiy ma’lumot:
- 
-Osnova — O‘zbekistondagi karyerangiz bo‘yicha ko‘makchingiz. Biz sizga karyerangizni tanlashda yordam beramiz, dolzarb bilim va ko‘nikmalar beramiz, yetakchi kompaniyalar bilan tanishtirамiz va kasbiy hamjamiyat bilan bog‘laymiz.
- 
-Kurslar va yo‘nalishlar:
-Hozirda 20 dan ortiq turli xil kurslar mavjud: SMM, Midjourney, Figma, Tilda, Excel va boshqalar. Batafsil ma’lumotni https://osnovaedu.uz saytidan topishingiz mumkin.
- 
-Ro‘yxatdan o‘tish bo‘limi:
-Ro‘yxatdan o‘tish uchun my.osnovaedu.uz/login havolasiga o‘ting. Telefon raqami yoki elektron pochta orqali qisqa ro‘yxatdan o‘tish atigi bir necha daqiqa vaqtingizni oladi.
- 
-Ro‘yxatdan o‘tish bilan bog‘liq muammolar:
-Xatolik yuz bersa, muammoni tavsiflang yoki ekran suratini yuboring. SMS kelmagan bo‘lsa, aloqa mavjudligini tekshiring, boshqa usulni sinab ko‘ring yoki qayta urinib ko‘ring
- 
-To‘lov usullari:
-O‘qish uchun to‘lovni Click, Payme yoki Alif orqali amalga oshirishingiz mumkin. Shuningdek, Alif yoki Uzum Nasiya orqali 6 yoki 12 oyga foizsiz va qo‘shimcha to‘lovlarsiz bo‘lib to‘lash imkoniyatiga ega bo‘lishingiz mumkin.
- 
-Kasbga yo‘naltirish testi natijalari:
-Testdan o‘tib, to‘lovni amalga oshirganingizdan so‘ng, natijalar "Qiziqishlar" bo‘limida paydo bo‘ladi. Agar natijani ko‘rmasangiz, bizga ekran suratini yuboring va biz uni tekshiramiz
- 
-Texnik muammolar:
- 
-Videodarslar:
-Video ijro etilmasa, Internet aloqasini tekshiring, sahifani qayta yuklang yoki brauzerni almashtiring (Chrome’da eng yaxshi ishlaydi). Agar muammo hal bo‘lmasa, muammoni batafsil tushunishimiz uchun ekran surati yoki videoni yuboring.
- 
-Dars materiallarini yuklash:
-Materiallarni yuklab olish imkoniyati har doim dars oxirida mavjud. Agar topa olmasangiz, kuratorga yoki kurs chatiga murojaat qiling.
- 
-Amaliy topshiriqlar:
-Topshiriqni yuborish uchun tegishli darsga kiring, tekshirish uchun matn yoki faylni yuboring va fikr-mulohaza kuting. Odatda kuratorlar va mentorlar 1 kun ichida javob berishadi.
- 
-Sertifikat olish:
-Darslarning 100% ini ko‘rib chiqib, barcha test va topshiriqlarni bajarganingizdan so‘ng, sertifikat shaxsiy kabinetingizda paydo bo‘ladi. Agar kursni tugatgandan so‘ng sertifikat olmagan bo‘lsangiz, bizga xabar bering va biz uni o‘zimiz yaratib beramiz.
- 
-Umumiy ma’lumotlar ro‘yxati:
-Sayt: https://osnovaedu.uz
-Ta’lim platformasi: https://my.osnovaedu.uz
-Kurslar soni: 15
-To‘lov: Click, Payme, Alif yoki Uzum orqali bo‘lib to‘lash
-Ro‘yxatdan o‘tish: Telefon raqami yoki elektron pochta orqali
-Qo‘llab-quvvatlash: Kuratorlar va chat
- 
-OSNOVA - foydalanuvchilar my.osnovaedu.uz/login manzili orqali ro‘yxatdan o‘ta oladigan ta’lim platformasidir. To‘lovlar Click, Payme, Alif yoki Uzum Nasiya orqali amalga oshiriladi, shuningdek 6 yoki 12 oyga foizsiz bo‘lib to‘lash imkoniyati ham taqdim etiladi.
- 
-Platforma sizga kursni tanlashda yordam beradigan bepul kasbga yo‘naltirish testini taklif qiladi. Test natijalari "Qiziqishlar" bo‘limida aks ettiriladi. Texnik muammolar yuzaga kelganda sahifani qayta yuklash yoki boshqa brauzerdan foydalanish tavsiya etiladi. Kurs materiallarini har bir darsdan so‘ng yuklab olish, amaliy topshiriqlarni esa matn yoki fayl ko‘rinishida topshirish mumkin. Sertifikat olish uchun barcha darslarni to‘liq o‘tib, hamma test va topshiriqlarni bajarish lozim. Shundan so‘ng sertifikat shaxsiy kabinetingizda paydo bo‘ladi.
- 
-Mijozlarga xizmat ko‘rsatish bo‘limi chat-bot orqali yordam beradi. Mijoz kurslar haqida ma’lumot olish, OSNOVA platformasi to‘g‘risida ko‘proq bilish yoki to‘lov shartlari bilan tanishish uchun botga murojaat qilishi mumkin. Kurs tanlashda ikkilanayotganlarga kursning bepul sinov versiyasi tavsiya etilib, havola yuboriladi.
- 
-Kurs taqdimotida talaba o‘qishni tugatgach qanday bilim va ko‘nikmalarga ega bo‘lishi, shuningdek, kurs haqidagi boshqa foydali ma’lumotlar taqdim etiladi.
- 
-Narxlar bo‘yicha savollaringiz bo‘lsa, sizga to‘lovni bo‘lib-bo‘lib to‘lash yoki mavjud aksiyalar haqida ma’lumot beriladi.
- 
-Agar mijoz kursga vaqt ajrata olmasligidan xavotirda bo‘lsa, unga istalgan paytda o‘qish va sertifikat olish imkoniyati borligini eslatib o‘tiladi.
- 
-To‘lovni amalga oshirish uchun mijozga maxsus havola yoki menejer bilan bog‘lanish imkoniyati taqdim etiladi. Kursga qiziqish bildirgan foydalanuvchilarga 24 soat ichida 7 kunlik kafolat haqida eslatma, 3 kun ichida esa qo‘shimcha ma’lumot va aksiyalar bilan takroriy xabarnoma yuboriladi.
- 
-Agar mijoz pulini qaytarishni so‘rasa, avvalo qaytarish sabablari aniqlanadi va pulni qaytarishdan oldin bu masalani hal qila olish-olmasligimiz so‘raladi. Agar mijoz rozi bo‘lmasa va pulini qaytarishni talab qilsa, unga maxsus shaklni to‘ldirish taklif qilinadi va havola yuboriladi.
-

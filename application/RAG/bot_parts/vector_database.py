@@ -16,9 +16,6 @@ class WeaviateDatabase:
 
         self.headers = {"X-VoyageAI-Api-Key": settings.VOYAGE_API_KEY}
         
-        self.client = self._create_client()
-        self.client.collections.delete_all()
-        
         self.voyage_model = voyage_model
         self.voyageAi = VoyageEmbeddings(api_key=settings.VOYAGE_API_KEY, model=voyage_model)
 
@@ -29,6 +26,8 @@ class WeaviateDatabase:
 
     def _initialize_collections(self):
         with self._create_client() as client:
+
+            client.collections.delete_all()
 
             print("Existing collections:", client.collections.list_all())
             collections = {}
@@ -119,7 +118,7 @@ class WeaviateDatabase:
                 query=query,
                 limit=limit,
                 vector=vector,
-                alpha=0.3,
+                alpha=0.7,
                 query_properties=["chunk_text"]
             )
             return [obj.properties.get('chunk_text', '') for obj in response.objects]

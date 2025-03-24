@@ -7,7 +7,7 @@ DATA_PATH = settings.DATA_PATH
 
 
 CHUNK_SIZE = 1000
-OVERLAP_CHUNKS = 5 # 5 sentence overlap
+OVERLAP_CHUNKS = 0
 
 
 

@@ -14,18 +14,15 @@ def split_text(text, chunk_size=800, overlap_sentences=1, separators=['\n\n', '.
         list: A list of text chunks.
     """
     chunks = []
-    paragraphs = text.split('\n\n')  # Split text into paragraphs
+    paragraphs = text.split('\n\n')
 
     for paragraph in paragraphs:
         if len(paragraph) <= chunk_size:
-            # If the paragraph is smaller than chunk_size, treat it as a single chunk
             chunks.append(paragraph)
         else:
-            # Split the paragraph into sentences
             sentences = []
             temp_text = paragraph
             while temp_text:
-                # Find the best split point for the next sentence
                 best_split = -1
                 for separator in separators:
                     if separator == "":
@@ -37,21 +34,17 @@ def split_text(text, chunk_size=800, overlap_sentences=1, separators=['\n\n', '.
                         best_separator = separator
 
                 if best_split == -1 or best_separator == "":
-                    # If no separator is found, treat the remaining text as a sentence
                     sentences.append(temp_text)
                     break
                 else:
-                    # Split at the best separator
                     sentence = temp_text[:best_split + len(best_separator)]
                     sentences.append(sentence)
                     temp_text = temp_text[best_split + len(best_separator):]
 
-            # Build chunks from sentences, ensuring context is preserved
             current_chunk = []
             current_length = 0
             for i, sentence in enumerate(sentences):
                 if current_length + len(sentence) <= chunk_size:
-                    # Add the sentence to the current chunk
                     current_chunk.append(sentence)
                     current_length += len(sentence)
                 else:
