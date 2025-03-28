@@ -1,27 +1,8 @@
 import openai
 from django.conf import settings
-from langdetect import detect_langs
 
 openai.api_key = settings.OPENAI_API_KEY
 openai_model = "gpt-4o"
-
-def language_detection(query: str) -> str:
-    """
-    Detect language of input text and return standardized language code.
-    Returns 'en' for English and similar languages,
-    'ru' for Russian, and 'uz' as default.
-    """
-
-    lang_list = detect_langs(query)
-
-    for lang in lang_list[:1]:
-        lang_str = str(lang).split(':')[0]
-        lang_num = float(str(lang).split(':')[1])
-        #if lang_str in ['en', 'fi']:
-        #    return 'en'
-        if (lang_str in ['ru'] and lang_num > 0.85) or (lang_str in ['mk'] and lang_num > 0.80): 
-            return 'ru'
-    return 'uz'
 
 def call_openai_with_functions(model_name: str, messages: str, api_key: str, system_instruction: str) -> list[str]:
     client = openai.OpenAI(api_key=api_key)
@@ -43,7 +24,7 @@ def contextualize_question(chat_history: list, latest_question: str, company_nam
     chat_history = chat_history[-3:] if len(chat_history) > 3 else chat_history
     result = {}
     system_instruction = (
-        f"Your role is to reformulate user requests with precision for a sales assistant bot at {company_name}, adapting them based on their clarity and relevance, in the exact language of the *Latest question*. All reformulations must be phrased as questions, text, or requests from the user to the assistant bot. Follow these steps:\n\n"
+        f"Your role is to reformulate user requests with precision for a sales assistant bot at {company_name} in {lang} langauge, adapting them based on their clarity and relevance, in the exact language of the *Latest question*. All reformulations must be phrased as questions, text, or requests from the user to the assistant bot. Follow these steps:\n\n"
         "1. **General Conversational Questions**:\n"
         "   - If the *Latest question* is a greeting, casual remark, or general conversation (e.g., 'Hi there', 'How you doing?', 'Nice day'), do not broaden it; instead, output **1 grammatically corrected version** of the original text as a user request to the bot, without tying it to {company_name}.\n"
         "   - Example: 'Hi' becomes 'Hi!' (in the *Latest question*’s language).\n"
@@ -75,13 +56,12 @@ def contextualize_question(chat_history: list, latest_question: str, company_nam
         system_instruction=system_instruction
     ))
 
-    result["lang"] = language_detection(result["text"][0])
+    result["lang"] = lang
     
     return result
 
 def answer_question(context: list, reformulations: list[str], user_question: str, company_name: str, chat_history: list, lang: str):
     chat_history = chat_history[-3:] if len(chat_history) > 3 else chat_history
-    lang = language_detection(reformulations[0])
     system_instruction = f"""
 You are a professional sales manager for {company_name}, assisting users primarily in {lang}. If {lang} is undefined or invalid, use the exact language of the *Main question*. Default to Uzbek if both {lang} and the *Main question’s language are unclear. Your role is to assist customers by answering the *Main question* directly in {lang} with kindness and a human-like tone, using *Company Data* for product details, pricing, and availability, and *Chat history* for context, while addressing sales-related queries in a friendly way. Never greet the user unless explicitly required by the *Main question*.
 
