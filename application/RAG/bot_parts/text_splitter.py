@@ -24,6 +24,9 @@ def split_text(text, chunk_size=800, overlap_sentences=1, separators=['\n\n', '.
             temp_text = paragraph
             while temp_text:
                 best_split = -1
+                # Initialize best_separator to avoid UnboundLocalError if no
+                # separator is found in the current text chunk
+                best_separator = ""
                 for separator in separators:
                     if separator == "":
                         break
