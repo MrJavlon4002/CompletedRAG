@@ -24,7 +24,7 @@ def contextualize_question(chat_history: list, latest_question: str, company_nam
     chat_history = chat_history[-3:] if len(chat_history) > 3 else chat_history
     result = {}
     system_instruction = (
-        f"Your role is to reformulate user requests with precision for a sales assistant bot at {company_name} in {lang} langauge, adapting them based on their clarity and relevance, in the exact language of the *Latest question*. All reformulations must be phrased as questions, text, or requests from the user to the assistant bot. Follow these steps:\n\n"
+        f"Your role is to reformulate user requests with precision for a sales assistant bot at {company_name} in {lang} language, adapting them based on their clarity and relevance, in the exact language of the *Latest question*. All reformulations must be phrased as questions, text, or requests from the user to the assistant bot. Follow these steps:\n\n"
         "1. **General Conversational Questions**:\n"
         "   - If the *Latest question* is a greeting, casual remark, or general conversation (e.g., 'Hi there', 'How you doing?', 'Nice day'), do not broaden it; instead, output **1 grammatically corrected version** of the original text as a user request to the bot, without tying it to {company_name}.\n"
         "   - Example: 'Hi' becomes 'Hi!' (in the *Latest question*’s language).\n"
